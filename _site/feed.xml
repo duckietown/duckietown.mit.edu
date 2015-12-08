@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duckietown</title>
+    <description>Duckietown
+</description>
+    <link>http://duckietown.mit.edu//</link>
+    <atom:link href="http://duckietown.mit.edu//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Dec 2015 21:01:28 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2015 21:01:28 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Online</title>
+        <description>&lt;p&gt;Website is online.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://duckietown.mit.edu//2015/12/07/online.html</link>
+        <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/07/online.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
