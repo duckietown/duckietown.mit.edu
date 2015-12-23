@@ -57,7 +57,7 @@ The class has very limited enrollment. If you are interested,
 
 <h2>Contacts</h2>
 
-<p>Please contact <a href="mailto:duckietown@mit.edu ">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</p>
+<p>Please <a href="mailto:duckietown@mit.edu ">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</p>
 
 <!-- All these links are Google Docs documents 
 on which everybody can comment:
