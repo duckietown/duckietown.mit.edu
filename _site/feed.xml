@@ -6,9 +6,22 @@
 </description>
     <link>http://duckietown.mit.edu//</link>
     <atom:link href="http://duckietown.mit.edu//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Dec 2015 21:01:28 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2015 21:01:28 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2015 17:37:57 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2015 17:37:57 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Elves</title>
+        <description>&lt;p&gt;&lt;em&gt;Below, the Elves build the robots that are going to be used for the class. &lt;a href=&quot;http://groups.csail.mit.edu/rrg/&quot;&gt;Prof. Roy&lt;/a&gt; appears to offer useful advice.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/149916365&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 23 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://duckietown.mit.edu//2015/12/23/elves.html</link>
+        <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/23/elves.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Online</title>
