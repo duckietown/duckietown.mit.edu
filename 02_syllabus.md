@@ -5,4 +5,4 @@ permalink: /syllabus/
 ---
 
 
-(to write)
+(Syllabus and lecture plan to be released soon.)
