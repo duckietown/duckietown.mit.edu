@@ -6,9 +6,40 @@
 </description>
     <link>http://duckietown.mit.edu//</link>
     <atom:link href="http://duckietown.mit.edu//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Dec 2015 12:36:04 -0500</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2015 12:36:04 -0500</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2015 12:41:50 -0500</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2015 12:41:50 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Duckietown d558</title>
+        <description>&lt;p&gt;Duckietown being built in 558&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;media/20151229-duckietown558.jpg&quot; style=&quot;width: 40%;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://duckietown.mit.edu//2015/12/30/Duckietown%20D558.html</link>
+        <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/30/Duckietown%20D558.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Perception</title>
+        <description>&lt;p&gt;April tags detector&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;media/20151229-april-tags.jpg&quot; style=&quot;width: 40%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Line detector&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;media/20151229-line-detector.jpg&quot; style=&quot;width: 40%;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://duckietown.mit.edu//2015/12/29/Perception.html</link>
+        <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/29/Perception.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Christmas_tree_functionality</title>
