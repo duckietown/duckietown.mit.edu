@@ -6,9 +6,35 @@
 </description>
     <link>http://duckietown.mit.edu//</link>
     <atom:link href="http://duckietown.mit.edu//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Dec 2015 20:41:47 -0500</pubDate>
-    <lastBuildDate>Wed, 23 Dec 2015 20:41:47 -0500</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2015 12:36:04 -0500</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2015 12:36:04 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Christmas_tree_functionality</title>
+        <description>&lt;p&gt;The Christmas tree functionality is ready (a couple of days late)&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/150268819&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 29 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://duckietown.mit.edu//2015/12/29/Christmas_tree_functionality.html</link>
+        <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/29/Christmas_tree_functionality.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Future</title>
+        <description>&lt;p&gt;MIT 2.166: Training the roboticists of the future&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/150075068&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://duckietown.mit.edu//2015/12/26/future.html</link>
+        <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/26/future.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Elves</title>
@@ -19,6 +45,20 @@
         <pubDate>Wed, 23 Dec 2015 00:00:00 -0500</pubDate>
         <link>http://duckietown.mit.edu//2015/12/23/elves.html</link>
         <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/23/elves.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First_steps</title>
+        <description>&lt;p&gt;First tests for the camera&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;media/outside.jpg&quot; style=&quot;width: 40%;&quot; /&gt;
+&lt;img src=&quot;media/inside.jpg&quot; style=&quot;width: 40%;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://duckietown.mit.edu//2015/12/15/first_steps.html</link>
+        <guid isPermaLink="true">http://duckietown.mit.edu//2015/12/15/first_steps.html</guid>
         
         
       </item>

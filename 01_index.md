@@ -46,9 +46,6 @@ Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Scien
 <li>Syllabus and list of lectures are coming soon.</li>
 </ul>
 
-<img src='media/outside.jpg' style='width: 40%;'/>
-<img src='media/inside.jpg' style='width: 40%;'/>
-
 <h2>Sign up</h2>
 
 The class has very limited enrollment. If you are interested, 
