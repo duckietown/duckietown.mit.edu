@@ -4,7 +4,7 @@ title: Home
 permalink: index.html
 ---
 
-<h1 style="margin-top:-1em">MIT 2.166/ 6.S897 - Autonomous Vehicles</h1>
+<h1 style="margin-top:-1em">MIT 2.166/ 6.S??? - Autonomous Vehicles</h1>
 
 <p style='color: red; font-weight:bold'>For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
 </p>
@@ -30,7 +30,7 @@ A couple of weeks later, the Duckieland Ministry of Transportation gives you the
 <li>This is a <strong>collaborative</strong> effort: 2 Labs (<A href="http://www.csail.mit.edu/">CSAIL</A> and <a href="http://www.lids.mit.edu">LIDS</a>), 3 Departments (ME, AeroAstro, EECS), and over a dozen people helped created this class, under the supervision of Prof. <a href="http://marinerobotics.mit.edu/">John Leonard</a> and Prof. <a href="http://www.mit.edu/~jhow/">John How</a>.
 </li>
 <li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
-<li>AA and EECS students welcome (6.S897-6.S899 with Prof. Rus as sponsor) </li>
+<li>AA and EECS students welcome (6.S??? with Prof. Rus as sponsor) </li>
 <li>
 First Class: Wed, February 3, 3PM, 1-246. Lectures Mon, Wed 3-5pm. Lab Fri TBA. 12 units. 
 </li>
