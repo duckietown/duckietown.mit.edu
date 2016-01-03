@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Updates
+title: Blog
+permalink: updates.html
 ---
 
 

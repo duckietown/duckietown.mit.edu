@@ -4,13 +4,13 @@ title: Home
 permalink: index.html
 ---
 
-<h1 style="margin-top:-1em">MIT 2.166/ 6.S??? - Autonomous Vehicles</h1>
+<h1 style="margin-top:-1em">MIT 2.166 - Autonomous Vehicles</h1>
 
 For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
 The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 
-<div style='text-align: center; margin: 3em'><img src='media/banner.jpg' style='width: 100%;'/></div>
-
+<!-- <div style='text-align: center; margin: 3em'><img src='media/banner.jpg' style='width: 100%;'/></div>
+ -->
 
 <!-- 
 Backstory: Duckietown is a pleasant little town in the sovereign state of Duckieland. 
