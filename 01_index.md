@@ -39,12 +39,7 @@ Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Scien
 </li>
 </ul>
 
-
-
-<h2>Topics</h2>
-<ul>
-<li>Syllabus and list of lectures are coming soon.</li>
-</ul>
+More information: <a href="/syllabus/">syllabus</a>.
 
 <h2>Sign up</h2>
 
@@ -68,7 +63,7 @@ on which everybody can comment:
 
   <!-- <h1 class="page-heading">News</h1> -->
 
-  <h2 style='margin-top: 5em'> News </h2>
+  <!-- <h2 style='margin-top: 5em'> News </h2> -->
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -84,6 +79,21 @@ on which everybody can comment:
   </ul>
 <!-- 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div style='width: 800px !'>
+<div class="fb-page" data-href="https://www.facebook.com/Duckietown-1003517843021035" 
+data-tabs="timeline" data-width="800" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div></div>
+
 
 </div>
  
