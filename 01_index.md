@@ -6,7 +6,7 @@ permalink: index.html
 
 <h1 style="margin-top:-1em">MIT 2.166/ 6.S??? - Autonomous Vehicles</h1>
 
-<p style='color: red; font-weight:bold'>For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
+<p>For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
 </p>
 
 
@@ -49,7 +49,7 @@ The class has very limited enrollment. If you are interested,
 
 <h2>Contacts</h2>
 
-<p>Please <a href="mailto:duckietown@mit.edu ">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</p>
+<p>Please <a href="mailto:duckietown@mit.edu">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</p>
 
 <!-- All these links are Google Docs documents 
 on which everybody can comment:
