@@ -6,10 +6,7 @@ permalink: index.html
 
 <h1 style="margin-top:-1em">MIT 2.166/ 6.S??? - Autonomous Vehicles</h1>
 
-<p>For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
-</p>
-
-
+For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
 The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 
 <div style='text-align: center; margin: 3em'><img src='media/banner.jpg' style='width: 100%;'/></div>
@@ -39,17 +36,19 @@ Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Scien
 </li>
 </ul>
 
-More information: <a href="/syllabus/">syllabus</a>; <a href='/updates/'>updates</a>.
+More information: 
 
-<h2>Sign up</h2>
-
-The class has very limited enrollment. If you are interested, 
-[please sign up at this form](https://docs.google.com/forms/d/16Ky_82MFX-vByKSyiLiUrvUXbFAWbzJylRi-G2lmdFM/viewform).
-
-
-<h2>Contacts</h2>
-
-<p>Please <a href="mailto:duckietown@mit.edu">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</p>
+<ul>
+  <li><strong><a href="syllabus.html">Syllabus</a></strong></li>
+  <li><strong><a href='updates.html'>News and updates</a></strong>: follow us on Facebook:
+  <a style='font-family: monospace; font-weight: bold' href="http://facebook.com/duckietown">facebook.com/duckietown</a>.</li>
+  <li><strong><a href="signup.html">Sign up</a></strong>:
+  The class has very limited enrollment. If you are interested, 
+  <a href="https://docs.google.com/forms/d/16Ky_82MFX-vByKSyiLiUrvUXbFAWbzJylRi-G2lmdFM/viewform">please sign up at this form</a>.
+  </li>
+  <li><strong>Contacts:</strong> 
+  Please <a href="mailto:duckietown@mit.edu">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</li>
+</ul>
 
 
 
