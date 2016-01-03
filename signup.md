@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join
+title: Sign up
 ---
 
 

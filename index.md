@@ -39,7 +39,7 @@ Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Scien
 </li>
 </ul>
 
-More information: <a href="/syllabus/">syllabus</a>.
+More information: <a href="/syllabus/">syllabus</a>; <a href='/updates/'>updates</a>.
 
 <h2>Sign up</h2>
 
@@ -51,10 +51,16 @@ The class has very limited enrollment. If you are interested,
 
 <p>Please <a href="mailto:duckietown@mit.edu">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</p>
 
+
+
+<iframe src="https://player.vimeo.com/video/149916365" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 <!-- All these links are Google Docs documents 
 on which everybody can comment:
 
 - [Syllabus][syllabus]
+
 
 
 [syllabus]: https://docs.google.com/document/d/1xkYod3ZepC3oMLTH-YCdMXlJRDWUQ8w14ROIh0yDsOE/edit -->
@@ -79,22 +85,3 @@ on which everybody can comment:
   </ul>
 <!-- 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div style='width: 800px !'>
-<div class="fb-page" data-href="https://www.facebook.com/Duckietown-1003517843021035" 
-data-tabs="timeline" data-width="800" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div></div>
-
-
-</div>
- 
-
