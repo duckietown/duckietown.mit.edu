@@ -51,8 +51,13 @@ More information:
 </ul>
 
 
+The elves who created the robot:
 
 <iframe src="https://player.vimeo.com/video/149916365" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+The roboticists of the future:
+
+<iframe src="https://player.vimeo.com/video/150075068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 <!-- All these links are Google Docs documents 
