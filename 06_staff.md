@@ -42,8 +42,16 @@ h1 {display: none;}
 
 	<tr>
 	<td><img class="person" src="/media/nsf.jpg"/></td>
-	<td>National Science Foundations, <br/> 
-	<a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503641">National Robotics Initiative</a></td>
+	<td>National Science Foundation <br/> 
+	<a href="">Information &amp; Intelligent Systems (IIS)</a>
+	<br/><br/>
+		<a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503641">
+			National Robotics Initiative
+		</a> <br/>
+		<a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503305">
+			Robust Intelligence
+		</a> 
+		</td>
 	</tr>
 	
 	<tr class='roles'> <td> <strong>Advisory Board</strong> </td> </tr>

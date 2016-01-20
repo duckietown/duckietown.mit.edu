@@ -9,6 +9,12 @@ permalink: index.html
 For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
 The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 
+<ul>
+<li>This is a class for <tt><strong>makers &amp;&amp; thinkers </strong></tt></li>
+<li>This is a <strong>collaborative</strong> effort: 2 Labs (<A href="http://www.csail.mit.edu/">CSAIL</A> and <a href="http://www.lids.mit.edu">LIDS</a>), 3 Departments (ME, AeroAstro, EECS), and over a dozen people helped created this class, under the supervision of Prof. <a href="http://marinerobotics.mit.edu/">John Leonard</a> and Prof. <a href="http://www.mit.edu/~jhow/">John How</a>.
+</li>
+<li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
+</ul>
 
 <iframe src="https://player.vimeo.com/video/152233002" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -25,34 +31,40 @@ A couple of weeks later, the Duckieland Ministry of Transportation gives you the
  -->
  
 
+
+Information for MIT students:
+
 <ul>
-<li>This is a class for <tt><strong>makers &amp;&amp; thinkers </strong></tt></li>
-<li>This is a <strong>collaborative</strong> effort: 2 Labs (<A href="http://www.csail.mit.edu/">CSAIL</A> and <a href="http://www.lids.mit.edu">LIDS</a>), 3 Departments (ME, AeroAstro, EECS), and over a dozen people helped created this class, under the supervision of Prof. <a href="http://marinerobotics.mit.edu/">John Leonard</a> and Prof. <a href="http://www.mit.edu/~jhow/">John How</a>.
-</li>
-<li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
-<li>AA and EECS students welcome</li>
-<li>
-First Class: Wed, February 3, 3PM, 1-246. <strong>Attendance to first class required. Limited enrollment. 
-Admission based on questionnaire (<a href="signup.html">sign up page</a>)</strong>.
-</li>
-<li>12 units</li>
-<li>Lectures MW 3-5pm, 1-246</li>
-<li>Lab Fri 10am-1pm, at Beaverworks</li>
-<li>
-Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Science and Systems I)</a> or equivalent experience.
-</li>
+  <li>AA and EECS students welcome</li>
+  <li>
+  First Class: Wed, February 3, 3PM, 1-246. <strong>Attendance to first class required. Limited enrollment. 
+  Admission based on questionnaire (<a href="signup.html">sign up page</a>)</strong>.
+  </li>
+  <li>12 units</li>
+  <li>Lectures MW 3-5pm, 1-246</li>
+  <li>Lab Fri 10am-1pm, at Beaverworks</li>
+  <li>
+  Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Science and Systems I)</a> or equivalent experience.
+  </li>
+  <li><strong><a href="signup.html">Sign up</a></strong>:
+  The class has very limited enrollment. If you are interested, 
+  <a href="https://docs.google.com/forms/d/16Ky_82MFX-vByKSyiLiUrvUXbFAWbzJylRi-G2lmdFM/viewform">please sign up at this form</a>.
+  </li>
+</ul>
+
+Important documents (feel free to comment on these Google Docs documents):
+
+<ul>
+  <li><strong><a href="https://docs.google.com/document/d/1xkYod3ZepC3oMLTH-YCdMXlJRDWUQ8w14ROIh0yDsOE/edit?usp=sharing">Syllabus</a></strong></li>
+  <li><strong><a href="https://docs.google.com/spreadsheets/d/1wRWIW5EvdETYPu2ZRhDElMABn3WNNEezLou5k_D_WGw/edit?usp=sharing">Lecture and activity plan</a></strong></li>
 </ul>
 
 More information: 
 
 <ul>
-  <li><strong><a href="https://docs.google.com/document/d/1xkYod3ZepC3oMLTH-YCdMXlJRDWUQ8w14ROIh0yDsOE/edit?usp=sharing">Syllabus</a></strong></li>
+  
   <li><strong><a href='updates.html'>News and updates</a></strong>: follow us on Facebook:
   <a style='font-family: monospace; font-weight: bold' href="http://facebook.com/duckietown">facebook.com/duckietown</a>.</li>
-  <li><strong><a href="signup.html">Sign up</a></strong>:
-  The class has very limited enrollment. If you are interested, 
-  <a href="https://docs.google.com/forms/d/16Ky_82MFX-vByKSyiLiUrvUXbFAWbzJylRi-G2lmdFM/viewform">please sign up at this form</a>.
-  </li>
   <li><strong>Contacts:</strong> 
   Please <a href="mailto:duckietown@mit.edu">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</li>
   <li><strong><a href="staff.html">Staff</a></strong> </li>
