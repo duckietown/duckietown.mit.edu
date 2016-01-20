@@ -42,7 +42,7 @@ Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Scien
 More information: 
 
 <ul>
-  <li><strong><a href="syllabus.html">Syllabus</a></strong></li>
+  <li><strong><a href="https://docs.google.com/document/d/1xkYod3ZepC3oMLTH-YCdMXlJRDWUQ8w14ROIh0yDsOE/edit?usp=sharing">Syllabus</a></strong></li>
   <li><strong><a href='updates.html'>News and updates</a></strong>: follow us on Facebook:
   <a style='font-family: monospace; font-weight: bold' href="http://facebook.com/duckietown">facebook.com/duckietown</a>.</li>
   <li><strong><a href="signup.html">Sign up</a></strong>:
