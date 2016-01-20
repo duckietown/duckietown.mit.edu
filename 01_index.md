@@ -32,12 +32,12 @@ A couple of weeks later, the Duckieland Ministry of Transportation gives you the
 <li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
 <li>AA and EECS students welcome</li>
 <li>
-First Class: Wed, February 3, 3PM, 1-246. Attendance required. Limited enrollment. 
-Admission based on questionnaire (<a href="signup.html">sign up page</a>).
+First Class: Wed, February 3, 3PM, 1-246. <strong>Attendance to first class required. Limited enrollment. 
+Admission based on questionnaire (<a href="signup.html">sign up page</a>)</strong>.
 </li>
 <li>12 units</li>
-<li>Lectures MW 3-5pm 1-246</li>
-<li>Lab Fri 10am-1pm Beaverworks</li>
+<li>Lectures MW 3-5pm, 1-246</li>
+<li>Lab Fri 10am-1pm, at Beaverworks</li>
 <li>
 Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Science and Systems I)</a> or equivalent experience.
 </li>
