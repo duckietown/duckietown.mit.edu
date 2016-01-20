@@ -9,6 +9,9 @@ permalink: index.html
 For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
 The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 
+
+<iframe src="https://player.vimeo.com/video/152233002" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <!-- <div style='text-align: center; margin: 3em'><img src='media/banner.jpg' style='width: 100%;'/></div>
  -->
 
@@ -48,6 +51,7 @@ More information:
   </li>
   <li><strong>Contacts:</strong> 
   Please <a href="mailto:duckietown@mit.edu">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</li>
+  <li><strong><a href="staff.html">Staff</a></strong> </li>
 </ul>
 
 

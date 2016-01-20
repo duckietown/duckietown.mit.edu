@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Duckietown Engineering"
+title: "Staff"
 permalink: staff.html
 ---
 
@@ -14,14 +14,18 @@ tr.roles td {padding-top: 2em; margin-right: -4em; font-size: 150%;
 color: #004; font-weight: bold; }
 
 table#roster  tr td {padding-top: 2em;}
+h1 {display: none;}
 </style>
+
+<h2 style='margin-top:-3em'> Duckietown Engineering Co. </h2>
+
 
 <table id='roster'>
 	<tr>
 		<td><img class="person" src="/media/staff/leonard.jpg"/></td>
 		<td>
 			<strong>CEO</strong><br/>
-			John Leonard<br/>
+			<a href="https://marinerobotics.mit.edu/">John Leonard</a><br/>
 			MechE/CSAIL <br/><br/>
 		</td>
 	</tr>
@@ -29,7 +33,7 @@ table#roster  tr td {padding-top: 2em;}
 		<td><img class="person" src="/media/staff/how.jpg"/></td>
 		<td>
 			<strong>President &amp; Chairman</strong><br/>
-			<a href="">Jon How</a><br/>
+			<a href="http://www.mit.edu/~jhow/">Jon How</a><br/>
 			AeroAstro/LIDS <br/><br/>
 		</td>
 	</tr>
