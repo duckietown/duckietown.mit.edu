@@ -30,12 +30,16 @@ A couple of weeks later, the Duckieland Ministry of Transportation gives you the
 <li>This is a <strong>collaborative</strong> effort: 2 Labs (<A href="http://www.csail.mit.edu/">CSAIL</A> and <a href="http://www.lids.mit.edu">LIDS</a>), 3 Departments (ME, AeroAstro, EECS), and over a dozen people helped created this class, under the supervision of Prof. <a href="http://marinerobotics.mit.edu/">John Leonard</a> and Prof. <a href="http://www.mit.edu/~jhow/">John How</a>.
 </li>
 <li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
-<li>AA and EECS students welcome (6.S??? with Prof. Rus as sponsor) </li>
+<li>AA and EECS students welcome</li>
 <li>
-First Class: Wed, February 3, 3PM, 1-246. Lectures Mon, Wed 3-5pm. Lab Fri TBA. 12 units. 
+First Class: Wed, February 3, 3PM, 1-246. Attendance required. Limited enrollment. 
+Admission based on questionnaire (<a href="signup.html">sign up page</a>).
 </li>
+<li>12 units</li>
+<li>Lectures MW 3-5pm 1-246</li>
+<li>Lab Fri 10am-1pm Beaverworks</li>
 <li>
-Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Science and Systems 1)</a> or equivalent experience.
+Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Science and Systems I)</a> or equivalent experience.
 </li>
 </ul>
 
