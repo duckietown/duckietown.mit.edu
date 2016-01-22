@@ -16,7 +16,14 @@ The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietow
 <li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
 </ul>
 
-<iframe src="https://player.vimeo.com/video/152233002" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<table><tr><td>
+  <iframe src="https://player.vimeo.com/video/152233002" width="400" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </td><td>
+  <iframe src="https://player.vimeo.com/video/152499589" width="400" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </td>
+  </tr>
+</table>
+
 
 <!-- <div style='text-align: center; margin: 3em'><img src='media/banner.jpg' style='width: 100%;'/></div>
  -->
