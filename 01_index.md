@@ -78,6 +78,11 @@ More information:
 </ul>
 
 
+Our Duckiebot ($100 platform):
+
+<img style='width: 10em;' src='media/mercedes.jpg'/>
+
+
 The elves who created the robot:
 
 <iframe src="https://player.vimeo.com/video/149916365" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
