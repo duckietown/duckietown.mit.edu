@@ -14,6 +14,7 @@ tr.roles td {padding-top: 2em; margin-right: -4em; font-size: 150%;
 color: #004; font-weight: bold; }
 
 table#roster  tr td {padding-top: 2em;}
+tr#first {display: none;}
 h1 {display: none;}
 </style>
 
@@ -21,6 +22,7 @@ h1 {display: none;}
 
 
 <table id='roster'>
+	<tr class='roles' id="first" colspan="2"> <td> <strong>Duckietown Engineering Co.</strong> </td> </tr>
 	<tr>
 		<td><img class="person" src="media/staff/leonard.jpg"/></td>
 		<td>
@@ -86,8 +88,7 @@ h1 {display: none;}
 		<td><img class="person" src="media/staff/censi.jpg"/></td>
 		<td class='bio'>
 			<strong>Chief Technology Officer </strong><br/>
-			<a href="http://censi.mit.edu/">Andrea Censi</a> <br/>
-			MIT / <a href="http://lids.mit.edu/">LIDS</a> <br/><br/>
+			<a href="http://censi.mit.edu/">Andrea Censi</a> <br/><br/>
 
 			(Supported by NSF, National Robotics Initiative.)
 		</td>
@@ -97,8 +98,8 @@ h1 {display: none;}
 		<td><img class="person" src="media/staff/paull.jpg"/></td> 
 		<td class='bio'>
 			<strong>Chief Operating Officer</strong><br/>
-			<a href="http://people.csail.mit.edu/lpaull/">Liam Paull</a> <br/>
-			CSAIL <br/><br/>
+			<a href="http://people.csail.mit.edu/lpaull/">Liam Paull</a> 
+			<br/><br/>
 
 			<br/>
 		</td>
