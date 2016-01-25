@@ -62,6 +62,7 @@ Information for MIT students:
 Important documents (feel free to comment on these Google Docs documents):
 
 <ul>
+  <li><a href="materials.html">This is the authoritative list of all important documents.</a></li>
   <li><strong><a href="https://docs.google.com/document/d/1xkYod3ZepC3oMLTH-YCdMXlJRDWUQ8w14ROIh0yDsOE/edit?usp=sharing">Syllabus</a></strong></li>
   <li><strong><a href="https://docs.google.com/spreadsheets/d/1wRWIW5EvdETYPu2ZRhDElMABn3WNNEezLou5k_D_WGw/edit?usp=sharing">Lecture and activity plan</a></strong></li>
 </ul>
