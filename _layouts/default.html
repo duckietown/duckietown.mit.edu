@@ -4,58 +4,38 @@
   {% include head.html %}
 
   <body>
+ 
+   <table border=0 cellborder=0 style='width: 100%'> 
+     <tr>
+      <td style='text-align: right; width: 15em' valign='top'> 
 
-    <!-- % include header.html % -->
-    <!-- <p style='color:red'>Temporary pages - please check back in a few days.</p> -->
 
-    <table border=0 cellborder=0 style='width: 100%'>
-    <tr style='height: 7em'>
-    <td style='text-align: right;'>
-    <!-- <p>shorttitle = {{page.shorttitle}}</p> -->
-      <span style='color: black; font-weight: bold'>MIT 2.166<br/>&ldquo;Autonomous<br/>Vehicles&rdquo;<br/>
-      (Duckietown)</span>
-    
+   
+         {% include nav.html %}
+     <div style='text-align: center'>
+          <img style='width: 90% ' src='media/Logo4-mit-2.166-duckietown.jpg'/>
+        </div>
+         
+
+
     </td>
-    <td style='padding-left: 5em;'>
-    {% if page.title != 'Home' %} 
-      <h1>{{ page.title }}</h1>
+    <td style=' padding-left: 3em' valign='top'>
+
+
+    {% if page.title != 'Home22' %} 
+      <h1 >{{ page.title }}</h1>
     {% else %}
       
     {% endif %}
 
 
-    </td>
-    </tr>
-    <tr>
-    <td style='width: 12em; valign: top;' valign='top'>
-    {% include nav.html %}
-
-<!--
-        <div style='text-align: center; margin-top: 2em; margin-right: -4em'>
-
-        <img style='width: 90% ' src='media/mercedes.jpg'/>
-          <br/>
-            <img style='width: 90% ; margin-top: 3em' src='media/road.jpg'/>
-          </div>-->
-
-    </td>
-    <td style='' valign='top'>
-    <div class="page-content"
-    {% if page.title == 'Home' %} 
-      style = 'margin-top: -5em'
-    {% endif %}
-    >
-      <div class="wrapper">
+    
+ <div class="page-content_old">
+      <div class="wrapper_old" style='max-width: 40em'>
         {{ content }}
       </div>
     </div>
 
-
-    </td>
-    </tr>
-
-    <tr>
-    <td>
 
     </td>
     </tr>

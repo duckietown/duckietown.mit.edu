@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: MIT 2.166 - Duckietown
 permalink: index.html
 ---
-
+<!-- 
 <h1 style="margin-top:-1em">MIT 2.166 - Autonomous Vehicles</h1>
-
+ -->
 For Spring 2016, MIT has a new class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. 
 The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 
@@ -16,12 +16,23 @@ The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietow
 <li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
 </ul>
 
-<table><tr><td>
+<table>
+
+<tr><td>
   <iframe src="https://player.vimeo.com/video/152233002" width="400" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </td><td>
   <iframe src="https://player.vimeo.com/video/152499589" width="400" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </td>
   </tr>
+
+<tr><td>
+  <iframe src="https://player.vimeo.com/video/152825632" width="400" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </td>
+  <td>
+  <iframe src="https://player.vimeo.com/video/149916365" width="400" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </td>
+  </tr>
+
 </table>
 
 
@@ -83,10 +94,6 @@ Our Duckiebot ($100 platform):
 
 <img style='width: 10em;' src='media/mercedes.jpg'/>
 
-
-The elves who created the robot:
-
-<iframe src="https://player.vimeo.com/video/149916365" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 The roboticists of the future:
 

@@ -18,7 +18,7 @@ tr#first {display: none;}
 h1 {display: none;}
 </style>
 
-<h2 style='margin-top:-3em'> Duckietown Engineering Co. </h2>
+<h2 style=''> Duckietown Engineering Co. </h2>
 
 
 <table id='roster'>
