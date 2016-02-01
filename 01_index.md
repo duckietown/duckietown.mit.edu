@@ -60,7 +60,8 @@ Information for MIT students:
   </li>
   <li>12 units</li>
   <li>Lectures MW 3-5pm, 1-246</li>
-  <li>Lab Fri 10am-1pm, at Beaverworks</li>
+  <li>Lab Fri 10am-1pm, at Beaverworks. The lab is meant to be tutorial-level (no child left behind).
+  The lab is not compulsory, if you feel confident you can work out the assignments by yourself.</li>
   <li>
   Prerequisites: <a href="http://courses.csail.mit.edu/rss/">6.141 (Robotics Science and Systems I)</a> or equivalent experience.
   </li>
