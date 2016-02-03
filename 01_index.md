@@ -88,8 +88,10 @@ More information:
   <li><strong>Contacts:</strong> 
   Please <a href="mailto:duckietown@mit.edu">contact us at <tt>duckietown@mit.edu</tt></a> with any question.</li>
   <li><strong><a href="staff.html">Staff</a></strong> </li>
+  <li><a href="https://docs.google.com/uc?id=0B9YU76UT5h3Fc2VmUFd1UlA1NUk&amp;export=download">
+  Duckietown UROP opportunities
+  </a></li>
 </ul>
-
 
 Our Duckiebot ($100 platform):
 
