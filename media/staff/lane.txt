@@ -1,0 +1,1 @@
+Veronica Lane is a master's student in EECS. She is currently working on software for a driverless tricycle project in Sertac Karaman's group. Her focus is obstacle detection and tracking using a nodding laser scanner and a stereovision camera.
