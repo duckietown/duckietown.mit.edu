@@ -48,12 +48,19 @@ h1 {display: none;}
 	<a href="">Information &amp; Intelligent Systems (IIS)</a>
 	<br/><br/>
 		<a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503641">
-			National Robotics Initiative
+			<strong>National Robotics Initiative</strong>, 
 		</a> <br/>
 		<a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503305">
-			Robust Intelligence
+			<strong>Robust Intelligence</strong>
 		</a> 
 		</td>
+	</tr>
+
+	<tr class='roles'> <td> <strong>Series-B Investors</strong> </td> </tr>
+
+	<tr>
+	<td><img class="person" src="media/staff/theconstruct.jpg"/></td>
+	<td><a href="http://www.theconstructsim.com">The Construct</a></td>
 	</tr>
 	
 	<tr class='roles'> <td> <strong>Advisory Board</strong> </td> </tr>
