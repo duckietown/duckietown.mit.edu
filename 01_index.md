@@ -11,7 +11,7 @@ The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietow
 
 <ul>
 <li>This is a class for <tt><strong>makers &amp;&amp; thinkers </strong></tt></li>
-<li>This is a <strong>collaborative</strong> effort: 2 Labs (<A href="http://www.csail.mit.edu/">CSAIL</A> and <a href="http://www.lids.mit.edu">LIDS</a>), 3 Departments (ME, AeroAstro, EECS), and over a dozen people helped created this class, under the supervision of Prof. <a href="http://marinerobotics.mit.edu/">John Leonard</a> and Prof. <a href="http://www.mit.edu/~jhow/">John How</a>.
+<li>This is a <strong>collaborative</strong> effort: 2 Labs (<A href="http://www.csail.mit.edu/">CSAIL</A> and <a href="http://www.lids.mit.edu">LIDS</a>), 3 Departments (ME, AeroAstro, EECS), and over a dozen people helped created this class, under the supervision of Prof. <a href="http://marinerobotics.mit.edu/">John Leonard</a> and Prof. <a href="http://www.mit.edu/~jhow/">Jon How</a>.
 </li>
 <li>This is an <strong>open-source class</strong>: all materials (hardware design, software, and teaching materials) will be released as "open source" (a <a href="http://www.gnu.org/philosophy/free-sw.en.html">free software</a> license for code; a Creative Commons license for teaching materials)</li>
 </ul>
@@ -59,7 +59,7 @@ Information for MIT students:
   Admission based on questionnaire (<a href="signup.html">sign up page</a>)</strong>.
   </li>
   <li>12 units</li>
-  <li>Lectures MW 3-5pm, 1-246</li>
+  <li>Lectures MW 3-5pm, 35-308</li>
   <li>Lab Fri 10am-1pm, at Beaverworks. The lab is meant to be tutorial-level (no child left behind).
   The lab is not compulsory, if you feel confident you can work out the assignments by yourself.</li>
   <li>
