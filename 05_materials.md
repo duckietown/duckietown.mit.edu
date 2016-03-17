@@ -24,23 +24,29 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 ## How to build and operate our reproducible Duckiebot
 
 * [Setup Step 0 - Buy the parts](https://docs.google.com/document/d/1tRRN15MLBl5OwXkuhxToxqEZSDuvAlxXbiOygzJ4Guk/edit?usp=sharing)
+* [Setup Step 0.5 - Soldering Boards](https://docs.google.com/document/d/1HAjn_tXxTPVzIJP8ZAWhHe13UyQRm6oGbI7xuBDn6rk/edit?usp=sharing)
 * [Setup Step 1 - Assembling the kit](https://docs.google.com/document/d/1QKSj5W-LNoSg6dvAPhiIUOPcJvVdRBCL_uKQyGBBDsE/edit?usp=sharing)
 * [Setup Step 1.1 - Reproducing the Ubuntu Image](https://docs.google.com/document/d/1qMso-yhvK_y5lQ0qNpvDtPJ7M1iF5p7-l0_lJBTxHqo/edit?usp=sharing)
-* [Setup Step 1.2 - Traffic Light]()
+* [Setup Step 1.2 - Traffic Light](https://docs.google.com/document/d/10ET1mvQ7mltw7TZDWOeLnYps5r3Aa5Vf1PU5xwpaCtA/edit?usp=sharing)
 * [Setup Step 1.5 - Burn the image](https://docs.google.com/document/d/1Bkffk1kNDkbz5HWj0CjnUrnpeY1RXjZLTfvaWo4OT3I/edit?usp=sharing)
+* [Setup Step 1.7 - Setting up the Buffalo access point] (https://docs.google.com/document/d/1XJ-jezWasFkhTfQWgSiRSfWKkfR33TJgFBGbDYT6zOc/edit?usp=sharing)
+* [Setup Step 1.8 - Setting up Ubuntu Laptops] (https://docs.google.com/document/d/1uYgTz74Pqs4Kiwd7KxhHMHpQH9uuTBCMiPqGc9Qd1Tk/edit?usp=sharing)
+* [Setup Step 1.9 - Github basics] (https://docs.google.com/document/d/1inbwS7PNHY_-Vl0iLWQZi5AKT4xT7YVtPLcQ2hTOmI8/edit?usp=sharing)
 * [Setup Step 2 - From SD image to Remote RC control](https://docs.google.com/document/d/1Bkffk1kNDkbz5HWj0CjnUrnpeY1RXjZLTfvaWo4OT3I/edit?usp=sharing)
+* [Setup Step 2.05 - RC control, launched remotely] (https://docs.google.com/document/d/17sk1wuwkiAnKMDF-6e_N4a2XMmGn7FzIJdbhQMouUOk/edit?usp=sharing)
 * [Setup Step 2.1 Joystick + camera output in remote laptop](https://docs.google.com/document/d/1FB25mF8703TtEBUfNR6s8NXYc8_22lCU_7gAfQ_Rw_Y/edit?usp=sharing)
-* [Setup Step 2.2 Camera Calibration]()
+* [Setup Step 2.2.1 - Wheels Trim] (https://docs.google.com/document/d/14K9OqR0ijCkXIGxPY1OYpHSFWCuaDgN1qq1QojMDhQw/edit?usp=sharing)
+* [Setup Step 2.2.2 - Camera Calibration](https://docs.google.com/document/d/1cCLnIvC7R2RmsS8phw1eaFWc6_HoWVd9p8tSMsVrWNQ/edit?usp=sharing)
 * [Setup Step 2.5 - First commit](https://docs.google.com/document/d/1inbwS7PNHY_-Vl0iLWQZi5AKT4xT7YVtPLcQ2hTOmI8/edit?usp=sharing)
 * [Setup Step 2alternative - Virtualbox-Setup](https://docs.google.com/document/d/1FB25mF8703TtEBUfNR6s8NXYc8_22lCU_7gAfQ_Rw_Y/edit?usp=sharing)
-* [Setup Step 3.0 Take a log](https://docs.google.com/document/d/1Wv0m-kX-lYxsrrkoBUpNO_IAP-nMejOTdiSvU9CxhC8/edit?usp=sharing)
+* [Setup Step 3.0 - Taking a log](https://docs.google.com/document/d/1Wv0m-kX-lYxsrrkoBUpNO_IAP-nMejOTdiSvU9CxhC8/edit?usp=sharing)
 * [Setup Step 4 - Creating your own ROS package](https://docs.google.com/document/d/1rpRisFoCYUm0XT78j-nAYidlh-cDtLCdEbIaBCnx9ew/edit?usp=sharing)
+
 
 Troubleshooting guides:
 
 * [Testing everything](https://docs.google.com/document/d/1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08/edit?usp=sharing)
 * [Network troubleshooting checklist](https://docs.google.com/document/d/1ppvjTPTzMtrbLUfNb4NZefyGFlaZ6WwOR7gcZp-FkpM/edit?usp=sharing)
-
 
 <img style='width: 10em; float:right' src='media/mercedes.jpg'/>
 
@@ -49,8 +55,8 @@ Troubleshooting guides:
 
 ## How to build our reproducible Duckietown
 
-* Duckietown apperance guide
-* Duckietown traffic code
+* [Duckietown apperance guide](https://docs.google.com/document/d/1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc/edit?usp=sharing)
+* [Duckietown traffic code] (https://docs.google.com/document/d/1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM/edit?usp=sharing)
 
 Props:
 
@@ -76,6 +82,14 @@ Props:
 * Lecture
 * Lecture
 
+## Lab Procedure documents 
+
+* [Lab 01]
+* [Lab 02]
+* [Lab 03]
+* [Lab 04]
+* [Lab 05]
+* [Lab 06]
 
 ##  Assignments
 
