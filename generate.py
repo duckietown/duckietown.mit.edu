@@ -59,17 +59,26 @@ def go(people_filename, lectures_filename):
     head = """---
 layout: page
 title: Lectures
+permalink: lectures.html
 ---
    
 
 *Lectures recorded by [Chris Welch](http://chriswelchphotography.com) and Sasha Galitsky.*
    
 <style type='text/css'>
-    .incomplete { color: red }
+    .notready, .incomplete { color: red }
+    div.lecture {margin: 1em }
+    span.lecture_id { color: gray; font-size: smaller }
+    div.lecture h2 { margin-left: -1em} 
+    
 </style>
  
 """
-    return head + res
+    foot = """
+    
+   *Lectures recorded by [Chris Welch](http://chriswelchphotography.com) and Sasha Galitsky.* 
+"""
+    return head + res + foot
 
 class Context():
 
@@ -130,19 +139,14 @@ def generate_vimeo(url, context):  # @UnusedVariable
 def generate_lecture(id_lecture, lecture, people, context):
     s = "\n\n"
     title = lecture['title']
-    s += '<h2>%s: %s </h2>\n' % (id_lecture, title)
 
-    vimeo = lecture['vimeo']
 
-    if not vimeo:
-        s += '<p class="incomplete">(Video not available yet.)</p>\n'
+    s += '<h2><span class="lecture_id">%s:</span> %s </h2>\n\n' % (id_lecture, title)
 
-    s += '<table><tr>'
-    for url in vimeo:
-        s += '<td>'
-        s += generate_vimeo(url, context)
-        s += '</td>'
-    s += '</tr></table>'
+    if not lecture['ready']:
+        s += '<p class="notready">This lecture is not ready for publishing yet; files are missing,'
+        s += ' or the videos are not edited.</p>'
+
 
     if lecture['presenters']:
         s += '<p>Presenters: '
@@ -161,9 +165,31 @@ def generate_lecture(id_lecture, lecture, people, context):
                 context.warn('No person %r.' % p)
                 return p
         s += ', '.join(f(_) for _ in lecture['presenters'])
-        s += '</p>'
+        s += '</p>\n\n'
     else:
-        s += '<p class="incomplete">(No presenters specified.)</p>'
+        s += '<p class="incomplete">(No presenters specified.)</p>\n\n'
+
+    vimeo = lecture['vimeo']
+
+    if not vimeo:
+        s += '<p class="incomplete">(Video not available yet.)</p>\n\n'
+
+    s += '<table><tr>\n'
+    for url in vimeo:
+        s += '   <td>'
+        s += generate_vimeo(url, context)
+        s += '</td>'
+    s += '</tr></table>\n\n'
+
+
+    if lecture['files']:
+        s += '<ul class="materials">\n'
+        for f in lecture['files']:
+            s += ' <li><a href="%s">%s</a></li>\n' % (f['url'], f['desc'])
+        s += '</ul>\n\n'
+
+
+    s = "<div class='lecture'>\n\n" + indent(s, "    ") + '\n</div>\n\n'
     return s
 
 
@@ -172,10 +198,6 @@ def generate(lectures, people, context):
     s = "\n\n"
     order = sorted(lectures)
     for l in order:
-#         presenters = []
-#         for p in presenters:
-#             get_person(people, p)
-#  
         lecture = lectures[l]
         with context.sub(l):
             s += generate_lecture(l, lecture, people, context)
@@ -256,6 +278,19 @@ def normalize_title(v, context):
 def normalize_name(v, context):  # @UnusedVariable
     return v
 
+
+def normalize_url(v, context):  # @UnusedVariable
+    if v is None:
+        context.warn('empty URL')
+    # TODO: not existing
+    return v
+
+
+def normalize_string(v, context):  # @UnusedVariable
+    if v is None:
+        context.warn('empty string')
+    return v
+
 def normalize_date(v, context):  # @UnusedVariable
     try:
         dt = parser.parse(v)
@@ -277,10 +312,46 @@ def normalize_presenters(presenters, context):
 
     return presenters
 
+def normalize_files(files, context):
+    if files is None:
+        files = []
+
+    if len(files) == 0:
+        context.warn('No files')
+
+    for i, f in enumerate(files):
+        normalize(str(i), f, 'desc', normalize_string, context)
+        normalize(str(i), f, 'url', normalize_url, context)
+
+    return files
+
+# C01_intro:
+#   title: "Welcome to Duckietown"
+#   date: "Feb 3, 2016"
+#   vimeo:
+#   - https://vimeo.com/154523464
+#   - https://vimeo.com/154547370
+#
+#   files:
+#     - desc: Part 1 Keynote
+#       url: https://www.dropbox.com/s/ybny46gfyr65wod/01-C01_intro-part1-AC.key?dl=1
+#     - desc: Part 1 PDF
+#       url: https://www.dropbox.com/s/p707ab16llzb3zw/01-C01-intro-part1-AC-steps.pdf?dl=1
+#
+#
+#   presenters:
+#   - censi
+#   - paull
+
+def normalize_bool(x, context):
+    return x
+
 def normalize_lecture(id_record, record, context):
     normalize(id_record, record, 'date', normalize_date, context)
     normalize(id_record, record, 'title', normalize_title, context)
     normalize(id_record, record, 'vimeo', normalize_vimeo, context)
+    normalize(id_record, record, 'ready', normalize_bool, context)
+    normalize(id_record, record, 'files', normalize_files, context)
     normalize(id_record, record, 'presenters', normalize_presenters, context)
 
     return record
@@ -313,6 +384,27 @@ import platform
 if platform.system() != 'Windows':
     emit2 = add_coloring_to_emit_ansi(logging.StreamHandler.emit)
     logging.StreamHandler.emit = emit2
+
+
+
+def indent(s, prefix, first=None):
+    s = str(s)
+    assert isinstance(prefix, str)
+    lines = s.split('\n')
+    if not lines: return ''
+
+    if first is None:
+        first = prefix
+
+    m = max(len(prefix), len(first))
+
+    prefix = ' ' * (m - len(prefix)) + prefix
+    first = ' ' * (m - len(first)) + first
+
+    # differnet first prefix
+    res = ['%s%s' % (prefix, line.rstrip()) for line in lines]
+    res[0] = '%s%s' % (first, lines[0].rstrip())
+    return '\n'.join(res)
 
 
 if __name__ == '__main__':

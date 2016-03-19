@@ -1,70 +1,90 @@
 # https://docs.google.com/spreadsheets/d/1J3v3r8-toORWZah-Jqx9yEVezRbwidOiNvwpNcgwn88/edit#gid=0
 
 C11_development:
-  title: C11_development
+  title: 
   date: "Mar 9, 2016"
   vimeo: https://vimeo.com/158835095
+  files: []
   presenters:
+  ready: false
 
 C10_projects:
-  title: C10_projects
+  title: "Building Duckietown"
   date: "Mar 7, 2016"
   vimeo: https://vimeo.com/158835091
+  files: []
   presenters:
+  ready: false
 
 C09_laneFilter:
-  title: C09_laneFilter
+  title: "Nonlinear filtering"
   date: "Mar 2, 2016"
   vimeo: https://vimeo.com/157886586
+  files: []
   presenters:
   - paull
+  ready: false
 
 C08_filtering:
-  title: C08_filtering
+  title: "Filtering basics"
   date: "Feb 29, 2016"
   vimeo: https://vimeo.com/157886581
+  files: []
   presenters:
   - leonard
+  ready: false
   
 C07_testing:
   title: "Software testing"
   date: "Feb 24, 2016"
   vimeo: [] # not available - Draper must approve
+  files: []
   presenters:
   - steiner
+  ready: false
 
 C06_cameras:
-  title: C06_cameras
+  title: "Computer vision basics"
   date: "Feb 22, 2016"
-  vimeo: []
+  files: []
+  vimeo: 
+  - https://vimeo.com/159612162
+  - https://vimeo.com/159612203
   presenters:
+  - how
   - choi
+  ready: false
 
 # C05 does not exist
 
 C04_arch:
-  title:  C04_arch
+  title:  "Robotics Architectures"
   date: "Feb 16, 2016"
+  files: []
   vimeo: 
   - https://vimeo.com/156041019
   - https://vimeo.com/156041024
   presenters:
   - novitzky
   - liu 
+  ready: false
   
 
 C03_hires:
-  title:  C03_hires
+  title:  "Meet the new hires"
   date: "Feb 10, 2016"
   vimeo: []
+  files: []
   presenters:
   - censi
+  ready: false
 
 C02_team:
-  title:  C02_team
+  title:  "Meet the team"
   date: "Feb 8, 2016"
   vimeo:
   - https://vimeo.com/155349165
+  files: []
   presenters: 
   - ahn
   - choi
@@ -73,13 +93,28 @@ C02_team:
   - carlone
   - leonard
 
+  ready: false
+
+# MIT 2.166 Duckietown - Lecture 1, first part
+# Slides and other materials are at http://duckietown.mit.edu/2016/lectures.html#C01_intro
+
 C01_intro:
   title: "Welcome to Duckietown"
   date: "Feb 3, 2016"
   vimeo: 
   - https://vimeo.com/154523464
   - https://vimeo.com/154547370
+
+  files:
+    - desc: Part 1 Keynote
+      url: https://www.dropbox.com/s/ybny46gfyr65wod/01-C01_intro-part1-AC.key?dl=1
+    - desc: Part 1 PDF 
+      url: https://www.dropbox.com/s/p707ab16llzb3zw/01-C01-intro-part1-AC-steps.pdf?dl=1
+    - desc: Part 2 Powerpoint
+      url: https://www.dropbox.com/s/zqrh0crbwyvn9nh/01-C01_intro-part2-LP.pptx?dl=1
+
   presenters: 
   - censi
   - paull
 
+  ready: true
