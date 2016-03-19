@@ -1,0 +1,85 @@
+# https://docs.google.com/spreadsheets/d/1J3v3r8-toORWZah-Jqx9yEVezRbwidOiNvwpNcgwn88/edit#gid=0
+
+C11_development:
+  title: C11_development
+  date: "Mar 9, 2016"
+  vimeo: https://vimeo.com/158835095
+  presenters:
+
+C10_projects:
+  title: C10_projects
+  date: "Mar 7, 2016"
+  vimeo: https://vimeo.com/158835091
+  presenters:
+
+C09_laneFilter:
+  title: C09_laneFilter
+  date: "Mar 2, 2016"
+  vimeo: https://vimeo.com/157886586
+  presenters:
+  - paull
+
+C08_filtering:
+  title: C08_filtering
+  date: "Feb 29, 2016"
+  vimeo: https://vimeo.com/157886581
+  presenters:
+  - leonard
+  
+C07_testing:
+  title: "Software testing"
+  date: "Feb 24, 2016"
+  vimeo: [] # not available - Draper must approve
+  presenters:
+  - steiner
+
+C06_cameras:
+  title: C06_cameras
+  date: "Feb 22, 2016"
+  vimeo: []
+  presenters:
+  - choi
+
+# C05 does not exist
+
+C04_arch:
+  title:  C04_arch
+  date: "Feb 16, 2016"
+  vimeo: 
+  - https://vimeo.com/156041019
+  - https://vimeo.com/156041024
+  presenters:
+  - novitzky
+  - liu 
+  
+
+C03_hires:
+  title:  C03_hires
+  date: "Feb 10, 2016"
+  vimeo: []
+  presenters:
+  - censi
+
+C02_team:
+  title:  C02_team
+  date: "Feb 8, 2016"
+  vimeo:
+  - https://vimeo.com/155349165
+  presenters: 
+  - ahn
+  - choi
+  - alonso-mora
+  - novitzky
+  - carlone
+  - leonard
+
+C01_intro:
+  title: "Welcome to Duckietown"
+  date: "Feb 3, 2016"
+  vimeo: 
+  - https://vimeo.com/154523464
+  - https://vimeo.com/154547370
+  presenters: 
+  - censi
+  - paull
+

@@ -2,3 +2,5 @@ _site
 Gemfile
 Gemfile.lock
 .sass-cache
+.DS_Store
+.jekyll-metadata
