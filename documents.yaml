@@ -1,0 +1,15 @@
+# Use this pattern:
+# - id: <identifier string with underscores>
+#   title: <short title>
+#   desc: |
+#     <Multiple line abstract
+#      that desribes the paper>
+#   google_docs_share_link: <share link>
+
+# For example:
+- id: accounts_guide
+  title: "Accounts guide"
+  desc: |
+    This document contains instructions for how we would like you 
+    to represent yourself online during your Duckietown experience. 
+  google_docs_share_link: https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing
