@@ -1,0 +1,5048 @@
+WEBVTT
+
+00:02.672 --> 00:06.539
+So, what we learned yesterday is that,
+
+00:06.539 --> 00:11.001
+so we went through the applications,
+right?
+
+00:11.001 --> 00:14.640
+And now I know all the names already.
+
+00:14.640 --> 00:21.100
+And, I'm waiting for a couple of people
+to show up so, there's anonymity.
+
+00:21.100 --> 00:26.240
+And that was a misunderstanding during
+my student career was that I could
+
+00:26.240 --> 00:31.500
+be just sitting in the back like all
+of you are trying to do now, but
+
+00:31.500 --> 00:35.870
+you see everybody, and
+you see who's not showing up.
+
+00:35.870 --> 00:42.955
+So it's 2:06,
+do you have packets with you?
+
+00:42.955 --> 00:45.600
+It wasn't, great.
+
+00:45.600 --> 00:51.480
+So, actually, we have a special guest,
+Dr. [UNKNOWN] From
+
+00:51.480 --> 00:57.559
+the Japanese Space Agency who is trying
+to understand what [UNKNOWN] Into space.
+
+00:57.559 --> 01:00.240
+The answer's probably yes.
+
+01:00.240 --> 01:03.670
+So you're in charge of this
+when the next person shows up,
+
+01:03.670 --> 01:04.620
+you just squeeze the duckie.
+
+01:07.390 --> 01:10.162
+You're, [LAUGH} you have the duck.
+
+01:10.162 --> 01:14.704
+&gt;&gt; [INAUDIBLE]
+
+01:17.228 --> 01:19.398
+&gt;&gt; You guys, it's 3:07.
+
+01:19.398 --> 01:20.299
+That's fine.
+
+01:23.010 --> 01:24.270
+Okay, so let's start.
+
+01:25.830 --> 01:26.900
+Thanks for coming,
+
+01:26.900 --> 01:29.960
+welcome to the Duckietown Engineering
+new employee orientation.
+
+01:33.030 --> 01:37.560
+Today, you will hear from me,
+Andrea Censi, and
+
+01:37.560 --> 01:41.020
+you will hear from some
+of our project managers.
+
+01:41.020 --> 01:43.780
+So today is meet the team.
+
+01:43.780 --> 01:45.210
+Actually this is just all for
+
+01:45.210 --> 01:49.860
+the team, just where five more,
+but that is the firm for the day.
+
+01:50.960 --> 01:55.920
+And you just hear from our CEO,
+Janet, who is back from Japan.
+
+01:55.920 --> 01:57.470
+That's Japanese, sorry.
+
+02:01.810 --> 02:03.230
+All right.
+
+02:03.230 --> 02:07.610
+So, last time I showed you this slide,
+which is our company roster.
+
+02:08.680 --> 02:13.842
+Plus the space for the new hires, right,
+and we thought it would be like one,
+
+02:13.842 --> 02:19.099
+two, three, four, five, six,
+seven, eight, nine, ten, 11, 12.
+
+02:19.099 --> 02:26.260
+So what happened is that Those were
+the positions that were available.
+
+02:27.330 --> 02:30.440
+So we prepared 12, duckie boxes.
+
+02:30.440 --> 02:34.488
+So, inside there is everything that
+you need to, build your robot.
+
+02:34.488 --> 02:37.900
+Plus, extra duckies.
+
+02:37.900 --> 02:40.460
+More [UNKNOWN].
+
+02:40.460 --> 02:45.430
+So what happened,
+is that we see with the job applications.
+
+02:45.430 --> 02:50.730
+68 job applications and
+most of you also brought very,
+
+02:50.730 --> 02:57.430
+very long essays and we went
+through all of them very carefully.
+
+02:57.430 --> 02:58.390
+That's why I know the names.
+
+03:00.440 --> 03:04.600
+And what happened was that,
+so the first step was to
+
+03:04.600 --> 03:08.220
+let's say remove the people who will
+not do well in this class this year.
+
+03:09.600 --> 03:11.020
+Right.
+
+03:11.020 --> 03:13.210
+So those people are probably
+not here in this room.
+
+03:15.780 --> 03:20.690
+And then we were left with the,
+still many, right.
+
+03:20.690 --> 03:25.420
+And in the end what we did
+was going [UNKNOWN] we
+
+03:25.420 --> 03:30.140
+went through the list once more and
+then we were the question
+
+03:30.140 --> 03:34.380
+that you ask was whether we were excited
+to have the person in the class.
+
+03:34.380 --> 03:38.200
+So the last question is
+not whether you can do it,
+
+03:38.200 --> 03:41.420
+but also whether we're also
+excited to have you here because
+
+03:41.420 --> 03:45.170
+you'll contribute something to
+the Dunckietown experience.
+
+03:45.170 --> 03:47.190
+And you will see in the future.
+
+03:47.190 --> 03:53.500
+I forgot that Wednesday we plan to meet
+the students, meet the new employees,
+
+03:53.500 --> 03:59.332
+that there is also a wide variety
+of experiences in the room.
+
+03:59.332 --> 04:04.540
+There's actually, very big diversity
+of backgrounds and I think that all of
+
+04:04.540 --> 04:09.490
+you contribute something to to Duckietown
+individually, like we went through.
+
+04:09.490 --> 04:12.820
+Each of you is here because we were very
+excited to have you in particular here.
+
+04:14.110 --> 04:18.750
+So the environment was that
+we did this exercise and
+
+04:18.750 --> 04:21.342
+we hoped that the number would be 12.
+
+04:21.342 --> 04:22.433
+But, okay.
+
+04:23.840 --> 04:25.480
+Now, as follows.
+
+04:25.480 --> 04:26.220
+You can look around.
+
+04:28.250 --> 04:30.370
+And that number was higher.
+
+04:30.370 --> 04:32.720
+So we decided, well, change of plans.
+
+04:32.720 --> 04:34.000
+So it's not 12 anymore.
+
+04:35.320 --> 04:40.830
+That just gone, and on, and on,
+and on, and on, and on, and on.
+
+04:40.830 --> 04:43.320
+And the answer is more like 30.
+
+04:43.320 --> 04:47.920
+And so we went to our CEO, Don Lerner,
+and we asked him, we are really,
+
+04:47.920 --> 04:50.720
+really excited to have
+30 people in the room.
+
+04:50.720 --> 04:52.390
+Can we do it?
+
+04:52.390 --> 04:55.130
+And so
+this means that we need more resources.
+
+04:55.130 --> 04:56.960
+It means that we need more robots, but
+
+04:56.960 --> 05:00.510
+we need more people to
+help us with the class.
+
+05:00.510 --> 05:02.960
+Probably need more space and
+
+05:02.960 --> 05:08.200
+so our CEO is in charge of resources and
+our CEO said yes.
+
+05:08.200 --> 05:09.320
+So thank you John.
+
+05:09.320 --> 05:11.080
+&gt;&gt; Well one of the things I should
+say is that in any startup,
+
+05:11.080 --> 05:13.330
+you know how big that first
+building should be and
+
+05:13.330 --> 05:15.280
+how you're going to sort of grow
+over time is a big question.
+
+05:15.280 --> 05:19.670
+I haven't done a startup, but
+I've seen other people's startups.
+
+05:22.200 --> 05:25.390
+And so, with this decisions
+comes a little risk that things,
+
+05:25.390 --> 05:30.040
+might just take a little whole to
+get those resources, but just please
+
+05:31.120 --> 05:34.230
+be patient because the enthusiasm is so
+high that we decided to go for it.
+
+05:35.370 --> 05:37.970
+And so it's a little bit of
+a leap into the unknown, but
+
+05:37.970 --> 05:43.040
+I think we can harness the extra
+personnel power of the bigger and
+
+05:43.040 --> 05:47.890
+do more together this
+semester in our own home.
+
+05:47.890 --> 05:49.780
+&gt;&gt; Yes.
+And that's a good point.
+
+05:49.780 --> 05:51.530
+So scaling up from 12 to 30.
+
+05:51.530 --> 05:55.040
+What are some challenges?
+
+05:56.630 --> 06:01.439
+And so I think we are currently
+working out those challenges.
+
+06:02.710 --> 06:07.340
+So, but at this point you know we cannot
+guarantee that everything will be perfect.
+
+06:07.340 --> 06:12.511
+Like we have a very tight schedule, we
+have a supply chain analyst [INAUDIBLE].
+
+06:12.511 --> 06:17.050
+So the 12 boxes were ready actually 18
+boxes were ready because you know just
+
+06:17.050 --> 06:18.180
+in case.
+
+06:18.180 --> 06:23.680
+But the extra 12 we hope that they're
+ready, but they know they should be ready.
+
+06:23.680 --> 06:25.250
+Might be some components are missing.
+
+06:26.370 --> 06:31.230
+Actually one thing that's missing for
+us now is manpower, so we had
+
+06:31.230 --> 06:36.310
+told that we would give you the kit and
+you would not have to do any soldering.
+
+06:36.310 --> 06:38.920
+Now actually we said
+why we [INAUDIBLE] and
+
+06:38.920 --> 06:42.770
+the students understand whether some
+of them could do some soldering, and
+
+06:42.770 --> 06:48.010
+if that was the case we asked you
+personally and, thanks if you said yes.
+
+06:48.010 --> 06:53.370
+And so, I think some of the success
+
+06:53.370 --> 06:58.950
+of this class will be due to the students
+helping other students and helping us.
+
+06:58.950 --> 07:00.715
+But I think it will be a great experience.
+
+07:02.743 --> 07:08.580
+Okay, so just to now clarify the roles.
+
+07:08.580 --> 07:11.930
+If you have received an email
+like this that says,
+
+07:11.930 --> 07:15.730
+you are offered the title of
+Vehicle Autonomy Engineer,
+
+07:15.730 --> 07:19.760
+that means that you are Duckietown
+Engineering employee in training.
+
+07:21.490 --> 07:25.220
+And these people get the full sort of
+experience, they get the equipment,
+
+07:25.220 --> 07:28.790
+they get personal support, they get all
+the accounts and so on and so forth.
+
+07:30.350 --> 07:32.220
+There are like a couple of exceptions.
+
+07:32.220 --> 07:36.720
+People that have already [INAUDIBLE] and
+
+07:36.720 --> 07:40.330
+will get the student experience but
+will not register for the class,
+
+07:41.580 --> 07:47.790
+of course, and we hope that they
+can work on their own a little bit.
+
+07:47.790 --> 07:51.546
+But that is kind of the exception.
+
+07:51.546 --> 07:56.607
+So then there are also a couple new
+mentors and central collaborators.
+
+07:56.607 --> 08:00.957
+And for this, it's really adopting,
+so you should come to us.
+
+08:00.957 --> 08:04.530
+The lecture is really for the students.
+
+08:04.530 --> 08:06.620
+So, everything is different for you.
+
+08:06.620 --> 08:08.924
+So you should just come and ask us,
+
+08:08.924 --> 08:13.500
+then there are also what you
+call unconventional students.
+
+08:13.500 --> 08:15.980
+And at some point,
+we had to draw the line.
+
+08:15.980 --> 08:20.033
+And the line for us was resources, because
+just the one want to be robots very badly
+
+08:20.033 --> 08:23.020
+want everybody to have maybe
+laptops to do experiments.
+
+08:23.020 --> 08:27.812
+So at some point, we have to put
+a threshold, then there are people
+
+08:27.812 --> 08:32.960
+having a threshold, we would be happy for
+them to be involved somehow.
+
+08:32.960 --> 08:36.789
+And if that is the case,
+we call the commissioner students.
+
+08:37.820 --> 08:40.895
+So this would not be
+registered to the class, but
+
+08:40.895 --> 08:43.450
+you might be involved in some capacity.
+
+08:43.450 --> 08:47.230
+Second, you are welcome to come to
+our lectures, use our materials.
+
+08:47.230 --> 08:52.720
+Those are free to use, but we cannot
+really guarantee personal support.
+
+08:52.720 --> 08:57.352
+And in that case, you should have
+a discussion with our VP of recruiting,
+
+08:57.352 --> 08:59.686
+Liam Paull about exactly the terms.
+
+08:59.686 --> 09:06.430
+For example, for us,
+money is not really that big of a problem.
+
+09:06.430 --> 09:08.110
+So, we can buy extra parts.
+
+09:08.110 --> 09:12.761
+In just the effort to put
+everything together nicely,
+
+09:12.761 --> 09:16.410
+that just doesn't scale enough to a 30.
+
+09:16.410 --> 09:20.360
+So, one important message
+is the following.
+
+09:20.360 --> 09:25.260
+That if you've got a job offer,
+then you can do the job.
+
+09:25.260 --> 09:30.570
+So, we don't believe in
+the burnout culture mentality.
+
+09:30.570 --> 09:34.418
+So if you're here in the room,
+
+09:34.418 --> 09:39.894
+it means that we believe
+that you can discuss
+
+09:39.894 --> 09:45.380
+without burning out and within nine hours.
+
+09:45.380 --> 09:48.249
+Of course,
+you're welcome to nine hours per week and
+
+09:48.249 --> 09:50.430
+you're welcome to work more of course.
+
+09:52.850 --> 09:55.690
+So if this is not true, if at any point,
+
+09:55.690 --> 10:01.550
+you think that you are struggling
+too much just tell us.
+
+10:01.550 --> 10:06.370
+And one good thing about this class
+is that the tutorial part is really
+
+10:06.370 --> 10:12.490
+a tutorial, we're actually what we start
+with is basically all the systems working
+
+10:12.490 --> 10:18.580
+and then we remove some parts and
+we ask you to right the part back.
+
+10:18.580 --> 10:23.290
+So, in principle and
+there's a knob that we can turn.
+
+10:23.290 --> 10:28.250
+So, how much do you have to do and
+how much is done for you?
+
+10:28.250 --> 10:33.398
+And let's look at the knob at
+the zero position, it means that
+
+10:33.398 --> 10:39.350
+you need to have enough confidence
+to run things on Linux essentially.
+
+10:39.350 --> 10:42.187
+So, and
+I'm sure that all of you can do that or
+
+10:42.187 --> 10:44.590
+could learn what you don't know yet.
+
+10:45.860 --> 10:50.946
+And so just tell us, so we don't
+believe in some one order per child is
+
+10:50.946 --> 10:56.050
+our policy and then we have no child
+left behind is the second policy.
+
+10:56.050 --> 11:00.358
+So just tell us and
+we'll try to adjust the difficulty or
+
+11:00.358 --> 11:02.940
+maybe we add extra lab sessions.
+
+11:02.940 --> 11:06.811
+Maybe if you were struggling more
+with the, I don't know, Git.
+
+11:06.811 --> 11:10.620
+We would have another Git lab in addition.
+
+11:10.620 --> 11:15.360
+Fortunately, we have lots of people
+on the staff and you can use us.
+
+11:15.360 --> 11:16.998
+Lots of room.
+
+11:16.998 --> 11:19.380
+Well, we have lots of resources.
+
+11:19.380 --> 11:22.310
+So we have Beaver Work, that's almost.
+
+11:22.310 --> 11:25.000
+So, we can get extra lab sessions and
+things like that.
+
+11:27.780 --> 11:31.160
+So, the next steps is the following.
+
+11:31.160 --> 11:38.400
+So tonight, our human resources
+department will get in touch with you and
+
+11:38.400 --> 11:45.774
+you will start with this process where
+you have to to create 11 accounts.
+
+11:45.774 --> 11:48.388
+Now, all of them are necessary.
+
+11:50.999 --> 11:55.495
+The one which is essential is Slack.
+
+11:55.495 --> 12:01.000
+So essentially, on Slack,
+you will have 24/7 support from us.
+
+12:03.660 --> 12:07.260
+And to make this a strong point.
+
+12:07.260 --> 12:10.760
+So we have this no email policy,
+even among the team.
+
+12:10.760 --> 12:13.920
+So after Tuesday,
+after you start with Slack,
+
+12:13.920 --> 12:17.990
+we don't read any of your
+email like literally.
+
+12:17.990 --> 12:20.760
+Because otherwise,
+it's just unsustainable.
+
+12:20.760 --> 12:26.730
+Actually, to do a Duckietown all over in
+my inboxes are like just piling up email.
+
+12:26.730 --> 12:31.310
+So if you just send us an email,
+you will just be in the pile.
+
+12:31.310 --> 12:31.930
+We'll never read it.
+
+12:33.250 --> 12:39.667
+So the only exception is in this couple of
+days, if you have a request of questions,
+
+12:39.667 --> 12:44.085
+you should contact HR,
+which is hr@duckietown.com.
+
+12:44.085 --> 12:47.630
+Just to get you setup to get you Slack.
+
+12:47.630 --> 12:49.180
+That is the only reason
+you should send an email.
+
+12:52.710 --> 12:53.940
+So, this is the week.
+
+12:55.240 --> 12:59.260
+So on Wednesday,
+we have a meet the new employees session.
+
+13:01.100 --> 13:04.327
+So the idea here is that tonight,
+
+13:04.327 --> 13:10.220
+I will send you a form with very
+basic information about you.
+
+13:10.220 --> 13:12.130
+For example, what are you strong at?
+
+13:13.250 --> 13:16.640
+Or also, what is your name?
+
+13:16.640 --> 13:21.980
+For example, what is your preferred
+name as opposed to your full legal name?
+
+13:21.980 --> 13:26.858
+The only information that we ask
+you the public part of that will
+
+13:26.858 --> 13:28.340
+be with on slides.
+
+13:28.340 --> 13:29.731
+So on Wednesday,
+
+13:29.731 --> 13:35.314
+everybody gets on the stage just to
+give you a one minute presentation.
+
+13:35.314 --> 13:37.440
+This is me, this is what I like to do.
+
+13:37.440 --> 13:38.890
+This is what I want to do in Duckietown.
+
+13:41.460 --> 13:46.890
+I think this is important, because soon,
+let's say in a couple of weeks.
+
+13:46.890 --> 13:49.660
+We were actually just
+teaming arrangements, so
+
+13:49.660 --> 13:51.680
+you want to choose a teammate.
+
+13:53.110 --> 13:58.830
+We encourage you to find the teammates
+that are somehow complimentary to you.
+
+14:00.350 --> 14:05.710
+First of all, roughly,
+most of you have maybe background or
+
+14:05.710 --> 14:09.430
+[INAUDIBLE] or some engineering.
+
+14:09.430 --> 14:14.750
+And after you have a CS program,
+I think the best thing is when
+
+14:14.750 --> 14:18.740
+we went passing from CS, one from money.
+
+14:20.578 --> 14:26.690
+And so
+teaming I think will be left to you,
+
+14:26.690 --> 14:32.390
+but this is the opportunity for everybody
+to know every everybody else's design.
+
+14:34.400 --> 14:37.608
+My suggestion is to become
+friends with Gary Rosman,
+
+14:37.608 --> 14:42.449
+because he already has a PhD and
+he does computer vision for a living.
+
+14:42.449 --> 14:46.293
+And so Gary Rosman should look for
+
+14:46.293 --> 14:51.790
+maybe somebody who's
+complementary to that.
+
+14:55.285 --> 15:00.595
+So well for me, so
+the next part of the presentation
+
+15:00.595 --> 15:07.263
+is from our project managers and
+the first one is the area lead for
+
+15:07.263 --> 15:11.614
+computer vision, Dr. Changhyun Choi.
+
+15:11.614 --> 15:12.260
+Please.
+
+15:25.870 --> 15:31.850
+&gt;&gt; My name is Changhyun Choi,
+I'm a Computer Vision Area Lead.
+
+15:31.850 --> 15:34.220
+I'm a Postdoc at CSAIL.
+
+15:34.220 --> 15:37.760
+I'm working with Professor Daniela Rus.
+
+15:37.760 --> 15:40.763
+I'm generally interested
+in copy represent robotics,
+
+15:40.763 --> 15:44.892
+especially object recognition,
+object tracking, object optimization and
+
+15:44.892 --> 15:47.596
+the repercussions to
+a robotic made information.
+
+15:47.596 --> 15:51.734
+So those are some examples of my field,
+my research video.
+
+15:51.734 --> 15:57.454
+This is the Using particular filter and
+3D [UNKNOWN] model.
+
+15:57.454 --> 16:02.167
+It actually track the transparent object
+even though it's really challenging
+
+16:02.167 --> 16:06.671
+because the background shape is actually
+visible through the reflection,
+
+16:06.671 --> 16:08.920
+still it can direct track.
+
+16:08.920 --> 16:12.190
+And this is the [UNKNOWN] tracking.
+
+16:12.190 --> 16:16.320
+So as with these these kind of
+[UNKNOWN] and [UNKNOWN] camera and
+
+16:16.320 --> 16:20.210
+used that and
+I also used the color information and
+
+16:20.210 --> 16:22.715
+surface summary information and
+[UNKNOWN] information.
+
+16:22.715 --> 16:25.500
+And also I applied
+the [UNKNOWN] filter for that.
+
+16:25.500 --> 16:29.840
+And even though I used
+the 2000 particles and
+
+16:29.840 --> 16:33.300
+it was highly polarized in the GPU so
+it's real time.
+
+16:33.300 --> 16:34.900
+So, yeah, yeah.
+
+16:34.900 --> 16:37.750
+I'd like to say that I'm
+happy to be a part of
+
+16:37.750 --> 16:40.990
+the Duckie Town Engineering Operation and
+
+16:40.990 --> 16:45.060
+also I'm pretty excited about
+to be a project mentor.
+
+16:47.440 --> 16:52.830
+So for object detection, well, object
+detection is really one the important part
+
+16:52.830 --> 16:59.520
+for this Duckietown system because In
+order to make the town really happy,
+
+16:59.520 --> 17:03.284
+we need to conform to
+the traffic regulations.
+
+17:03.284 --> 17:08.280
+In our duckietown we have 12 different
+traffic signs here, different
+
+17:09.620 --> 17:15.810
+traffic signs, and we need to detect those
+traffic signs or the traffic lights.
+
+17:15.810 --> 17:22.010
+And we also need to detect pedestrian,
+because if we
+
+17:23.950 --> 17:28.130
+couldn't detect a pedestrian,
+you might be real tragedy, right?
+
+17:28.130 --> 17:30.540
+So here in the case,
+
+17:30.540 --> 17:34.380
+well we need to detect ducky because
+we are living in Ducky town.
+
+17:34.380 --> 17:40.430
+And so we need to detach [UNKNOWN],
+in our case Duckiebots.
+
+17:40.430 --> 17:43.610
+The main challenge is for
+object detection.
+
+17:43.610 --> 17:45.750
+The first one is accuracy.
+
+17:45.750 --> 17:50.310
+So again,
+if we miss the detect pedestrian or
+
+17:50.310 --> 17:53.600
+vehicle, it might be really,
+it has a lot of cost.
+
+17:53.600 --> 17:56.760
+So we need to make sure
+that our protection will be
+
+17:56.760 --> 18:01.200
+as [INAUDIBLE] as possible,
+maybe around more than 99%,
+
+18:01.200 --> 18:05.298
+but it's not there yet but
+we need to push forward for that.
+
+18:05.298 --> 18:10.747
+Also research constraints so
+we are thinking about
+
+18:10.747 --> 18:16.080
+low very small low cost
+computer assistant.
+
+18:16.080 --> 18:19.360
+So there are a lot of constraints
+like computation power or
+
+18:19.360 --> 18:22.850
+so the resolutions of the images or
+
+18:22.850 --> 18:26.970
+sometimes there will be some latency
+between the sensor and the actual state.
+
+18:28.418 --> 18:35.340
+And also, there are a lot of environmental
+variations such as illuminations But
+
+18:35.340 --> 18:41.976
+because of so much what might
+be really tricky for a camera.
+
+18:41.976 --> 18:48.600
+So we can [UNKNOWN] Duckietown
+will be an indoor environment.
+
+18:48.600 --> 18:52.360
+But who knows maybe later
+we can try an outside.
+
+18:52.360 --> 18:55.362
+In that case we need to [UNKNOWN]
+some snow or maybe even rain.
+
+18:56.990 --> 19:01.730
+So we need to really think about
+how to make the perception robust.
+
+19:02.730 --> 19:08.670
+And we also need to make the algorithm as
+
+19:08.670 --> 19:14.970
+scalable as possible so that we need to
+detect multiple objects in the scene.
+
+19:14.970 --> 19:20.000
+So let's say that maybe there might be
+more than one traffic signs in the scene,
+
+19:20.000 --> 19:25.078
+we still need to at the same
+time detect car and pedestrian.
+
+19:25.078 --> 19:30.930
+So the algorithm should be really
+efficient and also scalable.
+
+19:30.930 --> 19:32.540
+And or so the occlusion and
+
+19:32.540 --> 19:35.990
+the clutter is one of the big
+challenges in computer vision.
+
+19:35.990 --> 19:39.520
+So if there is some partial questions
+we need to [UNKNOWN] with it.
+
+19:39.520 --> 19:44.310
+Or so if their environment isn't really
+clear, we know we need to take out that.
+
+19:49.040 --> 19:52.264
+All right, and for
+this Duckietown project,
+
+19:52.264 --> 19:55.580
+I will develop two different,
+two big module.
+
+19:55.580 --> 19:59.890
+The one is grand production
+NTL 1H Optic factor.
+
+19:59.890 --> 20:07.140
+And Grand Protection is mapping between
+image plane to actual ground plane.
+
+20:07.140 --> 20:14.880
+So to do that we need to do Camera
+Calibration, so in one of the labs I will
+
+20:14.880 --> 20:19.674
+show how to dual camera calibration
+both intrinsic and extrinsic.
+
+20:19.674 --> 20:24.260
+And [UNKNOWN] will give some
+sort of baseline of the detector
+
+20:24.260 --> 20:27.805
+which is using histogram
+of gradient features.
+
+20:27.805 --> 20:35.647
+[UNKNOWN] and also,
+using also [UNKNOWN] vector machines.
+
+20:35.647 --> 20:41.290
+And, Project, for projects,
+the goal is very simple,
+
+20:41.290 --> 20:47.400
+beating the baseline,
+in terms of, accuracy, or time.
+
+20:47.400 --> 20:48.660
+Maybe both.
+
+20:48.660 --> 20:54.360
+So, maybe one project I do,
+be maybe a on top of the base sign,
+
+20:54.360 --> 20:58.380
+maybe we can explore some
+additional information.
+
+20:58.380 --> 21:01.130
+For example maybe things think on this.
+
+21:01.130 --> 21:06.560
+If the camera look at the front or
+direction of the road,
+
+21:06.560 --> 21:10.890
+actually the theme is actually
+constraint by a lot geometrical effects.
+
+21:10.890 --> 21:16.280
+Such as well the bigger and the closer
+object would look look like bigger.
+
+21:16.280 --> 21:18.900
+And the actual farther
+object would be very small.
+
+21:18.900 --> 21:24.990
+And there's a suggestion may
+not be on the over the sky.
+
+21:26.010 --> 21:28.330
+Well in principle Duckie can fly.
+
+21:28.330 --> 21:30.710
+But in our town Duckie can't fly.
+
+21:30.710 --> 21:35.430
+So we don't need to
+detach Duckie on the sky.
+
+21:35.430 --> 21:38.000
+So we have some sort of,
+kind of information so
+
+21:38.000 --> 21:41.950
+we can easily suppress false
+positives from the sky area.
+
+21:43.410 --> 21:47.180
+Another idea would be maybe
+using some circuit [INAUDIBLE].
+
+21:47.180 --> 21:50.745
+So long time ago,
+the traditional approach for
+
+21:50.745 --> 21:53.670
+object-detachment models
+using sliding window.
+
+21:53.670 --> 21:59.420
+Which is basically detect
+from the laptop to laptop.
+
+21:59.420 --> 22:05.740
+And we just calculated the correlation
+between that HoG feature,
+
+22:05.740 --> 22:09.390
+and the extra HoG feature from the scene.
+
+22:09.390 --> 22:14.260
+And then just calculate the correlation
+one by one and it takes a lot of time.
+
+22:14.260 --> 22:18.910
+But one of the recent ideas was
+that using selective search.
+
+22:18.910 --> 22:22.670
+So instead we're using some
+sort of [UNKNOWN] search.
+
+22:22.670 --> 22:25.050
+We can do more smart way.
+
+22:25.050 --> 22:29.700
+We can do the detection in with the more
+
+22:31.450 --> 22:35.939
+selective way, so
+the idea is that using segmentation as
+
+22:35.939 --> 22:42.470
+a pre-processing and
+then try to detach one by one.
+
+22:42.470 --> 22:46.060
+And it actually turned out
+that it is much fast and
+
+22:46.060 --> 22:49.970
+sometimes much better
+in terms of accuracy.
+
+22:49.970 --> 22:55.700
+And the left one is now well there's a lot
+of people made her love the team learning,
+
+22:55.700 --> 23:00.770
+so team learning is kind of state
+of the art in computer vision.
+
+23:00.770 --> 23:05.170
+So maybe we can also try that
+team learning example for
+
+23:05.170 --> 23:10.080
+this kind of problems that,
+so, this is my idea, and
+
+23:10.080 --> 23:14.497
+if you have a different idea,
+I'm happy to talk You guys.
+
+23:14.497 --> 23:18.690
+And test my, this is my laptop and
+
+23:18.690 --> 23:23.291
+I'd like to introduce Dr. Michel Novitsky.
+
+23:23.291 --> 23:25.504
+&gt;&gt; Thank you, sir.
+
+23:25.504 --> 23:29.723
+Thank you, [INAUDIBLE].
+
+23:37.476 --> 23:40.023
+So I'm social chair for Duckietown and
+
+23:40.023 --> 23:43.197
+I would like to know about
+Pub Night on Thursday.
+
+23:43.197 --> 23:47.590
+Could I get a show of hands who thinks,
+so I'll give you between five and eight,
+
+23:47.590 --> 23:50.556
+cuz if it gets too late,
+that's kind of ridiculous.
+
+23:50.556 --> 23:56.127
+So who would like to come to
+Duckietown Pub Night at 5 o'clock?
+
+23:56.127 --> 23:56.787
+Okay so.
+
+23:56.787 --> 23:57.907
+&gt;&gt; Wait what's the question?
+
+23:57.907 --> 24:01.980
+&gt;&gt; Well raise your hand at which time you
+think is best for Duckietown Pub Night.
+
+24:01.980 --> 24:02.880
+So right now, three.
+
+24:02.880 --> 24:04.180
+Okay, great.
+
+24:04.180 --> 24:05.000
+What about 6 o’clock?
+
+24:05.000 --> 24:07.230
+Okay, getting a little better.
+
+24:07.230 --> 24:07.930
+What about seven?
+
+24:09.530 --> 24:10.080
+That's rough.
+
+24:10.080 --> 24:11.147
+We'll do six till like eight.
+
+24:11.147 --> 24:11.768
+How about that?
+
+24:11.768 --> 24:13.047
+That seems like an appropriate time.
+
+24:13.047 --> 24:17.959
+So We had a lot of
+
+24:17.959 --> 24:21.507
+fun today taking pictures this morning and
+apparently all the pictures made it.
+
+24:21.507 --> 24:22.167
+That's great.
+
+24:25.427 --> 24:30.320
+&gt;&gt; So I'm Dr. Michael Misha Novitzky I'm
+a post doc here at MIT
+
+24:30.320 --> 24:31.910
+&gt;&gt; I work at the laboratory for
+
+24:31.910 --> 24:33.850
+Autonomous Marine Sensing Systems.
+
+24:33.850 --> 24:38.270
+I'm directly supervised by
+Michael Benjamin and Henrik Schmidt.
+
+24:38.270 --> 24:41.120
+I came through to robotics
+in a very wayward path.
+
+24:41.120 --> 24:46.390
+I actually started in psychology at
+Colorado College, graduating in 2004.
+
+24:46.390 --> 24:50.550
+And while I was waiting to
+get into the PhD program For
+
+24:50.550 --> 24:52.760
+psychology for child development.
+
+24:52.760 --> 24:55.000
+A couple of my pilot friends
+came into the gym and
+
+24:55.000 --> 24:58.640
+were like, listen we almost crashed
+into these on-man aerial vehicles.
+
+24:58.640 --> 24:59.550
+These are super cool.
+
+24:59.550 --> 25:01.020
+You need to go check them out.
+
+25:01.020 --> 25:03.670
+So I went to go check them out and
+I haven't looked back.
+
+25:03.670 --> 25:07.340
+I completely switched my field
+from psychology into robotics,
+
+25:07.340 --> 25:09.630
+finding my way to Georgia Tech.
+
+25:09.630 --> 25:14.120
+And while I was there as a graduate
+research assistant I worked at GTRI,
+
+25:14.120 --> 25:17.120
+which is Georgia Tech's
+applied research branch.
+
+25:17.120 --> 25:20.400
+Which led me to work on
+some fantastic projects.
+
+25:20.400 --> 25:24.490
+So the first one is the Cust D Project,
+which you see on the upper right.
+
+25:24.490 --> 25:28.880
+In this project we were demonstrating
+that we can do heterogeneous teaming
+
+25:28.880 --> 25:31.660
+between a ground vehicle and
+two aerial vehicles.
+
+25:31.660 --> 25:35.450
+Now, this is one of my favorite projects
+because the unmanned ground vehicle,
+
+25:35.450 --> 25:36.220
+was Sting.
+
+25:36.220 --> 25:40.040
+Which was, Georgia Tech's entry into
+the urban grand challenge, right.
+
+25:40.040 --> 25:43.070
+So it was an autonomous car,
+we took it from the competition and
+
+25:43.070 --> 25:44.670
+applied it to this project.
+
+25:44.670 --> 25:48.130
+So, what would happen is the aerial
+vehicles would go up in the sky,
+
+25:48.130 --> 25:49.090
+searching for the target.
+
+25:49.090 --> 25:51.440
+When they found it they would
+communicate together and
+
+25:51.440 --> 25:56.680
+then to get the car to go autonomously
+to that location and take more pictures.
+
+25:56.680 --> 25:57.740
+So fantastic.
+
+25:57.740 --> 26:00.480
+I really had a great
+time doing that project.
+
+26:00.480 --> 26:05.090
+But one of the things that it highlighted
+was that when communications degrade,
+
+26:05.090 --> 26:08.070
+then our performance would also degrade
+as far as completing the mission.
+
+26:08.070 --> 26:12.010
+So I thought well what can we
+do when communications go down?
+
+26:12.010 --> 26:13.386
+Can we leverage other things?
+
+26:13.386 --> 26:17.167
+And so that led me to using recognition
+for cooperation because we had cameras and
+
+26:17.167 --> 26:19.112
+other sensors we shouldn't talk about,
+
+26:19.112 --> 26:22.282
+that could actually see the aerial
+vehicles change their pattern or
+
+26:22.282 --> 26:24.520
+trajectory depending on
+what they were doing.
+
+26:24.520 --> 26:28.680
+Going from search into some
+sort of hover over the target.
+
+26:28.680 --> 26:31.631
+And so I started looking at using
+recognition of those different
+
+26:31.631 --> 26:33.910
+trajectories to finish the mission.
+
+26:33.910 --> 26:38.676
+That led to my thesis work, over here,
+Trajectory Adaptation for Recognition.
+
+26:38.676 --> 26:42.644
+Where I as an autonomous teammate would
+modify my trajectories in the way that I
+
+26:42.644 --> 26:45.770
+perform my task,
+based on my teammate's sensor modality and
+
+26:45.770 --> 26:48.160
+their recognition capabilities.
+
+26:48.160 --> 26:48.920
+So that was a lot of fun.
+
+26:48.920 --> 26:53.460
+But let's talk a little bit more
+about what I'm doing here at MIT.
+
+26:53.460 --> 26:57.910
+I'm actually assisting a PHD
+student named Kyle Warner.
+
+26:57.910 --> 27:01.605
+In lawful obstacle avoidance,
+also described as coal rates.
+
+27:01.605 --> 27:06.064
+So what's different about surface vessels
+doing different rules of the road is that
+
+27:06.064 --> 27:08.199
+it's based on location and dynamics and
+
+27:08.199 --> 27:10.926
+all these different rules
+that you have to follow.
+
+27:10.926 --> 27:16.490
+And we're actually generating a velocity
+obstacle approach to do this work.
+
+27:16.490 --> 27:19.940
+And my favorite part is that we get
+to hang out at all times of the day
+
+27:19.940 --> 27:24.880
+on the water just in a boat making sure
+things work well and it's a lot of fun.
+
+27:24.880 --> 27:28.580
+The main project I'm doing
+here at MIT is Aquaticus.
+
+27:28.580 --> 27:32.670
+And what we are looking at
+is human-robot interaction
+
+27:32.670 --> 27:35.920
+with the human embedded in
+the same environment as the robot.
+
+27:35.920 --> 27:40.430
+So in this project I
+have a person sitting in
+
+27:40.430 --> 27:43.290
+their own little kayak that's motorized,
+called a Mokai.
+
+27:43.290 --> 27:47.649
+Where they're communicating with an
+autonomous vehicle to perform [UNKNOWN] or
+
+27:47.649 --> 27:48.290
+emission.
+
+27:48.290 --> 27:50.520
+So right now some of
+the things you will notice.
+
+27:52.400 --> 27:56.280
+The challenges in my work or
+that learning environment, so here's me.
+
+27:56.280 --> 27:59.370
+Again, my favorite time is when
+I'm in the field with my robot,
+
+27:59.370 --> 28:02.980
+so whenever I'm in the lab in closed
+doors, I'm kind of a sad panda.
+
+28:02.980 --> 28:06.520
+So here I am a happy panda
+hanging out with the robot, and
+
+28:06.520 --> 28:10.460
+I'm communicating to say just something
+super simple, just follow me.
+
+28:10.460 --> 28:14.116
+And unfortunately the robot says I am
+programmed to follow your commands.
+
+28:14.116 --> 28:16.111
+Because I've stole things from Terminator,
+
+28:16.111 --> 28:18.110
+Arnold Schwarzenegger
+is talking back to me.
+
+28:18.110 --> 28:21.190
+And I was like very excited that the
+robots following me, and I turn around and
+
+28:21.190 --> 28:22.550
+the robots not moving at all.
+
+28:22.550 --> 28:24.580
+Right?
+So what's going on?
+
+28:24.580 --> 28:28.300
+So it's great for my abs, because I get
+a great ab workout constantly looking over
+
+28:28.300 --> 28:31.720
+my shoulder, but terrible for
+completing my mission.
+
+28:31.720 --> 28:35.580
+So what we wanna look at is what's the
+salient information that the robot should
+
+28:35.580 --> 28:38.120
+be telling me, and
+what should I be telling the robot to do?
+
+28:38.120 --> 28:40.000
+Then what about the timing
+of the missions.
+
+28:40.000 --> 28:42.030
+How frequently should I
+be getting information?
+
+28:42.030 --> 28:45.000
+Cuz if it's too much,
+I won't be able to follow.
+
+28:45.000 --> 28:46.150
+Is there a message standard?
+
+28:46.150 --> 28:47.350
+So on the radio,
+
+28:47.350 --> 28:51.490
+if you are a good radio operator you
+actually need to follow certain rules by
+
+28:51.490 --> 28:55.350
+giving my handle, who are you sending
+the message to, and back and forth.
+
+28:55.350 --> 28:57.530
+What are my human preferences?
+
+28:57.530 --> 29:01.730
+Cognitive load is a big topic and
+the reason is especially on the water.
+
+29:01.730 --> 29:04.100
+If I'm on the water,
+this is a nice day, right?
+
+29:04.100 --> 29:05.310
+So we got some video.
+
+29:05.310 --> 29:09.070
+But if I'm on the water and there's waves
+and it's raining, I'm kinda miserable.
+
+29:09.070 --> 29:11.090
+If I have more robots than just one,
+
+29:11.090 --> 29:13.380
+it's hard to keep track of
+what they're doing behind me.
+
+29:13.380 --> 29:16.070
+So I wanna see exactly what
+the cognitive load is in reducing that.
+
+29:17.450 --> 29:18.800
+And then also, do I trust the vehicle?
+
+29:18.800 --> 29:22.090
+So in this case I don't trust this
+vehicle cuz I turned around and
+
+29:22.090 --> 29:25.310
+it wasn't moving and I was like, okay I
+don't believe anything you're saying.
+
+29:25.310 --> 29:28.910
+But these ideas don't just
+apply to the marine area.
+
+29:28.910 --> 29:31.030
+It also applies to autonomous vehicles.
+
+29:33.710 --> 29:38.650
+So the thing I wanna give you guys
+in part of this little presentation
+
+29:38.650 --> 29:43.550
+is trying to draw inspiration
+either from fantasy in this case or
+
+29:43.550 --> 29:46.810
+anywhere in life to help you
+drive what you're doing.
+
+29:46.810 --> 29:51.466
+And in this case, we have Michael Knight
+from a great TV show in the 80s,
+
+29:51.466 --> 29:53.680
+and it had to reboot in the 2000s.
+
+29:53.680 --> 29:56.630
+Well, Michael Knight was
+awesome crime fighter.
+
+29:56.630 --> 30:00.066
+Had a watch and
+he would say to his autonomous car, Kit.
+
+30:00.066 --> 30:03.330
+There was a a great episode where
+he was trapped in a prison and
+
+30:03.330 --> 30:04.550
+he couldn't get out.
+
+30:04.550 --> 30:06.200
+So he was like Kit come get me.
+
+30:06.200 --> 30:09.970
+And then Kit autonomously came and
+crashed through the wall, hops in the car,
+
+30:09.970 --> 30:10.530
+and then leaves.
+
+30:10.530 --> 30:11.030
+Fantastic, right?
+
+30:12.910 --> 30:16.580
+&gt;&gt; So what I wanted to see is,
+can we actually reproduce something like
+
+30:16.580 --> 30:18.760
+Michael Knight can do when he
+has a dialogue with the robot?
+
+30:18.760 --> 30:21.020
+So if Michael Knight said, where are you?
+
+30:21.020 --> 30:23.650
+And Kit responds,
+I have these GPS locations.
+
+30:23.650 --> 30:26.010
+Then if you don't have a map and you
+don't know what the GPS coordinates are,
+
+30:26.010 --> 30:27.250
+that means nothing to you, right?
+
+30:27.250 --> 30:28.490
+So you would say, what?
+
+30:28.490 --> 30:30.610
+And then you would hope
+the robot would respond with,
+
+30:30.610 --> 30:35.400
+I'm at these street intersections, I'm
+this far away from you, blah, blah, blah.
+
+30:35.400 --> 30:39.150
+So the other thing that we wanna
+stress in Duckietown is that
+
+30:39.150 --> 30:41.950
+while some of these ideas
+have big aspirations,
+
+30:41.950 --> 30:46.680
+we can actually take a small chunk of that
+and apply it to be tested in Duckietown.
+
+30:46.680 --> 30:49.170
+So in fact, I will be taking over and
+
+30:49.170 --> 30:52.320
+whoever works with me will be
+taking the spot of Michael Knight.
+
+30:52.320 --> 30:54.730
+We might not necessarily have a cool
+watch unless you guys have an Apple
+
+30:54.730 --> 30:56.080
+watch you wanna program.
+
+30:56.080 --> 31:01.012
+And then I'll replace Kit with my own
+version of Kit, which is Duckiebot Kit.
+
+31:01.012 --> 31:04.036
+You see that little thing right there and
+Duckiebot on top.
+
+31:04.036 --> 31:08.540
+So, I would like to take these big parts,
+put it into Duckietown and
+
+31:08.540 --> 31:12.969
+see exactly what is kinda information
+can I transfer between me and
+
+31:12.969 --> 31:15.597
+the robot through human interaction?
+
+31:15.597 --> 31:20.857
+I'd like to introduce next
+a PhD candidate, Heejin Ahn.
+
+31:26.116 --> 31:30.456
+&gt;&gt; Hi, I'm Heejin Ahn.
+
+31:30.456 --> 31:31.960
+Thank you.
+
+31:31.960 --> 31:37.491
+I'm Heejin Ahn, a Ph.D candidate in
+MechE working with Professor [UNKNOWN].
+
+31:37.491 --> 31:41.627
+So, this is Dr. Daniel Hoehener
+who's a post doc at MIT and
+
+31:41.627 --> 31:45.400
+an engineer in Duckietown Engineering.
+
+31:45.400 --> 31:48.186
+And he's currently out of town.
+
+31:48.186 --> 31:52.447
+And we are interested in safety
+verification which is to
+
+31:52.447 --> 31:55.357
+detect possible future collisions.
+
+31:55.357 --> 32:00.960
+For multiple vehicles in the consideration
+of uncertainty and human operators.
+
+32:02.410 --> 32:05.590
+We're working really hard to
+ensure safety in [UNKNOWN] town.
+
+32:07.000 --> 32:08.760
+So here is a motivation.
+
+32:08.760 --> 32:14.020
+So the car collided with
+another coming from the left.
+
+32:14.020 --> 32:15.840
+This collision could have been avoided,
+
+32:15.840 --> 32:21.140
+if there had been communication between
+the cars or other smart infrastructure.
+
+32:22.240 --> 32:28.320
+So, traffic accidents cause a lot
+of fatalities and injuries.
+
+32:28.320 --> 32:32.810
+And also there are limited
+infrastructure resources which is, for
+
+32:32.810 --> 32:35.670
+example, traffic rules.
+
+32:35.670 --> 32:39.330
+So one of the resulting
+problems is traffic congestion,
+
+32:40.650 --> 32:45.970
+to address this problem,
+we proposed to use smart infrastructure,
+
+32:45.970 --> 32:49.320
+that coordinates cars
+to guarantee safety and
+
+32:49.320 --> 32:54.540
+to efficiently use the limited sources,
+unlimited sources.
+
+32:54.540 --> 33:00.770
+But the main challenges to deal with
+a complex interconnected system.
+
+33:00.770 --> 33:06.190
+So the complexity is
+the main challenge here.
+
+33:06.190 --> 33:12.370
+So in general intersection coordination
+there are several objectives.
+
+33:12.370 --> 33:19.010
+First it must guarantee safety,
+meaning no crashes inside an intersection.
+
+33:19.010 --> 33:22.580
+Second, it must have liveness,
+
+33:22.580 --> 33:28.560
+which means all of the cars can cross
+the intersection within finite time.
+
+33:28.560 --> 33:32.199
+So this situation in this
+figure is not allowed.
+
+33:33.230 --> 33:38.090
+Third, our controller must optimize some
+
+33:38.090 --> 33:43.070
+performance metrics to efficiently
+use limited resources.
+
+33:43.070 --> 33:48.630
+Lastly, the controller has to be robust,
+meaning it has to work well,
+
+33:48.630 --> 33:53.850
+even when there are some unpredictive
+errors and disturbances like this.
+
+33:58.970 --> 34:04.230
+So in the coordination model during
+the first half of the classes,
+
+34:04.230 --> 34:11.030
+we will design a decentralized controller
+to guarantee safety and liveness.
+
+34:11.030 --> 34:20.420
+And in the project,
+we will design a centralized controller,
+
+34:20.420 --> 34:24.310
+even when there are vehicles that
+are not following the traffic rules.
+
+34:25.760 --> 34:30.749
+So actually, yeah, so
+by designing a centralized controller,
+
+34:30.749 --> 34:35.390
+we can guarantee performance optimally,
+and robustness.
+
+34:36.810 --> 34:43.818
+Thank you, so, then this talk is from,
+yeah, Dr. Javier Alonso-Mora.
+
+34:57.399 --> 34:59.100
+&gt;&gt; Okay, good afternoon everybody.
+
+34:59.100 --> 35:01.390
+So I am Javier Alonso-Mora.
+
+35:01.390 --> 35:05.940
+I'm a Postdoctoral Associate
+here in CSAIL at MIT.
+
+35:05.940 --> 35:09.070
+And I'm working with a group
+of Professor Daniela Rus,
+
+35:09.070 --> 35:12.800
+there are a few faces here
+also from the same group.
+
+35:12.800 --> 35:15.500
+So Yes, I am coming from, my background,
+
+35:15.500 --> 35:17.530
+I'm coming from the other
+side of the Atlantic.
+
+35:17.530 --> 35:22.970
+So I did my PhD in ETH Zurich with
+a group of autonomous systems lab.
+
+35:22.970 --> 35:26.615
+And I did it in collaboration
+with Disney Research Zurich.
+
+35:26.615 --> 35:30.795
+So that's why you can see some funny
+videos that that are for entertainment.
+
+35:30.795 --> 35:34.915
+And people they need to ask,
+you're playing with robots and
+
+35:34.915 --> 35:37.195
+you even get paid for it.
+
+35:37.195 --> 35:38.915
+So, yeah robotics is the cool.
+
+35:38.915 --> 35:45.780
+And so, I'm in general, I'm interested
+about the smart cities of the future,
+
+35:45.780 --> 35:50.470
+where we will have thousands, millions of
+robots that cooperate with each other and
+
+35:50.470 --> 35:53.250
+they collaborate in many tasks.
+
+35:53.250 --> 35:57.850
+So, some of them, you can think of
+[UNKNOWN] and mobility on demand.
+
+35:57.850 --> 36:01.960
+All others could be having
+[UNKNOWN] helicopters and
+
+36:01.960 --> 36:06.370
+UAVs for surveillance,
+reconnaissance, or inspection.
+
+36:07.440 --> 36:12.110
+So, my work in particular is on [UNKNOWN].
+
+36:12.110 --> 36:14.300
+One of them is motion planning.
+
+36:14.300 --> 36:17.160
+So, how do we compute trajectories for
+robots,
+
+36:17.160 --> 36:20.750
+so that it's safe, that they don't
+collide with other obstacles.
+
+36:20.750 --> 36:24.250
+And in particular when they
+are in dynamic environments like
+
+36:24.250 --> 36:26.160
+what you see in this video here.
+
+36:26.160 --> 36:31.440
+So you see a vehicle a UAV and that one
+has to avoid collisions with a human.
+
+36:31.440 --> 36:34.310
+And it will also have to avoid
+collisions with all our robots.
+
+36:34.310 --> 36:38.387
+We have applied it to UAV's, but
+also to autonomous wheelchairs, or
+
+36:38.387 --> 36:43.200
+also mobile manipulators that
+collaborate in the factory floor.
+
+36:43.200 --> 36:47.370
+The second part of this now,
+so we have motion planning.
+
+36:47.370 --> 36:48.940
+They know how to navigate.
+
+36:48.940 --> 36:51.640
+But we will have hundreds or
+thousands of robots.
+
+36:51.640 --> 36:57.020
+So the next question is, how do we
+control this large team of robots?
+
+36:57.020 --> 36:59.970
+And how do we transform
+the specification of a human?
+
+36:59.970 --> 37:04.840
+So let's say the humans says, you,
+1000 robots, go and inspect this area.
+
+37:04.840 --> 37:08.140
+How do we convert that into
+controllers of [UNKNOWN] tasks for
+
+37:08.140 --> 37:09.698
+each one of the robots individually?
+
+37:09.698 --> 37:14.530
+And also human swarm interaction
+is related in this sense.
+
+37:14.530 --> 37:16.510
+So how does the human interact with them?
+
+37:16.510 --> 37:19.760
+So one of the example of our work
+is the one you see on the top.
+
+37:20.890 --> 37:22.690
+So these were the pixel bots.
+
+37:22.690 --> 37:24.810
+We have up to 50 small robots.
+
+37:24.810 --> 37:26.390
+They are around this size.
+
+37:26.390 --> 37:30.400
+And we can change their position and
+color to display images.
+
+37:30.400 --> 37:36.550
+So was an easy way that an artist, or any
+non roboticist could design an animation.
+
+37:36.550 --> 37:39.220
+And then we have the robots display here.
+
+37:39.220 --> 37:42.030
+You can see ways that the human
+will interact with them.
+
+37:42.030 --> 37:45.370
+Instead of controlling its
+degree of freedom independently,
+
+37:45.370 --> 37:50.190
+that will be its position, he can control
+overall shapes like the mouth or the eyes.
+
+37:51.420 --> 37:55.990
+And now here, I'm also working
+into extending these algorithms
+
+37:55.990 --> 38:00.390
+towards autonomous driving within
+the Toyota [UNKNOWN] Autonomy project.
+
+38:01.530 --> 38:04.290
+So when you have autonomous cars,
+self-driving cars,
+
+38:04.290 --> 38:07.890
+you might have seen Tesla's autopilot and
+things like those.
+
+38:07.890 --> 38:10.460
+But in general,
+it can get very challenging.
+
+38:10.460 --> 38:13.730
+Imagine a self-driving car,
+like any of these tricycles,
+
+38:13.730 --> 38:15.720
+driving in this environment.
+
+38:15.720 --> 38:18.630
+So the car needs to be
+aware of its environment.
+
+38:18.630 --> 38:21.160
+It needs to know where it is going,
+where it is.
+
+38:21.160 --> 38:24.960
+It also needs to be aware of all the other
+people around it, all the other vehicles,
+
+38:24.960 --> 38:26.009
+all the other humans.
+
+38:26.009 --> 38:27.290
+And what are we going to do?
+
+38:27.290 --> 38:30.825
+So there is tons of different
+things to reason about.
+
+38:30.825 --> 38:33.501
+And [UNKNOWN] and [UNKNOWN] space.
+
+38:33.501 --> 38:39.090
+So motion planning in general is very
+hard in this kind of environment.
+
+38:41.690 --> 38:46.347
+So next, yeah okay, so within Duckietown,
+
+38:46.347 --> 38:51.128
+my work is I'm collaborating
+with the project
+
+38:51.128 --> 38:55.664
+on cooperation together with [UNKNOWN],
+and
+
+38:55.664 --> 38:59.200
+Daniel, and Michele [UNKNOWN].
+
+38:59.200 --> 39:05.660
+And so I will be supporting also multi
+robot, and motion planning projects.
+
+39:05.660 --> 39:09.750
+I'm particular that of mobility and
+demand, ride sharing, and car pooling,
+
+39:09.750 --> 39:13.070
+where we are also doing
+some work in our research.
+
+39:13.070 --> 39:16.510
+I will also provide support for
+collision avoidance, and
+
+39:16.510 --> 39:18.870
+motion planning in dynamic environments.
+
+39:18.870 --> 39:24.780
+And in particular, together with Michelle
+Cap who is there in the side of the room.
+
+39:24.780 --> 39:27.970
+So he's visiting researcher
+within LIDS with Emilio Frazzoli.
+
+39:27.970 --> 39:32.810
+And he has also experience on motion
+planning and material coordination.
+
+39:32.810 --> 39:37.240
+This is for example, one example of his
+work, where there were two buggies and
+
+39:37.240 --> 39:40.040
+they had to coordinate their
+paths towards each other.
+
+39:40.040 --> 39:42.660
+So we will like to do something
+like this in Duckietown also.
+
+39:42.660 --> 39:47.199
+We will like to have the robots be
+able to compute the trajectory, and
+
+39:47.199 --> 39:49.717
+avoid collisions with other robots.
+
+39:49.717 --> 39:52.981
+Be able to understand what
+the other robot want to do, and
+
+39:52.981 --> 39:56.456
+to negotiate intersections
+while overtaking for example.
+
+39:56.456 --> 39:59.177
+So could you have a robot
+that it's Checking
+
+39:59.177 --> 40:02.338
+the system of the centralized
+intersections, for
+
+40:02.338 --> 40:06.691
+example, and be able to handle all
+this much faster, but still safe.
+
+40:06.691 --> 40:13.650
+So this is some of the challenges
+that we face within Duckietown, so
+
+40:13.650 --> 40:21.240
+thank you, and next I would like to
+introduce my colleague Luca Carlone.
+
+40:21.240 --> 40:25.569
+&gt;&gt; Okay, thanks for
+the introduction, and hi everyone.
+
+40:25.569 --> 40:26.870
+That's me.
+
+40:26.870 --> 40:28.890
+Okay, so I'm Luca Carlone.
+
+40:28.890 --> 40:32.580
+I'm a post doc in the Laboratory for
+Information Decision System at MIT.
+
+40:32.580 --> 40:37.630
+I'm also a member of the Agile Robotics
+Group led by Professor Sertac Karaman.
+
+40:37.630 --> 40:41.600
+Before joining MIT, I got my PhD
+from Politecnico di Torino in Italy.
+
+40:41.600 --> 40:45.444
+I spent a couple of years as a post doc
+at Georgia Tech where I met Micha, and
+
+40:45.444 --> 40:50.310
+I was also visiting research at the
+University of California Santa Barbara.
+
+40:50.310 --> 40:53.905
+So, I have a lot of interests,
+most of those are about robotics.
+
+40:53.905 --> 40:58.525
+I'm very excited about robotic perception
+and navigation, and very excited about
+
+40:58.525 --> 41:02.952
+nonlinear estimation and other concern
+optimization up by to mobile robotics,
+
+41:02.952 --> 41:07.325
+including distributed optimization and
+graph theory as well.
+
+41:07.325 --> 41:12.470
+So I want to give you a few examples
+of application I've been dealing with
+
+41:12.470 --> 41:13.630
+in my research.
+
+41:13.630 --> 41:17.480
+So in general,
+I do care about perception in general, and
+
+41:17.480 --> 41:22.080
+what you learn is called the problem of
+simultaneous localization and mapping.
+
+41:22.080 --> 41:25.420
+There is the problem of estimating
+the position of the robot, and
+
+41:25.420 --> 41:27.360
+also the map of
+the surrounding environment.
+
+41:28.410 --> 41:31.630
+I'm very passionate about sensor fusion.
+
+41:32.780 --> 41:37.940
+In this case, here the video shows
+an example in which a robot is carrying
+
+41:37.940 --> 41:42.065
+two sensors, a camera and
+a national measurement unit.
+
+41:42.065 --> 41:45.760
+It's using these two sensors to track
+the position, the trajectory of the robot
+
+41:45.760 --> 41:49.270
+itself as well as to reconstruct
+the map of the environment.
+
+41:49.270 --> 41:51.325
+So you can see that there
+is the image here, and
+
+41:51.325 --> 41:53.666
+there is somebody's not
+really a robotic example.
+
+41:53.666 --> 41:58.804
+It's a human carrying like this sensor
+suite in a three stories building,
+
+41:58.804 --> 42:02.730
+and there's a 3D construction
+of the building itself.
+
+42:03.750 --> 42:08.770
+In general, I'm also very passionate
+about dramatic aspects, computer vision.
+
+42:08.770 --> 42:10.597
+So for those of you working in vision,
+
+42:10.597 --> 42:13.980
+you will know about the problem
+of structure for motion.
+
+42:13.980 --> 42:20.590
+And I like the algorithmic aspects
+of robotics as well as theoretical
+
+42:20.590 --> 42:23.700
+aspects of robotics, but I've been
+doing a lot of implementation as well.
+
+42:23.700 --> 42:30.000
+So in this example here, these are the
+tests that we did with ARL last November,
+
+42:30.000 --> 42:32.736
+and we are deploying
+a team of four robots.
+
+42:32.736 --> 42:35.860
+We're in charge of doing
+distributed mapping and
+
+42:35.860 --> 42:38.690
+distributed destination
+in some unknown building.
+
+42:40.340 --> 42:44.720
+Recently, I'm getting very excited
+about things outside perception.
+
+42:44.720 --> 42:49.765
+In particular, I am exploring the the
+intersection between perception and
+
+42:49.765 --> 42:52.295
+planning, and
+what is called active sensing.
+
+42:52.295 --> 42:55.975
+So active sensing in like few words is
+the problem of planning the emotion of
+
+42:55.975 --> 42:59.955
+the robot, such that it is able to collect
+as much information as possible about
+
+42:59.955 --> 43:02.859
+the environment, so
+it's a decision making process.
+
+43:06.060 --> 43:10.188
+Here, some more advertisement about
+the work of my colleague, Chris Beall,
+
+43:10.188 --> 43:11.163
+at Georgia Tech.
+
+43:11.163 --> 43:16.470
+That's an example of 3D reconstruction of
+the roads around campus at Georgia Tech,
+
+43:16.470 --> 43:19.980
+and Chris here is playing
+back the 3D reconstruction
+
+43:21.220 --> 43:23.870
+following the trajectory of the car,
+moving around.
+
+43:23.870 --> 43:27.040
+We see the trajectory,
+like the 3D construction is pretty dense.
+
+43:27.040 --> 43:30.070
+And of course, we are not able to
+reconstruct the things that are moving, so
+
+43:30.070 --> 43:30.685
+the moving cars.
+
+43:30.685 --> 43:33.875
+Everything pretty exciting and
+
+43:33.875 --> 43:37.700
+I hope we see more of this kind
+of research in Duckietown.
+
+43:37.700 --> 43:40.900
+But let me tell me more about what's
+challenging about these kind of problems.
+
+43:42.180 --> 43:45.880
+So in general, we're not speaking about
+perception, you have to imagine a very
+
+43:45.880 --> 43:49.100
+simple thing, you have to imagine
+this flow of information.
+
+43:49.100 --> 43:51.730
+There is a robot observing the real world.
+
+43:51.730 --> 43:55.136
+To observe the real world,
+the robot is using some on-board sensors,
+
+43:55.136 --> 43:59.210
+which in our case, for Duckietown,
+will be immediate camera.
+
+43:59.210 --> 44:02.470
+And then, there is some reasoning on-board
+the robot, let's say a collection of
+
+44:02.470 --> 44:06.870
+algorithms, processing this input data,
+and transforming this input data into
+
+44:06.870 --> 44:09.410
+a coherent representation
+of the surrounding world.
+
+44:09.410 --> 44:13.670
+So that's like a very good
+overview on perception.
+
+44:13.670 --> 44:16.740
+Then, I'm listing here a bunch
+of challenges that I'm
+
+44:16.740 --> 44:19.350
+listing as challenges to
+relocalization and mapping.
+
+44:19.350 --> 44:23.668
+But I'm pretty sure that everybody
+working in perception finds pretty much
+
+44:23.668 --> 44:27.316
+the same challenge,
+really like a huge problem on most robots.
+
+44:27.316 --> 44:31.444
+So first of all, Robots has to be
+this kind of representation, but
+
+44:31.444 --> 44:34.960
+possibly as using very
+different sensor data.
+
+44:34.960 --> 44:38.275
+In Duckietown, we have cameras,
+but in general the robots,
+
+44:38.275 --> 44:42.610
+they have very fancy sensors on board, and
+we still have to deal with modeling and
+
+44:42.610 --> 44:46.090
+doing inference on very
+different sensor data.
+
+44:46.090 --> 44:48.300
+That are challenges about scalability.
+
+44:48.300 --> 44:50.010
+I was showing you in the previous slide,
+
+44:50.010 --> 44:54.110
+this video about the 3D map of
+the roads around Georgia Tech.
+
+44:54.110 --> 44:55.310
+Behind this 3D map,
+
+44:55.310 --> 44:58.360
+there is a huge optimization
+problem with millions of variables.
+
+44:58.360 --> 45:02.330
+So we have to be very smart
+about how the inference and
+
+45:02.330 --> 45:05.410
+the estimation part scales
+in the size of the problem.
+
+45:06.450 --> 45:08.310
+We also care about being fast and
+
+45:08.310 --> 45:12.490
+incremental in the way we build this
+model of the world for a simple reason.
+
+45:12.490 --> 45:15.560
+The robot is to react real time to
+what's happening in the world, and
+
+45:15.560 --> 45:19.680
+that's why it needs to have a real time
+understanding of the world itself.
+
+45:21.210 --> 45:26.506
+Challenges are everywhere and
+robotics are about robustness.
+
+45:26.506 --> 45:27.486
+Sorry.
+
+45:29.920 --> 45:33.936
+Okay, about robustness because the data
+from the sensor will be noisy and
+
+45:33.936 --> 45:35.439
+will be prone to outliers.
+
+45:35.439 --> 45:38.998
+And in general, you may also get about
+performance guarantees about seeing
+
+45:38.998 --> 45:42.900
+theoretical things, about what you get as
+the output of your estimation process.
+
+45:43.900 --> 45:46.970
+The list of challenges is not on here,
+there are many things.
+
+45:46.970 --> 45:53.470
+For example, this is an example
+from Google with doing some things
+
+45:54.470 --> 45:58.000
+that are similar to what I will discuss in
+Duckietown about trajectory estimation,
+
+45:58.000 --> 46:03.036
+and that's actually the backbone
+of Google Street View for example.
+
+46:03.036 --> 46:05.830
+So in case we have to do
+like city scale mapping,
+
+46:05.830 --> 46:08.840
+you really care about being smart,
+about data structure.
+
+46:08.840 --> 46:11.211
+You care about being smart,
+about the data that you want to save.
+
+46:11.211 --> 46:15.583
+So there is a huge issue about data
+compression in long term navigation, and
+
+46:15.583 --> 46:19.338
+of course if the robot has to be smart and
+to interact with humans,
+
+46:19.338 --> 46:23.700
+you also care about this representation
+being rich in terms of semantics.
+
+46:23.700 --> 46:26.069
+So beside deconstructing
+the geometry of this scene,
+
+46:26.069 --> 46:29.530
+you want to attach some meaning,
+some understanding to this reconstruction.
+
+46:29.530 --> 46:37.350
+This slide is about how we learn more
+about these challenges in Duckietown.
+
+46:37.350 --> 46:42.120
+So Duckietown may seem apparently like
+a simple example, but it actually contains
+
+46:42.120 --> 46:47.070
+more scale, all the challenges that I
+was mentioning in the previous slide.
+
+46:47.070 --> 46:51.380
+So you will get sensor data from
+a real robot, from a real sensor.
+
+46:52.480 --> 46:55.830
+You still manage the sensing part,
+and I will tell
+
+46:55.830 --> 46:59.430
+you more about how to implement
+this SLAM which is the acronym for
+
+46:59.430 --> 47:04.260
+Simultaneous Localization and Mapping,
+so this 3D reconstruction aspect.
+
+47:04.260 --> 47:05.480
+And at the end of this, hopefully,
+
+47:05.480 --> 47:09.640
+we will get to go a coherent
+map of the roads in Duckietown.
+
+47:09.640 --> 47:14.480
+So again, the challenge is a road there,
+meaning that you have to deal with noisy
+
+47:14.480 --> 47:17.060
+measurements, we have to deal
+with large-scale optimization.
+
+47:17.060 --> 47:21.910
+You have to be smart about data
+association outliers, you have to deal
+
+47:21.910 --> 47:26.738
+with the resource constraints where you
+do all these things, so many challenges.
+
+47:26.738 --> 47:29.460
+In this step, it is manageable and
+
+47:29.460 --> 47:33.910
+that emphasize the teaching
+aspects of these problems.
+
+47:33.910 --> 47:36.580
+So I will be in charge of
+the simultaneous organization and
+
+47:36.580 --> 47:38.710
+mapping module in Duckietown.
+
+47:38.710 --> 47:43.190
+And I will also, [UNKNOWN] with
+the global organizational module.
+
+47:43.190 --> 47:46.358
+Beside taking care of the busy modules,
+
+47:46.358 --> 47:50.096
+I propose a couple of
+ideas about the projects.
+
+47:50.096 --> 47:53.725
+In particular, these two ideas
+are about figuring out what is the best
+
+47:53.725 --> 47:56.627
+representation, what is the best,
+let's say, map.
+
+47:56.627 --> 47:59.810
+Of the word that we can have,
+that is most useful for
+
+47:59.810 --> 48:02.488
+taking position on that representation.
+
+48:02.488 --> 48:05.158
+So that's the project about
+[INAUDIBLE] representation and
+
+48:05.158 --> 48:08.358
+the second part is more about
+the implementation as related to resource
+
+48:08.358 --> 48:10.668
+constraints, visual and
+[INAUDIBLE] navigation.
+
+48:10.668 --> 48:13.788
+So if I give you an NMU,
+national measurement unit and a camera.
+
+48:13.788 --> 48:18.808
+How good can we do this 3D construction
+with very limited resources?
+
+48:18.808 --> 48:22.408
+Beside that,
+I'm super available to speak with you and
+
+48:22.408 --> 48:25.868
+have more ideas about
+perception of other projects.
+
+48:25.868 --> 48:28.388
+So, thank you very much.
+
+48:28.388 --> 48:31.354
+And I will introduce now,
+it's a great pleasure for
+
+48:31.354 --> 48:34.328
+me to introduce the CEO of
+Duckietown Engineering.
+
+48:34.328 --> 48:36.181
+We'll, you're welcome and
+
+48:36.181 --> 48:41.448
+we'll tell you more about challenges
+related autonomous driving and perception.
+
+48:41.448 --> 48:42.628
+&gt;&gt; [INAUDIBLE].
+
+48:42.628 --> 48:43.488
+&gt;&gt; It's a pleasure.
+
+48:50.709 --> 48:51.769
+&gt;&gt; Thank you very much.
+
+49:00.209 --> 49:04.286
+&gt;&gt; So I've already done one really bad
+thing, which was not having the right
+
+49:04.286 --> 49:07.929
+version of my operating system for
+Andres's screen recording.
+
+49:07.929 --> 49:10.049
+Hopefully, this is gonna work.
+
+49:10.049 --> 49:17.249
+And so, let's give this a shot.
+
+49:17.249 --> 49:19.509
+We will see.
+
+49:19.509 --> 49:20.409
+Go away.
+
+49:24.249 --> 49:26.169
+Insert new card.
+
+49:39.545 --> 49:40.385
+Should work.
+
+49:40.385 --> 49:41.245
+This one.
+
+49:55.346 --> 49:59.186
+So, how much time do I have?
+
+49:59.186 --> 50:02.206
+So, is there other business
+beyond this today?
+
+50:02.206 --> 50:06.310
+So I thought I would, well, first of all,
+
+50:06.310 --> 50:11.558
+I wanna to thank the mentors for
+their presentations.
+
+50:11.558 --> 50:14.151
+They really uncovered a lot
+of great research issues and
+
+50:14.151 --> 50:15.978
+I wanna thank all of you for being here.
+
+50:15.978 --> 50:21.075
+With the remaining time today,
+I thought I'd give sort of some thoughts
+
+50:21.075 --> 50:26.091
+on kind of a corporate strategy
+discussion for autonomous vehicles and
+
+50:26.091 --> 50:29.955
+I thought I would like to
+use recent media references.
+
+50:29.955 --> 50:34.929
+And so did anyone hear,
+this was about almost a year ago
+
+50:34.929 --> 50:38.283
+when Jen-Hsun Huang from Nvidia and
+
+50:38.283 --> 50:43.705
+Elon Musk from Tesla said
+self-driving cars were solved.
+
+50:43.705 --> 50:45.725
+Has anyone seen that?
+
+50:45.725 --> 50:49.461
+Now, they are two
+incredible visionaries and
+
+50:49.461 --> 50:55.415
+it's been described to me that one decade
+to you or I is one decade to them.
+
+50:55.415 --> 50:58.635
+Basically, they just have a compressed
+time line scale where nothing is
+
+50:58.635 --> 50:59.277
+impossible.
+
+50:59.277 --> 51:03.439
+But one of the things that the said was
+that Musk, minimized the challenges
+
+51:03.439 --> 51:08.017
+necessary to achieve a future where
+self-driven cars will become commonplace.
+
+51:08.017 --> 51:09.786
+I view it as a solved problem said,
+
+51:09.786 --> 51:14.056
+Musk who compared autonomous cars with
+elevators that used to require operators,
+
+51:14.056 --> 51:16.564
+but are now self-service and
+this is a year ago.
+
+51:16.564 --> 51:20.794
+More recently, some of the statements are
+even more aggressive in terms of how close
+
+51:20.794 --> 51:21.457
+we might be.
+
+51:21.457 --> 51:24.431
+John Markov in the New York Times
+who broke the story,
+
+51:24.431 --> 51:26.754
+the Google Car back in October 2010.
+
+51:26.754 --> 51:29.154
+He wrote an article recently.
+
+51:29.154 --> 51:31.614
+For now,
+self-driving cars still need humans.
+
+51:31.614 --> 51:36.053
+And he quoted, Musk as saying,
+in a conference call with reporters,
+
+51:36.053 --> 51:40.434
+he said, the autopilot was probably
+better than a person right now.
+
+51:40.434 --> 51:44.406
+And that within a year or two, it'd be
+technically feasible to summon a Tesla
+
+51:44.406 --> 51:46.434
+from the opposite side of the country.
+
+51:48.034 --> 51:50.014
+&gt;&gt; Which is wow.
+
+51:50.014 --> 51:53.679
+So and I was actually quoted in
+this article as well and I said,
+
+51:53.679 --> 51:57.910
+the issue of interacting with people
+inside and outside the car exposes
+
+51:57.910 --> 52:01.434
+real issues and the ability to
+know if the driver is ready and
+
+52:01.434 --> 52:05.767
+if you giving them enough notice to
+hand off is a really tricky question.
+
+52:05.767 --> 52:10.041
+And I would say that in general,
+there's this onion of difficult
+
+52:10.041 --> 52:15.980
+autonomous vehicles and we sort of peel
+away different layers of the onion.
+
+52:15.980 --> 52:20.360
+And for our Ducky and Duckytown,
+it's the Ducky robot interaction problem.
+
+52:20.360 --> 52:22.630
+Is the Ducky ready to take control?
+
+52:22.630 --> 52:28.874
+And do we have a good model
+of the Ducky's behavior?
+
+52:28.874 --> 52:32.560
+So I thought that if we think
+about human driven autonomous
+
+52:32.560 --> 52:36.487
+cars in a place like Austin or
+in Mountainview, California.
+
+52:36.487 --> 52:40.196
+We can look at the state of the art and
+maybe as the semester unfolds,
+
+52:40.196 --> 52:44.509
+we can have sort of a discussion about
+what are the right research challenges?
+
+52:44.509 --> 52:46.209
+What are the right things
+to do in a university?
+
+52:46.209 --> 52:47.949
+What are the right things
+to do in a company?
+
+52:47.949 --> 52:50.739
+And how do we temper
+the expectations of the public and
+
+52:50.739 --> 52:53.660
+have an influence on things like policy?
+
+52:53.660 --> 52:57.334
+So for myself, so what caused this big,
+almost hysteria or
+
+52:57.334 --> 53:02.119
+this huge interest in autonomous vehicles
+which have this great potential?
+
+53:02.119 --> 53:06.042
+It's really kudos to the Google
+self-driving car team and
+
+53:06.042 --> 53:10.839
+this is myself with my grad student,
+Ross Finman, in July of last year.
+
+53:10.839 --> 53:15.459
+We got to ride in one of the Google Lexus
+prototypes and I posted on Facebook.
+
+53:15.459 --> 53:17.137
+Amazing ride in the Google Car today,
+
+53:17.137 --> 53:19.430
+I felt like I was on
+the beach at Kitty Hawk.
+
+53:19.430 --> 53:21.580
+The performance of
+the car was flawless and
+
+53:21.580 --> 53:27.530
+that was 2014, and
+that was a yer and a half ago.
+
+53:27.530 --> 53:32.023
+And so for my personal with,
+I've worked on autonomous vehicles for
+
+53:32.023 --> 53:35.829
+a long time now since 1987
+when I started grad school.
+
+53:35.829 --> 53:41.769
+And I worked with underwater vehicles,
+various other types of robots.
+
+53:41.769 --> 53:45.429
+I've done a lot of work on Slam,
+which Luca gave a great introduction to.
+
+53:45.429 --> 53:50.127
+The real intense experience I had
+was the DARPA Urban Challenge ad
+
+53:50.127 --> 53:54.409
+the Urban Challenge was
+a competition organized by DARPA.
+
+53:54.409 --> 53:56.429
+We were competing for a $2 million prize.
+
+53:56.429 --> 53:59.859
+It was 2 million for first place,
+1 million for second place,
+
+53:59.859 --> 54:04.129
+half a million for third place and nothing
+for fourth place and I remember that.
+
+54:04.129 --> 54:08.663
+And we had this amazing team with
+my faculty colleagues, Seth Teller,
+
+54:08.663 --> 54:13.122
+John Howe, Muili Frazzoli and
+just an amazing group of post [INAUDIBLE]
+
+54:13.122 --> 54:17.149
+students many who have gone on
+to do really successful things.
+
+54:17.149 --> 54:22.244
+And so, this is some video
+from our system operating, so
+
+54:22.244 --> 54:29.369
+we had a Land Rover LR3 that had more
+sensors and computers than any other team.
+
+54:29.369 --> 54:33.586
+We tried to do real-time vision-based
+following of the lanes not following GPS
+
+54:33.586 --> 54:34.149
+too much.
+
+54:34.149 --> 54:39.189
+We built a local map that moved along with
+the vehicle and we used an ROT, rapidly
+
+54:39.189 --> 54:43.869
+[UNKNOWN] motion planner to control
+the motion of the robot in real-time.
+
+54:43.869 --> 54:47.792
+And if you use vision, you have to deal
+with things like looking into the Sun and
+
+54:47.792 --> 54:50.850
+dealing with difficult
+lighting conditions.
+
+54:50.850 --> 54:57.310
+And it was just an intense and really
+challenging, yet rewarding experience.
+
+54:57.310 --> 55:00.720
+And one thing I look back now and some
+of the people that are in this picture,
+
+55:00.720 --> 55:04.330
+and some of the things they've
+gone onto to do is just amazing.
+
+55:04.330 --> 55:07.260
+And so not to claim too much
+personal credit, it's more that
+
+55:07.260 --> 55:11.069
+something about MIT that's amazing is
+you have colleagues here in this room.
+
+55:11.069 --> 55:14.549
+Some are gonna go start real companies and
+become real successful,
+
+55:14.549 --> 55:17.309
+some are gonna be tenure
+professors at pier schools.
+
+55:17.309 --> 55:22.110
+Many are going to make really big impacts.
+
+55:22.110 --> 55:26.250
+And so for example,
+Yoshi Kuwata who was our post-doc for
+
+55:26.250 --> 55:30.770
+motion planning is in here somewhere,
+just a little hard to see.
+
+55:30.770 --> 55:35.853
+He was involved in landing the SpaceX
+rocket, which is pretty cool and
+
+55:35.853 --> 55:39.230
+Ed Olson's a tenured
+professor at Michigan.
+
+55:39.230 --> 55:41.051
+Surtash is tenure tracked here.
+
+55:41.051 --> 55:42.831
+Emilio has the startup autonomy.
+
+55:42.831 --> 55:49.231
+Pretty amazing group of people and
+I was just so lucky to work with them.
+
+55:49.231 --> 55:52.780
+And really, if I say,
+what I like to do in my career.
+
+55:52.780 --> 55:56.704
+Way back, I used to write a lot of code
+and I tried to develop algorithms and
+
+55:56.704 --> 55:59.696
+I still work on papers with
+my students and post-docs.
+
+55:59.696 --> 56:03.447
+But I think it's the ability
+to bring people together and
+
+56:03.447 --> 56:07.669
+have teams create things that I
+didn't think were possible, or
+
+56:07.669 --> 56:13.490
+create this sort of, the teams that
+come together to work on hard problems.
+
+56:13.490 --> 56:15.600
+And I think mobility
+really is a hard problem.
+
+56:15.600 --> 56:20.230
+I think even though the media might say
+you can go sleep in your car in a year or
+
+56:20.230 --> 56:22.510
+two, there's some great
+research challenges.
+
+56:22.510 --> 56:26.402
+And so it may not seem that there's
+much connection between this and
+
+56:26.402 --> 56:29.690
+that, at one abstraction they
+really are very similar.
+
+56:29.690 --> 56:34.450
+So here trying to use a single camera,
+a computer running Linux,
+
+56:34.450 --> 56:36.610
+and some very simple hardware.
+
+56:36.610 --> 56:42.180
+We have the elements of closing the loop,
+so generating control
+
+56:42.180 --> 56:47.240
+signals based on some representation that
+is built-in response to perceptual data.
+
+56:47.240 --> 56:50.710
+So for ourselves in DARPA urban challenge,
+
+56:50.710 --> 56:53.620
+let me just say a little
+more about our vehicle.
+
+56:53.620 --> 56:54.469
+So, of course,
+
+56:54.469 --> 56:57.949
+what sensors you have really controls
+your destiny in a lot of ways.
+
+56:57.949 --> 57:03.240
+We had a Velodyne laser scanner, so
+a $75,000 HDL-64 Velodyne scanner.
+
+57:03.240 --> 57:06.570
+It generated a million data points
+per second, it generates range and
+
+57:06.570 --> 57:07.350
+intensity data.
+
+57:07.350 --> 57:10.020
+And so you might say that
+this makes the problem much,
+
+57:10.020 --> 57:13.840
+much easier than just
+using a single camera.
+
+57:13.840 --> 57:16.690
+But in actual fact,
+some of the challenges, how you represent
+
+57:16.690 --> 57:20.070
+the environment, how you deal with
+uncertainty, how you achieve robustness.
+
+57:20.070 --> 57:24.280
+They still remain,
+regardless of what type of sensor you use.
+
+57:24.280 --> 57:26.050
+We had a lot of computation.
+
+57:26.050 --> 57:29.060
+We had 10 blades in a blade cluster.
+
+57:29.060 --> 57:32.170
+Each had four cores,
+which may not seem like a lot now, but
+
+57:32.170 --> 57:35.798
+to power that blade cluster at the time,
+we needed 3.5 kilowatts of power.
+
+57:35.798 --> 57:40.920
+We needed a two-kilowatt air
+conditioner on the roof to cool it.
+
+57:40.920 --> 57:43.140
+And we had 5 cameras, 15 radars,
+
+57:43.140 --> 57:46.880
+and we were just a little over
+the top in our system design.
+
+57:46.880 --> 57:48.870
+But we didn't want to be
+limited by computation,
+
+57:48.870 --> 57:50.700
+we wanted to try advance algorithms.
+
+57:50.700 --> 57:54.040
+So at the end of the day, Carnegie Mellon
+came in first, Stanford came in second,
+
+57:54.040 --> 57:57.580
+Virginia Tech came in third,
+we came in a very distant fourth place.
+
+57:57.580 --> 58:02.520
+And the folks that led the Stanford and
+Carnegie Mellon teams,
+
+58:02.520 --> 58:04.870
+turns out they're at the core of
+the Google self-driving car team.
+
+58:04.870 --> 58:09.340
+So the history is that Sebastian Thrun,
+who was at Stanford at the time,
+
+58:09.340 --> 58:13.530
+founded a secret team of about
+10 folks initially at Google X.
+
+58:13.530 --> 58:16.100
+And they just started
+driving on public roads.
+
+58:16.100 --> 58:21.210
+They built a Prius, they automated it,
+and they were up to 140,000 miles
+
+58:21.210 --> 58:26.340
+when John Markoff broke the story and said
+Google's cars drive themselves in traffic.
+
+58:26.340 --> 58:31.260
+And so since then they're up to
+order of 1.4 million miles traveled.
+
+58:31.260 --> 58:37.160
+And their efforts have created a big
+interest in this area that caused many
+
+58:37.160 --> 58:43.490
+companies in the car industry to,
+unconventional high tech startups.
+
+58:43.490 --> 58:48.020
+Companies like Tesla, companies like
+Apple, as well as companies like Ford,
+
+58:48.020 --> 58:49.690
+GM, Toyota, etc.
+
+58:49.690 --> 58:52.590
+And so it's a really exciting
+time to be working in this area.
+
+58:53.660 --> 58:54.890
+And let's see.
+
+58:54.890 --> 58:57.440
+In the spirit of,
+I've shown this a lot lately and I feel
+
+58:57.440 --> 59:01.450
+I should stop showing it, but if you've
+not seen this before, this is kind of fun.
+
+59:01.450 --> 59:07.433
+This is something that
+happens with Cornell for
+
+59:07.433 --> 59:12.229
+us, and let's see if this will work.
+
+59:13.849 --> 59:16.589
+See this one.
+
+59:16.589 --> 59:17.909
+Is that gonna work?
+
+59:26.050 --> 59:31.720
+&gt;&gt; The 79 is trying to pass, and
+has passed the chase vehicle for Skynet.
+
+59:31.720 --> 59:35.780
+The 26 vehicle [CROSS-TALK]
+&gt;&gt; And talas is gonna pass.
+
+59:35.780 --> 59:36.648
+&gt;&gt; Very aggressive.
+
+59:36.648 --> 59:37.148
+&gt;&gt; Woah!
+
+59:39.056 --> 59:41.940
+&gt;&gt; We on our first collision.
+
+59:41.940 --> 59:44.946
+&gt;&gt; Crash at turn one.
+
+59:44.946 --> 59:45.489
+&gt;&gt; Boy.
+
+59:45.489 --> 59:49.416
+That is, that's a bold maneuver for
+
+59:49.416 --> 59:55.840
+a MIT to drive past and I've-
+&gt;&gt; Okay, so that wasn't our finest moment.
+
+59:55.840 --> 59:58.600
+But that was the MIT vehicle trying
+to pass the Cornell vehicle.
+
+59:58.600 --> 01:00:01.510
+And one of the things I think I'd
+want you to learn in this class
+
+01:00:01.510 --> 01:00:03.968
+is that autonomy is hard,
+it's challenging.
+
+01:00:03.968 --> 01:00:07.010
+And because our vehicle was
+following its perception rather than
+
+01:00:07.010 --> 01:00:09.240
+a very precise set of GPS waypoints.
+
+01:00:09.240 --> 01:00:13.380
+Yeah, it had more uncertainty
+in its representation and
+
+01:00:13.380 --> 01:00:15.720
+it was easier for bad things to happen.
+
+01:00:15.720 --> 01:00:18.590
+This is the computer
+eye view of the crash.
+
+01:00:18.590 --> 01:00:20.519
+So we have three cameras shown here.
+
+01:00:20.519 --> 01:00:24.489
+And even though, with our eyes we can see
+that's a car, we're on a big wide open
+
+01:00:24.489 --> 01:00:28.210
+road, it's pretty clear that we
+shouldn't go too close to that.
+
+01:00:28.210 --> 01:00:31.130
+The root map actually just
+had a single lane and
+
+01:00:31.130 --> 01:00:33.740
+the Cornell vehicle started moving
+just slowly enough that our
+
+01:00:33.740 --> 01:00:36.500
+classifier couldn't classify
+that it was a vehicle.
+
+01:00:36.500 --> 01:00:38.618
+And in fact we had about five bugs,
+
+01:00:38.618 --> 01:00:43.587
+they had about five bugs we'd been trying
+to pass them for three or four minutes,
+
+01:00:43.587 --> 01:00:48.289
+and the interaction of those bugs
+created this almost laughable accident.
+
+01:00:48.289 --> 01:00:53.235
+We did combine our data logs and we wrote
+sort of a 32 page purevuge accident
+
+01:00:53.235 --> 01:00:57.424
+report general article on this
+&gt;&gt; For the journal of field robotics,
+
+01:00:57.424 --> 01:01:02.440
+we talked about this in other incidents,
+but one of the things that even
+
+01:01:02.440 --> 01:01:07.440
+though if we wanted to for
+trying to win the race in 2007,
+
+01:01:07.440 --> 01:01:09.730
+you would probably make
+different system design choices.
+
+01:01:09.730 --> 01:01:12.150
+We were curiosity driven
+to push basic research.
+
+01:01:12.150 --> 01:01:16.950
+And one of the things that we did was,
+Albert Wang, wrote a vision based
+
+01:01:16.950 --> 01:01:21.560
+navigation system for his PhD,
+in which we took the Spark's waypoints
+
+01:01:21.560 --> 01:01:24.680
+given by the global controller,
+and online tried to use laser and
+
+01:01:24.680 --> 01:01:28.670
+vision data to fit the curves and
+try to steer the vehicle in real time.
+
+01:01:28.670 --> 01:01:36.180
+And this is an example of testing it
+in a place we did near Los Angeles.
+
+01:01:36.180 --> 01:01:39.000
+We rented a test facility
+where we could drive.
+
+01:01:39.000 --> 01:01:40.690
+Actually, no, this is from the real race.
+
+01:01:40.690 --> 01:01:45.640
+This is from the qualifying event for the
+urban challenge and showing the vehicle
+
+01:01:45.640 --> 01:01:48.840
+driving on this curved road with
+weight points that are very far apart.
+
+01:01:48.840 --> 01:01:52.520
+And occasionally, the vehicle would
+get confused by shadows and so forth.
+
+01:01:52.520 --> 01:01:53.980
+And it would stop and start.
+
+01:01:53.980 --> 01:01:56.020
+But it did lead to a strong PhD thesis.
+
+01:01:56.020 --> 01:02:00.050
+And in some ways, the task of using
+vision to try to follow the lanes,
+
+01:02:00.050 --> 01:02:02.370
+to navigate off of the signs, text.
+
+01:02:02.370 --> 01:02:05.910
+That embraces actually some
+still pretty hard issues.
+
+01:02:05.910 --> 01:02:08.400
+So this was back in 2007, and
+
+01:02:08.400 --> 01:02:13.770
+if you flash forward to 2015,
+going back to what Elon Musk said,
+
+01:02:13.770 --> 01:02:17.790
+I would say that self-driving
+vehicles have a perception problem.
+
+01:02:17.790 --> 01:02:21.820
+You've probably seen some of
+these amazing Google videos.
+
+01:02:21.820 --> 01:02:24.720
+People seen the taking
+the blind person to Taco Bell?
+
+01:02:24.720 --> 01:02:26.160
+Everyone seen that one?
+
+01:02:26.160 --> 01:02:28.850
+And then, driving on city streets in 2014.
+
+01:02:28.850 --> 01:02:33.450
+And then the new prototype vehicle,
+that was the initial release of that.
+
+01:02:33.450 --> 01:02:38.000
+And the way I describe it, and I have just
+such awe and respect for the Google team.
+
+01:02:38.000 --> 01:02:41.560
+It's really an amazing project,
+that might one day transform mobility.
+
+01:02:41.560 --> 01:02:44.860
+But the technology is
+somewhat misunderstood and
+
+01:02:44.860 --> 01:02:47.640
+has been overhyped,
+at least by some, I think.
+
+01:02:47.640 --> 01:02:52.390
+And I think if you say that this is a self
+solved problem, it's important to realize
+
+01:02:52.390 --> 01:02:56.130
+just because it works for Google doesn't
+mean it will work for everyone else.
+
+01:02:56.130 --> 01:03:00.000
+And it relates to how the vehicle maps
+the world, what sensors it has, and
+
+01:03:00.000 --> 01:03:01.920
+how you design the system.
+
+01:03:01.920 --> 01:03:05.440
+So if, so what I've done recently.
+
+01:03:05.440 --> 01:03:06.970
+Well, any questions so far?
+
+01:03:06.970 --> 01:03:08.958
+Anything you guys want to discuss?
+
+01:03:08.958 --> 01:03:10.450
+This okay Andrea?
+
+01:03:10.450 --> 01:03:14.290
+So if the-
+&gt;&gt; We don't have a mic for them.
+
+01:03:14.290 --> 01:03:15.750
+&gt;&gt; Okay, so we can't have a discussion.
+
+01:03:15.750 --> 01:03:17.500
+Okay, well you can ask anyway.
+
+01:03:17.500 --> 01:03:18.630
+Yeah, please ask, just shout.
+
+01:03:18.630 --> 01:03:20.590
+&gt;&gt; So there is one question.
+
+01:03:20.590 --> 01:03:22.560
+&gt;&gt; Yes.
+&gt;&gt; When you said okay, this works for
+
+01:03:22.560 --> 01:03:25.590
+Google but it might not work for
+everyone else.
+
+01:03:25.590 --> 01:03:26.330
+What do you mean?
+
+01:03:26.330 --> 01:03:31.060
+Google not work with different sensors or-
+&gt;&gt; I think what I would say is that if
+
+01:03:32.090 --> 01:03:36.280
+you think about, I always fall back
+to the question of representation.
+
+01:03:36.280 --> 01:03:37.650
+How do you represent the environment?
+
+01:03:37.650 --> 01:03:39.220
+What assumptions do you make?
+
+01:03:39.220 --> 01:03:41.470
+And so the question is,
+why would it not work for
+
+01:03:41.470 --> 01:03:43.240
+everyone else if it works for Google?
+
+01:03:43.240 --> 01:03:46.177
+So Google, for example,
+they use very detailed prior maps so
+
+01:03:46.177 --> 01:03:49.126
+the reflectants of the laser
+scanner off of the road surface.
+
+01:03:49.126 --> 01:03:53.418
+So one big difference is if you were using
+vision only like this vehicle versus using
+
+01:03:53.418 --> 01:03:55.766
+a laser scanner, that's a big difference.
+
+01:03:55.766 --> 01:03:58.787
+Another difference is do you
+have a very precise prior map?
+
+01:03:58.787 --> 01:04:00.227
+Versus not having a prior map.
+
+01:04:00.227 --> 01:04:04.535
+These are some of the choices in
+an autonomy system that you have to make.
+
+01:04:04.535 --> 01:04:05.235
+Make sense?
+
+01:04:05.235 --> 01:04:05.896
+Yeah?
+
+01:04:05.896 --> 01:04:07.016
+Speak up.
+
+01:04:07.016 --> 01:04:10.740
+&gt;&gt; Do you know if Google
+has to have a prior map?
+
+01:04:10.740 --> 01:04:13.800
+&gt;&gt; My understanding is that they do and
+I can point you to places that describe
+
+01:04:13.800 --> 01:04:16.100
+how their car works, and
+I'm not saying that it's the wrong choice.
+
+01:04:17.900 --> 01:04:20.880
+They've had some amazing performance and
+especially, it gets better and
+
+01:04:20.880 --> 01:04:22.530
+better with time.
+
+01:04:22.530 --> 01:04:27.555
+So just to help convey my thoughts
+that Duckietown engineers
+
+01:04:27.555 --> 01:04:31.890
+will have a bright future
+ahead in other endeavors,
+
+01:04:31.890 --> 01:04:36.435
+if that they're really hard
+problems here to work on.
+
+01:04:36.435 --> 01:04:39.529
+And so one of the things I did is I
+started collecting data from my own
+
+01:04:39.529 --> 01:04:41.305
+commuting, driving around Boston.
+
+01:04:41.305 --> 01:04:43.951
+So from a place called
+Newton where I live,
+
+01:04:43.951 --> 01:04:46.606
+this is making a left turn across traffic.
+
+01:04:46.606 --> 01:04:50.086
+Where to the right,
+there are cars as far as the eye can see.
+
+01:04:50.086 --> 01:04:53.446
+And to the left, there are cars coming
+pretty quickly with a mailbox and
+
+01:04:53.446 --> 01:04:54.685
+a tree including things.
+
+01:04:54.685 --> 01:04:57.786
+And so, you can see the difficulty I
+have in trying to make a left turn.
+
+01:05:12.016 --> 01:05:15.020
+And so, the way that I did that was
+actually by waving at another person.
+
+01:05:15.020 --> 01:05:19.338
+And so one thing I hope we can get to the
+stage where we actually have Duckietown
+
+01:05:19.338 --> 01:05:23.059
+traffic and so there's traffic
+interaction, and the ability for
+
+01:05:23.059 --> 01:05:25.336
+vehicles to communicate with another.
+
+01:05:25.336 --> 01:05:27.795
+Another challenge is does anyone
+here know Coolidge Corner?
+
+01:05:27.795 --> 01:05:32.136
+So in Brookline, here's driving outbound
+on Beacon Street at Coolidge Corner.
+
+01:05:32.136 --> 01:05:33.857
+See, there's a policeman there and
+
+01:05:33.857 --> 01:05:36.756
+they just raise their arm even
+though there's a green light.
+
+01:05:36.756 --> 01:05:43.615
+So the policeman, the trolley,
+the see, branch of the green line.
+
+01:05:43.615 --> 01:05:47.235
+He just stuck his arm up and
+that means stop.
+
+01:05:47.235 --> 01:05:50.601
+In fact, the full sequence for
+that one, this is a passing,
+
+01:05:50.601 --> 01:05:54.627
+flashing lights with one police officer
+waving me through a red light and
+
+01:05:54.627 --> 01:05:57.135
+then it'll go up to
+the next intersection and
+
+01:05:57.135 --> 01:06:01.236
+the police officer will stop me at
+a green light, the one I showed before.
+
+01:06:01.236 --> 01:06:05.997
+So as a programmer, how do you write the
+code that says, always stop for red lights
+
+01:06:05.997 --> 01:06:10.731
+unless there's a man on the side of
+the road that's waving you through?
+
+01:06:10.731 --> 01:06:13.920
+&gt;&gt; Or always go through green lights
+unless there's a man sticking out his arm
+
+01:06:13.920 --> 01:06:14.990
+and telling you to stop.
+
+01:06:14.990 --> 01:06:18.537
+Now maybe that's easier in that
+the car senses any obstacle, but
+
+01:06:18.537 --> 01:06:20.745
+sometimes in Boston or crowded cities.
+
+01:06:20.745 --> 01:06:24.878
+If you're always worrying about
+someone stepping into the road,
+
+01:06:24.878 --> 01:06:27.025
+maybe how do you do the decisions?
+
+01:06:27.025 --> 01:06:29.005
+So, went back to this
+representation question.
+
+01:06:29.005 --> 01:06:33.898
+If you think of the difference
+between the top and the bottom,
+
+01:06:33.898 --> 01:06:37.920
+this is one day and
+this is four days later.
+
+01:06:37.920 --> 01:06:39.639
+What's difference between the two videos?
+
+01:06:40.670 --> 01:06:44.826
+And hopefully, you'll recognizer
+where this is filmed from.
+
+01:06:44.826 --> 01:06:46.906
+So anybody, what's the-
+&gt;&gt; Different lighting conditions.
+
+01:06:46.906 --> 01:06:47.786
+&gt;&gt; Different lighting conditions.
+
+01:06:47.786 --> 01:06:49.061
+Sunny day, drowsy day.
+
+01:06:49.061 --> 01:06:51.921
+By the way,
+look how close this truck is coming.
+
+01:06:51.921 --> 01:06:55.722
+But there's another change and
+see this, the lanes, they're gone.
+
+01:06:55.722 --> 01:06:59.041
+They repaved the bridge,
+so the lines are gone.
+
+01:06:59.041 --> 01:07:03.392
+So if your representation assumes that you
+have this very detailed prior map and so
+
+01:07:03.392 --> 01:07:05.482
+how does the vehicle decide on the fly?
+
+01:07:05.482 --> 01:07:08.022
+How to navigate in such a situation?
+
+01:07:08.022 --> 01:07:11.795
+So the next day, I walked across and
+the lines are gone and
+
+01:07:11.795 --> 01:07:15.576
+let alone what we have today
+in terms of adverse weather.
+
+01:07:15.576 --> 01:07:19.716
+With snow, could you drive
+across the Manesuv bridge today?
+
+01:07:19.716 --> 01:07:21.455
+What would be involved?
+
+01:07:21.455 --> 01:07:24.906
+So, there's a lot of great
+questions buried in this.
+
+01:07:24.906 --> 01:07:26.975
+And I think for me,
+one of them is robustness.
+
+01:07:26.975 --> 01:07:28.896
+How do you achieve robust perception?
+
+01:07:28.896 --> 01:07:33.019
+And if we isolate the different
+academic disciplines of control and
+
+01:07:33.019 --> 01:07:35.560
+motion planning, and things like slum.
+
+01:07:35.560 --> 01:07:38.540
+Sometimes when you isolate different
+components of the problem,
+
+01:07:38.540 --> 01:07:40.785
+you can make it easier to
+get like a paper written.
+
+01:07:40.785 --> 01:07:45.304
+But somehow, it's putting the whole
+system together anything that can be
+
+01:07:45.304 --> 01:07:47.755
+trusted that requires some extra lead.
+
+01:07:47.755 --> 01:07:49.421
+And that's why I think,
+
+01:07:49.421 --> 01:07:53.875
+there's a lot of great level great
+graduate level material here.
+
+01:07:53.875 --> 01:07:56.456
+So just briefly, how the Google car works.
+
+01:07:56.456 --> 01:08:01.096
+This is from a screenshot from
+a talk they gave a few years ago.
+
+01:08:01.096 --> 01:08:05.215
+You build the car, you build a platform,
+you give it sensors,
+
+01:08:05.215 --> 01:08:09.596
+computers and then you make a map
+in advance and then you localize.
+
+01:08:09.596 --> 01:08:13.470
+Localization, where am I,
+you position relative to the map.
+
+01:08:13.470 --> 01:08:16.720
+And then if you know your position,
+you can predict what you should see.
+
+01:08:16.720 --> 01:08:20.970
+And then based on that, I think of
+it as predicting the expected and
+
+01:08:20.970 --> 01:08:22.400
+handling the unexpected.
+
+01:08:22.400 --> 01:08:26.800
+You can then deal with the unexpected and
+track vehicles, and pedestrians.
+
+01:08:26.800 --> 01:08:30.030
+And then finally, solve the motion
+planning problem control and
+
+01:08:30.030 --> 01:08:32.060
+control to go through the world.
+
+01:08:32.060 --> 01:08:35.885
+So this mapping and
+localization piece is here Google uses,
+
+01:08:35.885 --> 01:08:40.686
+this very accurate representation of
+the reflectance of the road surface.
+
+01:08:40.686 --> 01:08:44.861
+And so one of the challenges you're gonna
+have, especially with these inexpensive
+
+01:08:44.861 --> 01:08:48.705
+cameras is just dealing with the sort
+of messiness of real world vision data.
+
+01:08:48.705 --> 01:08:53.060
+And so if you remember before, I showed
+the video of the police officer waving,
+
+01:08:53.060 --> 01:08:54.175
+raising his hands.
+
+01:08:54.175 --> 01:08:58.295
+This is at the same intersection and
+tell me what you see in this picture.
+
+01:08:58.295 --> 01:09:02.846
+&gt;&gt; [INAUDIBLE]
+&gt;&gt; Anyone see the sun?
+
+01:09:02.846 --> 01:09:04.406
+&gt;&gt; Yep.
+
+01:09:04.406 --> 01:09:05.386
+Yes.
+&gt;&gt; Anyone see the traffic lights?
+
+01:09:05.386 --> 01:09:06.386
+&gt;&gt; Yeah.
+
+01:09:06.386 --> 01:09:07.905
+&gt;&gt; Anyone see the police
+officer standing right here?
+
+01:09:10.705 --> 01:09:11.946
+&gt;&gt; So actually,
+the police officer is right here.
+
+01:09:11.946 --> 01:09:13.465
+These are the shadows of his legs.
+
+01:09:14.866 --> 01:09:18.346
+&gt;&gt; So, there are some big questions.
+
+01:09:18.346 --> 01:09:20.326
+So to sort of wrap up and
+summarize, well, I can-
+
+01:09:20.326 --> 01:09:22.626
+&gt;&gt; [INAUDIBLE]
+
+01:09:22.626 --> 01:09:23.145
+&gt;&gt; Of course.
+
+01:09:23.145 --> 01:09:23.685
+Yeah, yeah, yeah.
+
+01:09:23.685 --> 01:09:25.365
+&gt;&gt; So this is-
+&gt;&gt; Single-
+
+01:09:25.365 --> 01:09:27.586
+&gt;&gt; I would say, I see it [INAUDIBLE].
+
+01:09:27.586 --> 01:09:28.442
+&gt;&gt; Probably would.
+Yeah and
+
+01:09:28.442 --> 01:09:33.165
+my windscreen needs to be cleaned off,
+and you might sort of move your head.
+
+01:09:33.165 --> 01:09:36.746
+Actually, what happened is the police
+officer, he made eye contact with me.
+
+01:09:36.746 --> 01:09:40.831
+Even though I was sort of blinded
+by the light, he walked out and
+
+01:09:40.831 --> 01:09:44.006
+he did this sort of wave at me and
+I nodded my head.
+
+01:09:44.006 --> 01:09:45.555
+So, he turned his back to me and
+
+01:09:45.555 --> 01:09:48.725
+was waving passengers across
+even though the light was green.
+
+01:09:48.725 --> 01:09:51.403
+And so I drive through that
+intersection every day and
+
+01:09:51.403 --> 01:09:54.737
+I know it pretty much between 5
+o'clock and 6 o'clock exactly,
+
+01:09:54.737 --> 01:09:58.388
+there's a police officer there and
+then he or she leaves at 6 o'clock.
+
+01:09:58.388 --> 01:10:01.180
+And so I knew to expect
+the police officer and he, and
+
+01:10:01.180 --> 01:10:03.285
+I communicated that he would be there.
+
+01:10:03.285 --> 01:10:05.145
+So, yes?
+
+01:10:05.145 --> 01:10:06.985
+&gt;&gt; I do have an answer for that.
+
+01:10:06.985 --> 01:10:08.026
+&gt;&gt; Yes.
+
+01:10:08.026 --> 01:10:13.986
+&gt;&gt; There other sensors that,
+we would be able to mark, [INAUDIBLE].
+
+01:10:13.986 --> 01:10:20.186
+If you see the-
+&gt;&gt; Changes.
+
+01:10:20.186 --> 01:10:21.625
+&gt;&gt; Changes.
+
+01:10:21.625 --> 01:10:23.209
+So they can look at the Sun and
+
+01:10:23.209 --> 01:10:26.196
+look at the [INAUDIBLE]
+contrast [INAUDIBLE] contrast.
+
+01:10:26.196 --> 01:10:29.876
+So they will be able to
+see the [INAUDIBLE].
+
+01:10:29.876 --> 01:10:31.536
+&gt;&gt; And
+there are high dynamic range cameras.
+
+01:10:31.536 --> 01:10:34.476
+There are ways to use polarization,
+they probably are.
+
+01:10:34.476 --> 01:10:38.470
+So when I think about the big questions
+going forward, the technical challenges.
+
+01:10:38.470 --> 01:10:40.265
+So, one of them is maintaining the maps.
+
+01:10:40.265 --> 01:10:42.525
+So, maintaining the maps and
+the map-based approach.
+
+01:10:42.525 --> 01:10:47.523
+Adverse weather as we can see out the
+window is tough, interacting with people,
+
+01:10:47.523 --> 01:10:50.462
+both inside and
+outside the car, other cars and
+
+01:10:50.462 --> 01:10:53.125
+what I would call robust computer vision.
+
+01:10:53.125 --> 01:10:55.645
+So, who here is familiar an ROC curve?
+
+01:10:55.645 --> 01:10:57.126
+Any of you heard of an ROC curve?
+
+01:10:57.126 --> 01:10:58.785
+Receive operating characteristic curve?
+
+01:10:58.785 --> 01:11:02.925
+You might have have seen Precision Recall
+Curve, PR curve in machine learning?
+
+01:11:02.925 --> 01:11:06.648
+And so if you think about,
+I may allowed to write on the board or
+
+01:11:06.648 --> 01:11:08.165
+will it not be captured?
+
+01:11:08.165 --> 01:11:09.525
+&gt;&gt; Yes and that's [INAUDIBLE].
+
+01:11:09.525 --> 01:11:10.085
+&gt;&gt; Just here.
+
+01:11:15.006 --> 01:11:20.756
+&gt;&gt; So, we have the probability of false
+alarm and the probability of detection.
+
+01:11:20.756 --> 01:11:22.640
+So, it might be this one right here.
+
+01:11:24.130 --> 01:11:28.552
+The perfect sensor would give you perfect
+detection with no false alarms, but
+
+01:11:28.552 --> 01:11:32.516
+real sensors don't have that,
+they have something like kinda this.
+
+01:11:32.516 --> 01:11:34.748
+Where you have to choose a trade off,
+
+01:11:34.748 --> 01:11:37.775
+like maybe you could get
+this level of detection.
+
+01:11:37.775 --> 01:11:41.033
+But with this level of false alarms,
+which probably is not very good for
+
+01:11:41.033 --> 01:11:42.550
+many applications.
+
+01:11:42.550 --> 01:11:45.336
+People have spent years
+improving sensors and
+
+01:11:45.336 --> 01:11:48.487
+algorithms to try to move
+kind of in this direction.
+
+01:11:48.487 --> 01:11:53.172
+And so, I think that the real
+challenge is how do we get to
+
+01:11:53.172 --> 01:11:57.262
+this point on the curve in
+terms of robustness and
+
+01:11:57.262 --> 01:12:02.975
+then thinking about how it impacts
+the control Control algorithm.
+
+01:12:02.975 --> 01:12:06.864
+So if you've heard of the levels of
+autonomy, so level two, level three,
+
+01:12:06.864 --> 01:12:07.568
+level four.
+
+01:12:07.568 --> 01:12:11.790
+So level 4 is fully autonomous,
+you could go to sleep in your car.
+
+01:12:11.790 --> 01:12:15.060
+Level 2 is an active safety system
+where the human must pay attention,
+
+01:12:15.060 --> 01:12:17.920
+but the things like anti-lock brakes or
+lane keeping assist or
+
+01:12:17.920 --> 01:12:20.910
+adaptive cruise control
+will jump in to stop.
+
+01:12:20.910 --> 01:12:24.532
+Level 3 is in the middle, which is partial
+automation, and you could argue that Tesla
+
+01:12:24.532 --> 01:12:28.003
+auto pilot is level three, although they
+would probably describe it as level two,
+
+01:12:28.003 --> 01:12:30.680
+but where you don't have
+to pay as much attention.
+
+01:12:30.680 --> 01:12:34.250
+And the big question for
+level 3 is if it's partial automation,
+
+01:12:34.250 --> 01:12:38.320
+you give control to the car for,
+say, 98% of the time.
+
+01:12:38.320 --> 01:12:39.980
+Sometimes it might give
+you a lot of warning,
+
+01:12:39.980 --> 01:12:43.080
+sometimes it might more suddenly
+hand back control to you.
+
+01:12:43.080 --> 01:12:45.100
+And so,
+can humans be trusted to pay attention?
+
+01:12:46.370 --> 01:12:48.690
+Level 4 is can you make your system so
+
+01:12:48.690 --> 01:12:53.560
+good that the number of false alarms is
+not too high on terms of stopping and
+
+01:12:53.560 --> 01:12:56.098
+starting unnecessarily while
+still keeping robust detection?
+
+01:12:56.098 --> 01:13:01.620
+And so it would be interesting
+to have a sort of level 2.99,
+
+01:13:01.620 --> 01:13:06.760
+as I call it, as like a third approach
+where you try to keep the human in charge,
+
+01:13:06.760 --> 01:13:10.480
+but jump in if needed,
+if something might be going wrong.
+
+01:13:10.480 --> 01:13:15.900
+So, in a ducky town context,
+where we have ducky robot interaction.
+
+01:13:18.900 --> 01:13:20.530
+&gt;&gt; Yes, you have.
+
+01:13:20.530 --> 01:13:23.250
+&gt;&gt; Yeah, so there are ways to explore.
+
+01:13:23.250 --> 01:13:27.110
+So this, I think, is a nice platform for
+adjusting some of these questions.
+
+01:13:27.110 --> 01:13:31.010
+&gt;&gt; There's a question about level 4,
+I'm talking about human.
+
+01:13:31.010 --> 01:13:35.620
+If we look at statistics about human
+drive in terms of how many false alarms?
+
+01:13:35.620 --> 01:13:37.000
+&gt;&gt; Yes.
+
+01:13:37.000 --> 01:13:37.936
+&gt;&gt; Where would you put them?
+
+01:13:37.936 --> 01:13:39.602
+Because they're not perfectly level 4.
+
+01:13:39.602 --> 01:13:40.280
+&gt;&gt; Yeah.
+
+01:13:40.280 --> 01:13:41.210
+&gt;&gt; So where would you?
+
+01:13:41.210 --> 01:13:42.860
+&gt;&gt; Yeah that's a tough one.
+
+01:13:42.860 --> 01:13:44.400
+&gt;&gt; If you were like,
+trying to optimize for
+
+01:13:44.400 --> 01:13:48.570
+a certain goal, just replacing the
+performance of the, what would that be?
+
+01:13:48.570 --> 01:13:52.850
+&gt;&gt; Yeah, that's a tough one,
+I think you know,
+
+01:13:52.850 --> 01:13:58.210
+one of my colleagues, like Ed Olson
+in Michigan has said that, what if we
+
+01:13:58.210 --> 01:14:01.820
+could get to the level of the probability
+of getting struck by lightning?
+
+01:14:01.820 --> 01:14:04.210
+What's the probability of
+something like that happen?
+
+01:14:04.210 --> 01:14:09.220
+Order of a few years ago 57 people were
+struck by lightning and killed in the US.
+
+01:14:09.220 --> 01:14:15.980
+Terrible, but it's order of 32,000
+fatalities per year in cars in the U.S. So
+
+01:14:15.980 --> 01:14:22.570
+I think that the humans,
+it depends on the task, really.
+
+01:14:22.570 --> 01:14:26.450
+So in some of the image net
+deep learning examples of
+
+01:14:26.450 --> 01:14:30.780
+visual abstract ignition off the internet,
+like using, say,
+
+01:14:30.780 --> 01:14:34.240
+a million images harvested from
+the internet, sometimes the images are so
+
+01:14:34.240 --> 01:14:39.640
+challenging that human performance is
+only 95% detection, 95% precision.
+
+01:14:39.640 --> 01:14:43.030
+But I think for
+driving down the street and
+
+01:14:43.030 --> 01:14:45.930
+sort of recognizing that there's
+a parked car on the side of the road or
+
+01:14:45.930 --> 01:14:50.610
+something, I think humans are actually
+quite good at the detection part.
+
+01:14:50.610 --> 01:14:56.560
+Maybe it's the integrated not speeding,
+paying attention, doing the right thing.
+
+01:14:56.560 --> 01:14:58.580
+So the short answer is,
+I guess I don't know.
+
+01:14:58.580 --> 01:15:00.990
+There's some good questions there.
+
+01:15:00.990 --> 01:15:03.325
+So Mr. Citio, how are we doing?
+
+01:15:03.325 --> 01:15:06.410
+&gt;&gt; [INAUDIBLE]
+&gt;&gt; Okay, so a little bit more.
+
+01:15:06.410 --> 01:15:09.890
+So what I thought I might just do
+with my final maybe five minutes,
+
+01:15:09.890 --> 01:15:12.520
+a little bit on
+the historical perspective.
+
+01:15:12.520 --> 01:15:16.010
+And so has anyone heard of Hans Moravec?
+
+01:15:17.230 --> 01:15:20.580
+He really should go down in
+history as a famous roboticist.
+
+01:15:20.580 --> 01:15:23.640
+He, this is a-
+&gt;&gt; Back in the 1970s,
+
+01:15:23.640 --> 01:15:27.500
+Moravec started what he thought
+would be a very simple task.
+
+01:15:28.570 --> 01:15:32.740
+He hit a problem.
+&gt;&gt; There were things that
+
+01:15:32.740 --> 01:15:36.910
+at first looks like it might be easier
+because human beings do them so
+
+01:15:36.910 --> 01:15:41.120
+easily, that, in fact, turned out
+to be heartbreakingly difficult.
+
+01:15:41.120 --> 01:15:44.880
+And those were things like looking at
+the world and seeing what objects there
+
+01:15:44.880 --> 01:15:49.250
+were in front of the camera that
+was connected to the computer, and
+
+01:15:49.250 --> 01:15:53.209
+moving around competently in the world,
+you know, the typical robot tasks.
+
+01:15:55.000 --> 01:15:57.806
+&gt;&gt; So this-
+&gt;&gt; Each slash here represents 15 minutes
+
+01:15:57.806 --> 01:15:59.798
+of computing time.
+
+01:16:01.000 --> 01:16:01.920
+&gt;&gt; Which is kind of amazing.
+
+01:16:01.920 --> 01:16:03.660
+So this is from Stanford.
+
+01:16:03.660 --> 01:16:07.240
+They did an outdoor set of experiments,
+and
+
+01:16:07.240 --> 01:16:12.690
+they had a single camera on a sliding
+mechanism that could take nine pictures.
+
+01:16:12.690 --> 01:16:15.640
+And he did this sort of nested
+stereo approach where he had
+
+01:16:15.640 --> 01:16:18.660
+some camera images pairs were close
+to one another some were further.
+
+01:16:18.660 --> 01:16:20.330
+The further ones gave greater disparities.
+
+01:16:20.330 --> 01:16:25.210
+The closer ones made it easier
+to do correspondence and
+
+01:16:25.210 --> 01:16:29.690
+they would take one snapshot,
+process that data and
+
+01:16:29.690 --> 01:16:33.570
+then it took 15 minutes of
+processing to move and go again.
+
+01:16:33.570 --> 01:16:38.230
+So and in that 15 minutes the sun would
+move and the shadows would move and
+
+01:16:38.230 --> 01:16:42.140
+so this this made it hard
+to do real experiments.
+
+01:16:42.140 --> 01:16:44.160
+But Moravec was really ahead of his time.
+
+01:16:44.160 --> 01:16:45.060
+He's one of the first to do it.
+
+01:16:45.060 --> 01:16:49.570
+And so as Lucca mentioned, this problem
+of SLAM mapping and localization of
+
+01:16:49.570 --> 01:16:53.450
+correcting the uncertainty in your motion
+while concurrently building a map.
+
+01:16:53.450 --> 01:16:54.810
+This is an example from one of my Ph.D.
+
+01:16:54.810 --> 01:16:56.300
+students recently.
+
+01:16:56.300 --> 01:17:01.250
+This is something I've worked a lot
+on my career, and it's, in many ways,
+
+01:17:01.250 --> 01:17:04.260
+aspects of SLAM are quite well
+understood now in robotics.
+
+01:17:04.260 --> 01:17:08.660
+But I still think they're great
+research challenges and questions.
+
+01:17:08.660 --> 01:17:11.140
+So the mapping localization
+could be one area where
+
+01:17:11.140 --> 01:17:13.520
+there could be interesting things to do.
+
+01:17:13.520 --> 01:17:14.900
+Would you agree with that?
+
+01:17:14.900 --> 01:17:15.690
+&gt;&gt; Okay.
+&gt;&gt; Yes.
+
+01:17:15.690 --> 01:17:18.030
+&gt;&gt; Yeah, and so he gave an intro to SLAM.
+
+01:17:18.030 --> 01:17:22.050
+So funny I'll just say in terms of that
+while mapping a localization is difficult,
+
+01:17:22.050 --> 01:17:23.950
+I think about these different
+axes of difficulty,
+
+01:17:23.950 --> 01:17:27.420
+like, how you represent the world,
+how you perform inference, and
+
+01:17:27.420 --> 01:17:29.508
+how you build systems and
+make them autonomous.
+
+01:17:29.508 --> 01:17:32.585
+And let's see.
+
+01:17:32.585 --> 01:17:36.680
+So I think I should wrap up.
+
+01:17:36.680 --> 01:17:40.290
+I think what I want to say is
+just a real quick example.
+
+01:17:40.290 --> 01:17:41.560
+Some more recent work in SLAM.
+
+01:17:41.560 --> 01:17:43.590
+So some lessons learned, you know,
+
+01:17:43.590 --> 01:17:48.340
+recently that you can build rich dense
+representations of the world with GPUs.
+
+01:17:48.340 --> 01:17:51.810
+So we don't have the GPU on the Duckiebot,
+but GPUs and
+
+01:17:51.810 --> 01:17:54.900
+this highly parallel processing
+they enable are kind of exciting.
+
+01:17:54.900 --> 01:17:57.860
+This is from some work in Ireland,
+a guy named Tom Whelon and
+
+01:17:57.860 --> 01:18:00.610
+John McDonald,
+his advisor who we collaborated with.
+
+01:18:00.610 --> 01:18:02.890
+And this is mapping a small
+apartment in Ireland,
+
+01:18:02.890 --> 01:18:07.970
+it's about three years ago,
+using a single handheld Kinect sensor.
+
+01:18:07.970 --> 01:18:11.180
+And you can see the sort of quality of
+the reconstruction that you can get.
+
+01:18:11.180 --> 01:18:12.510
+I'll zoom in here.
+
+01:18:12.510 --> 01:18:14.640
+And just with the single
+sensor move through the world,
+
+01:18:14.640 --> 01:18:16.140
+you could build a model like this.
+
+01:18:16.140 --> 01:18:21.550
+So that's using depth and
+information from an RGBD camera,
+
+01:18:21.550 --> 01:18:26.550
+and if you combine it with SLAM, you can
+do this as an example of loop closure.
+
+01:18:26.550 --> 01:18:30.230
+Going around part of this data center
+where you can build a larger system where
+
+01:18:30.230 --> 01:18:33.150
+you combine representing
+your post trajectory,
+
+01:18:33.150 --> 01:18:39.040
+the sort of things that Luca is a world
+leader in with building the dense models.
+
+01:18:39.040 --> 01:18:41.080
+And here you can see a little
+fly through the model.
+
+01:18:41.080 --> 01:18:45.260
+So I'd love it if robots could build
+models of the world online and
+
+01:18:45.260 --> 01:18:49.040
+then match those against past
+experiences to try to navigate robustly.
+
+01:18:49.040 --> 01:18:54.630
+One of the exciting research topics for
+the future is connecting in objects.
+
+01:18:54.630 --> 01:18:56.850
+So, as mentioned in one of
+the earlier presentations,
+
+01:18:56.850 --> 01:19:00.410
+so if you think of another historical
+pioneer, was a guy named David Maher.
+
+01:19:00.410 --> 01:19:01.900
+Who's heard of David Maher?
+
+01:19:01.900 --> 01:19:04.030
+He wrote a very influential
+book on vision.
+
+01:19:04.030 --> 01:19:07.780
+He was here at MIT and he passed
+away well before his time, sadly.
+
+01:19:07.780 --> 01:19:11.660
+But he said vision is a process of
+discovering from images what is present in
+
+01:19:11.660 --> 01:19:13.210
+the world and where it is.
+
+01:19:13.210 --> 01:19:15.110
+And this sort of interplay
+between what and
+
+01:19:15.110 --> 01:19:18.890
+where, I think if we develop a more
+object-based understanding of the world,
+
+01:19:18.890 --> 01:19:23.720
+where we can think about recognizing like
+the information conveying about objects,
+
+01:19:23.720 --> 01:19:27.740
+and we can use that to
+know where we are and
+
+01:19:27.740 --> 01:19:31.050
+to use knowing where we are to
+predict what objects we could see.
+
+01:19:31.050 --> 01:19:32.360
+That's quite exciting.
+
+01:19:32.360 --> 01:19:36.482
+And so an example I'll show another time,
+one of my students, Sudeep Pillai,
+
+01:19:36.482 --> 01:19:41.490
+has worked on mapping an object-based,
+combining object-recognition with SLAM.
+
+01:19:41.490 --> 01:19:44.490
+So to conclude,
+my dream is persistent autonomy and
+
+01:19:44.490 --> 01:19:47.660
+lifelong map learning in environments
+that are highly dynamic.
+
+01:19:47.660 --> 01:19:52.219
+And how you robustly integrate mapping and
+localization with real-time planning and
+
+01:19:52.219 --> 01:19:52.787
+control.
+
+01:19:52.787 --> 01:19:55.434
+And so
+this whole question of robustness and
+
+01:19:55.434 --> 01:19:58.589
+how you approach it from
+a more formal perspective.
+
+01:19:58.589 --> 01:20:02.381
+And then representation, how you
+represent the world in terms of not just
+
+01:20:02.381 --> 01:20:06.991
+the geometry of the world, the appearance,
+but also the more semantic understanding.
+
+01:20:06.991 --> 01:20:11.829
+And then how you deal with change in
+the world, dynamically understanding
+
+01:20:11.829 --> 01:20:16.454
+scenes and learning about how objects
+behave and achieve robustness.
+
+01:20:16.454 --> 01:20:21.414
+And my final slide has an advertisement
+for joining Docutown Engineering Company.
+
+01:20:21.414 --> 01:20:25.121
+It's an extremely exciting time
+to work in mobile sensing.
+
+01:20:25.121 --> 01:20:29.445
+And Postdocs and PhD students that
+can build real-time 3D perception,
+
+01:20:29.445 --> 01:20:33.011
+navigation and motion planning
+systems are in high demand.
+
+01:20:33.011 --> 01:20:38.200
+Virtual reality, mobile devices,
+self-driving vehicles, drones.
+
+01:20:38.200 --> 01:20:41.140
+The Google, Apple,
+Facebook's of the world and Uber.
+
+01:20:41.140 --> 01:20:45.040
+The traditional companies like Ford and
+Delphi, and
+
+01:20:45.040 --> 01:20:46.750
+there's a lot of great
+start-ups out there.
+
+01:20:46.750 --> 01:20:51.350
+So I think that if you have
+an interest and a passion in this and
+
+01:20:51.350 --> 01:20:55.570
+you work on building
+mobile autonomous systems,
+
+01:20:55.570 --> 01:20:59.340
+then there will be great opportunities for
+you in the future.
+
+01:21:00.820 --> 01:21:03.145
+So I'll stop there and
+answer any questions.
+
+01:21:03.145 --> 01:21:06.360
+[INAUDIBLE] Finish with the lecture.
+
+01:21:06.360 --> 01:21:07.570
+&gt;&gt; Okay.
+Is there more?
+
+01:21:07.570 --> 01:21:08.660
+&gt;&gt; I just have a final slide.
+
+01:21:08.660 --> 01:21:09.411
+&gt;&gt; Okay.
+Sure.
+
+01:21:09.411 --> 01:21:10.291
+Let's do your final slide.
+
+01:21:43.411 --> 01:21:44.751
+All right.
+[INAUDIBLE].
+
+01:21:44.751 --> 01:21:48.640
+I happen to be the CTR in this endeavor.
+
+01:21:48.640 --> 01:21:55.197
+Maybe one day I will be, he will be the
+CTR, and I will be the CO or the founder.
+
+01:21:55.197 --> 01:21:55.796
+&gt;&gt; Who knows.
+
+01:21:55.796 --> 01:21:59.870
+So I must be the one to
+be technically precise.
+
+01:21:59.870 --> 01:22:03.510
+So actually,
+there is very [INAUDIBLE] GPO.
+
+01:22:03.510 --> 01:22:06.090
+We have a video card for GPO.
+
+01:22:06.090 --> 01:22:10.818
+And apparently this is the benchmark for
+that.
+
+01:22:10.818 --> 01:22:13.544
+And it's a-
+&gt;&gt; So
+
+01:22:13.544 --> 01:22:19.311
+this is compared to a real GPO
+that you designed in your laptop.
+
+01:22:19.311 --> 01:22:21.811
+But apart from that,
+the presentation was very good, John.
+
+01:22:25.560 --> 01:22:28.578
+&gt;&gt; Okay.
+And so again, the next steps,
+
+01:22:28.578 --> 01:22:33.292
+tonight you will receive
+an email with a [UNKNOWN].
+
+01:22:33.292 --> 01:22:35.931
+Please read carefully to the instructions.
+
+01:22:35.931 --> 01:22:39.720
+There will be several conventions about
+how to chose user names for example.
+
+01:22:40.780 --> 01:22:44.868
+And if you follow
+the instructions closely,
+
+01:22:44.868 --> 01:22:48.140
+then basically this class
+will become possible.
+
+01:22:48.140 --> 01:22:51.908
+Right, if you cannot get through this
+phase where at least everybody sign
+
+01:22:51.908 --> 01:22:55.752
+up to do everything, then will be very
+nervous about the rest of the class.
+
+01:22:58.392 --> 01:23:02.130
+Then after Tuesday, everything's on Slack.
+
+01:23:03.130 --> 01:23:08.875
+If you have any problem for which you
+cannot find that channel on Slack,
+
+01:23:08.875 --> 01:23:14.451
+then just send us a personal message
+on Slack, don't send us email.
+
+01:23:17.521 --> 01:23:22.469
+And so the next steps, on Wednesday
+we have this, it's optional, but
+
+01:23:22.469 --> 01:23:26.193
+it would be great if everybody
+was here on Wednesday.
+
+01:23:26.193 --> 01:23:31.186
+On Thursday, the Russian with Michelle,
+
+01:23:31.186 --> 01:23:37.017
+[UNKNOWN] He will challenge
+you to a drinking game.
+
+01:23:37.017 --> 01:23:37.589
+&gt;&gt; No.
+
+01:23:37.589 --> 01:23:38.308
+&gt;&gt; No.
+
+01:23:38.308 --> 01:23:39.768
+No.
+
+01:23:39.768 --> 01:23:40.327
+&gt;&gt; Sorry.
+
+01:23:40.327 --> 01:23:41.668
+Is everyone here 21?
+
+01:23:41.668 --> 01:23:42.949
+&gt;&gt; Don't pass.
+No, no, no, no, no, no, no.
+
+01:23:44.354 --> 01:23:46.757
+&gt;&gt; So that's [INAUDIBLE].
+
+01:23:46.757 --> 01:23:49.870
+&gt;&gt; [UNKNOWN]
+&gt;&gt; No drinking games.
+
+01:23:49.870 --> 01:23:55.251
+&gt;&gt; So there's no-
+&gt;&gt; Okay,
+
+01:23:55.251 --> 01:23:59.656
+for the record, we're not asking for
+your age on the sign-up form.
+
+01:23:59.656 --> 01:24:01.896
+So it's kind of like don't pass,
+don't come.
+
+01:24:05.755 --> 01:24:12.790
+&gt;&gt; And then-
+&gt;&gt; So if you survive Thursday night, then
+
+01:24:12.790 --> 01:24:17.939
+on Friday morning we have the first lab at
+[UNKNOWN] where you get your ducky box.
+
+01:24:19.530 --> 01:24:20.660
+Okay, I think this is the end.
+
+01:24:20.660 --> 01:24:22.970
+I think we're gonna stick around for
+another 20,
+
+01:24:22.970 --> 01:24:24.740
+30 minutes if you want
+to ask us questions.
+
+01:24:25.970 --> 01:24:27.000
+Let's prioritize.
+
+01:24:27.000 --> 01:24:31.860
+Let's say today now it's more
+like questions concerning
+
+01:24:31.860 --> 01:24:34.650
+your participation to the class.
+
+01:24:34.650 --> 01:24:39.237
+I'm sure you have plenty of questions
+about the Thomas [UNKNOWN] in general,
+
+01:24:39.237 --> 01:24:41.540
+there will be plenty of time for that.
+
+01:24:41.540 --> 01:24:42.380
+Thank you.
+
