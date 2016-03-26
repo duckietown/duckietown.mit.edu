@@ -26,11 +26,20 @@ h1 {display: none;}
 	<tr>
 		<td><img class="person" src="media/staff/leonard.jpg"/></td>
 		<td>
-			<strong>Chief Executive Officer</strong><br/>
+			<strong>Director of Research</strong><br/>
 			<a href="https://marinerobotics.mit.edu/">John Leonard</a><br/>
 			MechE/CSAIL <br/><br/>
 		</td>
 	</tr>
+
+	<tr>
+		<td><img class="person" src="media/staff/rus.jpg"/></td>
+		<td>
+			<strong>Chief Executive Officer</strong><br/>
+			<a href="https://www.csail.mit.edu/user/876">Daniela Rus</a><br/>EECS/CSAIL<br/><br/>
+		</td>
+	</tr>
+
 	<tr>
 		<td><img class="person" src="media/staff/how.jpg"/></td>
 		<td>
@@ -84,11 +93,7 @@ h1 {display: none;}
 		<td><a href="http://karaman.mit.edu/">Sertac Karaman</a><br/>AeroAstro/LIDS <br/><br/></td>
 	</tr>
 
-	<tr>
-		<td><img class="person" src="media/staff/rus.jpg"/></td>
-		<td><a href="https://www.csail.mit.edu/user/876">Daniela Rus</a><br/>EECS/CSAIL<br/><br/></td>
-	</tr>
-
+	
 	
 	<tr class='roles'>  <td> <strong>Operations</strong> </td> </tr>
 	<tr>

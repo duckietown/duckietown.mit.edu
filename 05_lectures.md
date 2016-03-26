@@ -53,7 +53,7 @@ permalink: lectures.html
     
     <h2><span class="lecture_id">C02_team:</span> Meet the team </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: ahn, choi, alonso-mora, novitzky, carlone, <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
+    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: ahn, choi, alonso-mora, <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, carlone, <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
     
     <table><tr>
        <td>
@@ -88,7 +88,7 @@ permalink: lectures.html
     
     <h2><span class="lecture_id">C04_arch:</span> Robotics Architectures </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: novitzky, liu</p>
+    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, <a href='http://www.mit.edu/~syliu'>Shih-Yuan Liu</a></p>
     
     <table><tr>
        <td>

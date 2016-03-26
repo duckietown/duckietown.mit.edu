@@ -7,106 +7,80 @@ permalink: materials.html
 **Note: This is an open-source class. All materials should be available to everybody. If you get
 a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.**
 
-<span style='color: red'>This list is in construction: some of the links are not active yet.</span>
 
-# Important documents for MIT students
-
-* [Syllabus](https://docs.google.com/document/d/1xkYod3ZepC3oMLTH-YCdMXlJRDWUQ8w14ROIh0yDsOE/edit?usp=sharing)
-* [Lecture plan](https://docs.google.com/spreadsheets/d/1wRWIW5EvdETYPu2ZRhDElMABn3WNNEezLou5k_D_WGw/edit?usp=sharing)
-  and [link to Google Calendar (not active yet)]()
-* [What's in the boxes?](https://docs.google.com/document/d/14wfcXHuS4fzQEirciKzrfNXjxq_F4Kpib_ymTYSvSpc/edit?usp=sharing)
-* [Account policy](https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing)
-* Links to important resources:
-
-  - [Github page](http://github.com/duckietown)
-  - [Google Docs main folder](https://drive.google.com/folderview?id=0B9YU76UT5h3FVGxIdW5CdUd2ak0&usp=sharing)
-
-## How to build and operate our reproducible Duckiebot
-
-* [Setup Step 0 - Buy the parts](https://docs.google.com/document/d/1tRRN15MLBl5OwXkuhxToxqEZSDuvAlxXbiOygzJ4Guk/edit?usp=sharing)
-* [Setup Step 0.5 - Soldering Boards](https://docs.google.com/document/d/1HAjn_tXxTPVzIJP8ZAWhHe13UyQRm6oGbI7xuBDn6rk/edit?usp=sharing)
-* [Setup Step 1 - Assembling the kit](https://docs.google.com/document/d/1QKSj5W-LNoSg6dvAPhiIUOPcJvVdRBCL_uKQyGBBDsE/edit?usp=sharing)
-* [Setup Step 1.1 - Reproducing the Ubuntu Image](https://docs.google.com/document/d/1qMso-yhvK_y5lQ0qNpvDtPJ7M1iF5p7-l0_lJBTxHqo/edit?usp=sharing)
-* [Setup Step 1.2 - Traffic Light](https://docs.google.com/document/d/10ET1mvQ7mltw7TZDWOeLnYps5r3Aa5Vf1PU5xwpaCtA/edit?usp=sharing)
-* [Setup Step 1.5 - Burn the image](https://docs.google.com/document/d/1Bkffk1kNDkbz5HWj0CjnUrnpeY1RXjZLTfvaWo4OT3I/edit?usp=sharing)
-* [Setup Step 1.7 - Setting up the Buffalo access point] (https://docs.google.com/document/d/1XJ-jezWasFkhTfQWgSiRSfWKkfR33TJgFBGbDYT6zOc/edit?usp=sharing)
-* [Setup Step 1.8 - Setting up Ubuntu Laptops] (https://docs.google.com/document/d/1uYgTz74Pqs4Kiwd7KxhHMHpQH9uuTBCMiPqGc9Qd1Tk/edit?usp=sharing)
-* [Setup Step 1.9 - Github basics] (https://docs.google.com/document/d/1inbwS7PNHY_-Vl0iLWQZi5AKT4xT7YVtPLcQ2hTOmI8/edit?usp=sharing)
-* [Setup Step 2 - From SD image to Remote RC control](https://docs.google.com/document/d/1Bkffk1kNDkbz5HWj0CjnUrnpeY1RXjZLTfvaWo4OT3I/edit?usp=sharing)
-* [Setup Step 2.05 - RC control, launched remotely] (https://docs.google.com/document/d/17sk1wuwkiAnKMDF-6e_N4a2XMmGn7FzIJdbhQMouUOk/edit?usp=sharing)
-* [Setup Step 2.1 Joystick + camera output in remote laptop](https://docs.google.com/document/d/1FB25mF8703TtEBUfNR6s8NXYc8_22lCU_7gAfQ_Rw_Y/edit?usp=sharing)
-* [Setup Step 2.2.1 - Wheels Trim] (https://docs.google.com/document/d/14K9OqR0ijCkXIGxPY1OYpHSFWCuaDgN1qq1QojMDhQw/edit?usp=sharing)
-* [Setup Step 2.2.2 - Camera Calibration](https://docs.google.com/document/d/1cCLnIvC7R2RmsS8phw1eaFWc6_HoWVd9p8tSMsVrWNQ/edit?usp=sharing)
-* [Setup Step 2.5 - First commit](https://docs.google.com/document/d/1inbwS7PNHY_-Vl0iLWQZi5AKT4xT7YVtPLcQ2hTOmI8/edit?usp=sharing)
-* [Setup Step 2alternative - Virtualbox-Setup](https://docs.google.com/document/d/1FB25mF8703TtEBUfNR6s8NXYc8_22lCU_7gAfQ_Rw_Y/edit?usp=sharing)
-* [Setup Step 3.0 - Taking a log](https://docs.google.com/document/d/1Wv0m-kX-lYxsrrkoBUpNO_IAP-nMejOTdiSvU9CxhC8/edit?usp=sharing)
-* [Setup Step 4 - Creating your own ROS package](https://docs.google.com/document/d/1rpRisFoCYUm0XT78j-nAYidlh-cDtLCdEbIaBCnx9ew/edit?usp=sharing)
-
-
-Troubleshooting guides:
-
-* [Testing everything](https://docs.google.com/document/d/1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08/edit?usp=sharing)
-* [Network troubleshooting checklist](https://docs.google.com/document/d/1ppvjTPTzMtrbLUfNb4NZefyGFlaZ6WwOR7gcZp-FkpM/edit?usp=sharing)
-
-<img style='width: 10em; float:right' src='media/mercedes.jpg'/>
-
-
-<div style='clear:both'/>
-
-## How to build our reproducible Duckietown
-
-* [Duckietown apperance guide](https://docs.google.com/document/d/1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc/edit?usp=sharing)
-* [Duckietown traffic code] (https://docs.google.com/document/d/1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM/edit?usp=sharing)
-
-Props:
-
-* Street names
-* Traffic signs
-* Localization signs
-* April Tags database
-
-## Other design documents
-
-* The big ROS diagram
-* Belief representations
-
-
-<img style='width: 10em; float: right ; margin-top: 3em' src='media/road.jpg'/>
+<style type='text/css'>
+.missing { color: red; }
+.title {font-weight: bold; }
+</style>
 
 
 
-## Lecture materials
 
-* Lecture 
-* Lecture
-* Lecture
-* Lecture
-
-## Lab Procedure documents 
-
-* [Lab 01]
-* [Lab 02]
-* [Lab 03]
-* [Lab 04]
-* [Lab 05]
-* [Lab 06]
-
-##  Assignments
-
-* Module 
-* Module 
-* Module 
-* Module 
-* Module 
-* Module 
-* Module 
+## Important documents for MIT students 
+    
+    
 
 
-<div style='clear:both'/>
+<p id="accounts_guide" class=""><a class="title" href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing">Accounts guide</a>: This document contains instructions for how we would like you  to represent yourself online during your Duckietown experience.</p>
 
 
-<div style='text-align: center; margin-top: 2em; margin-right: -4em'>
 
-        
-          <br/>
-            
+
+## Setup documents 
+    
+    
+
+
+<p id="checklist_robot_laptop_config" class="missing"><a class="title" href="https://drive.google.com/open?id=1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA">Checklist - Robot and laptop configuration</a>: Missing description</p>
+
+
+
+<p id="checklist_conforming_ros_contribution" class="missing"><a class="title" href="https://drive.google.com/open?id=1nueJb9j9APGYT7iT-PQNNqcytUlLKguKhV9C0P2xOIQ">Checklist - what makes a conforming ROS contribution</a>: Missing description</p>
+
+
+
+<p id="connect_pi_and_buffalo" class="missing"><a class="title" href="https://drive.google.com/open?id=15LqdN3f5vA_eVrzeAIOW_GYdUl6STS4Sn11qtengEws">Connect to Pi and Buffalo</a>: Missing description</p>
+
+
+
+<p id="sd_card_reset" class="missing"><a class="title" href="https://drive.google.com/open?id=1W0PZhI9BcPhYhlrR4OnsUnrxOdbsd6StfKv7CU_9Nhw">How to Reset your SD card</a>: Missing description</p>
+
+
+
+<p id="how_to_test_everything" class="missing"><a class="title" href="https://drive.google.com/open?id=1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08">How to test everything</a>: Missing description</p>
+
+
+
+<p id="setup_step0_buy_parts" class="missing"><a class="title" href="https://drive.google.com/open?id=1tRRN15MLBl5OwXkuhxToxqEZSDuvAlxXbiOygzJ4Guk">Setup Step 0 - Buy the parts</a>: Missing description</p>
+
+
+
+<p id="setup_step0.5_soldering_boards" class="missing"><a class="title" href="https://drive.google.com/open?id=1HAjn_tXxTPVzIJP8ZAWhHe13UyQRm6oGbI7xuBDn6rk">Setup Step 0.5 Soldering Boards</a>: Missing description</p>
+
+
+
+<p id="setup_step1_buy_parts" class="missing"><a class="title" href="https://drive.google.com/open?id=1QKSj5W-LNoSg6dvAPhiIUOPcJvVdRBCL_uKQyGBBDsE">Setup Step 1 - Assembling the duckiebot</a>: Missing description</p>
+
+
+
+<p id="setup_step11_ubuntu_image" class="missing"><a class="title" href="https://drive.google.com/open?id=1qMso-yhvK_y5lQ0qNpvDtPJ7M1iF5p7-l0_lJBTxHqo">Setup Step 1.1 - Reproducing the Ubuntu Image</a>: Missing description</p>
+
+
+
+<p id="setup_step12_traffic_light" class="missing"><a class="title" href="https://drive.google.com/open?id=10ET1mvQ7mltw7TZDWOeLnYps5r3Aa5Vf1PU5xwpaCtA">Setup Step 1.2 - Traffic Light assembly</a>: Missing description</p>
+
+
+
+
+## Untagged documents 
+    
+    
+
+
+<p id="documentation_style_guide" class="missing"><a class="title" href="https://drive.google.com/open?id=1dN_qt1KFI7osXsKCkBuTnMfVwmkSKDfELkwbRJ5z8a0">Documentation Style Guide</a>: Missing description</p>
+
+
+None
+
+
+
