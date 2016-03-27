@@ -112,7 +112,7 @@ def generate_roster(people):
 
 def generate_roster_tag(people, tag):
     people = select(people, tag)
-    logger.info('tag %r: %s selected' % (tag, len(people)))
+
 
     s = ""
 
@@ -121,6 +121,8 @@ def generate_roster_tag(people, tag):
         return score
 
     ordered = sorted(people, key=get_order)
+
+    logger.info('tag %r: %s selected: %s' % (tag, len(people), ", ".join(ordered)))
 
     for id_person in ordered:
         p = people[id_person]

@@ -86,6 +86,10 @@ Duckietown is supported by NSF, in the
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/cap.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Developer</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span></td></tr>
 
 
