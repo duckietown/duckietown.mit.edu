@@ -1,0 +1,3 @@
+Michal Cap is a visiting researcher in the Laboratory for Information and Decision Systems at the Massachusetts Institute of Technology 
+and a final-stage PhD student at CTU in Prague. He got his MSc in Agent Technology (Artificial Intelligence) from Utrecht University, the Netherlands, in 2010. 
+His research interests revolve mostly around algorithms for multi-robot trajectory coordination with applications in automated transportation systems.

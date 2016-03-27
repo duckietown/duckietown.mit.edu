@@ -1,0 +1,5 @@
+Javier Alonso-Mora is currently a Postdoctoral Associate at the Computer Science and Artificial Intelligence Laboratory of MIT. He
+received the M.Sc. and Ph.D. degrees in robotics from ETH Zurich, Switzerland in 2010 and 2014 respectively, and the Diploma degree in
+mathematics in 2008 and in industrial engineering in 2010, both from the Universitat Politecnica de Catalunya (UPC), Barcelona, Spain.
+During his Ph.D. he was a joint researcher at Disney Research Zurich. His primary research interest is in motion planning and control of
+autonomous multi-robot systems, where robots interact with one another and with humans.

@@ -1,19 +1,29 @@
 
+roster_html=roster.html.part
+
 documents=05_materials.md
 lectures=05_lectures.md
 collected_pdfs=media/collected.pdf
+roster=06_staff.md
 
-all: $(lectures) $(documents) $(collected_pdfs)
+all: $(lectures) $(documents) $(collected_pdfs)  $(roster)
 
 serve:
 	bundle exec jekyll serve --host=0.0.0.0 --watch . 
 
 $(lectures): lectures.yaml 
-	./generate.py "media/staff/*yaml" lectures.yaml > $@
-	
-	
+	./generate_lectures.py "media/staff/*yaml" lectures.yaml > $@
+
+$(roster_html):
+	./generate_roster.py "media/staff/*yaml" > $@
+
 $(documents): documents.yaml
-	./generate-documents.py < $< > $@
+	./generate_documents.py < $< > $@
 
 $(collected_pdfs): documents.yaml
-	./generate-pdf.py < $< > $@
+	./generate_pdf.py < $< > $@
+
+
+$(roster): roster.html.head $(roster_html) 
+	echo "---\nlayout: page\ntitle: People\npermalink: staff.html\n---\n\n" > $(roster)
+	cat $^ >> $(roster)

@@ -112,7 +112,7 @@ permalink: lectures.html
     
     <h2><span class="lecture_id">C06_cameras:</span> Computer vision basics </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: how, choi</p>
+    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: <a href='http://acl.mit.edu/'>Jonathan How</a>, choi</p>
     
     <table><tr>
        <td>
