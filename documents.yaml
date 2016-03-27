@@ -138,22 +138,22 @@
   google_docs_share_link: "https://drive.google.com/open?id=1Wv0m-kX-lYxsrrkoBUpNO_IAP-nMejOTdiSvU9CxhC8"
 
 - id: step4_ROSpackage
-  title: “Setup Step 4 - creating your own ROS package”
+  title: "Setup Step 4 - creating your own ROS package"
   tags: [setup]   
   google_docs_share_link: "https://drive.google.com/open?id=1rpRisFoCYUm0XT78j-nAYidlh-cDtLCdEbIaBCnx9ew"
 
 - id: step4.1_intergration
-  title: “Setup Step 4.1 - integrating your new package into the architecture”
+  title: "Setup Step 4.1 - integrating your new package into the architecture"
   tags: [setup]   
   google_docs_share_link: "https://drive.google.com/open?id=1VqX0TMRmgOzor2r1WOawd9_3a635Rli003ItxQ3kdYE"
 
 - id: step5.0_LED
-  title: “Setup Step 5.0 - LED car setup and test”
+  title: "Setup Step 5.0 - LED car setup and test"
   tags: [setup]   
   google_docs_share_link: "https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"
 
 - id: setup_troubleshooting
-  title: “Troubleshooting - network troubleshooting checklist”
+  title: "Troubleshooting - network troubleshooting checklist"
   tags: [setup]   
   google_docs_share_link: "https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"
 
@@ -167,97 +167,97 @@
 
 
 - id: vmware_setup
-  title: “VMware Setup”
+  title: "VMware Setup"
   tags: [setup]   
   google_docs_share_link: "https://drive.google.com/open?id=1RQ7Cib3Vh-_z_3cdILQ5pcQnXfcaCeQ7inhp3rHdYgo"
 
 
 
 - id: faq_howto
-  title: “FAQ / How To”
+  title: "FAQ / How To"
   tags: [procedure+howto]   
   google_docs_share_link: "https://drive.google.com/open?id=18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU"
 
 - id: git+ROS_ref_materials
-  title: “Pointers to Reference Materials for Git, ROS, etc.”
+  title: "Pointers to Reference Materials for Git, ROS, etc."
   tags: [procedure+howto]   
   google_docs_share_link: "https://drive.google.com/open?id=1eEz4DN_-mXzC3Cu4Wapt1f4rkKkBK4kKcPRvfTfMxDo"
 
 - id: reflashing_SD
-  title: “Reflashing your SD card”
+  title: "Reflashing your SD card"
   tags: [procedure+howto]   
   google_docs_share_link: "https://drive.google.com/open?id=1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI"
 
 - id: code_rules+conventions
-  title: “Source Code Management Rules and Conventions”
+  title: "Source Code Management Rules and Conventions"
   tags: [procedure+howto]   
   google_docs_share_link: "https://drive.google.com/open?id=1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8"
 
 
 
 - id: lab01
-  title: “Lab 01 - duckiebox distribution”
+  title: "Lab 01 - duckiebox distribution"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0"
 
 - id: lab02
-  title: “Lab 02 - finalizing the assembly and starting RC”
+  title: "Lab 02 - finalizing the assembly and starting RC"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"
 
 - id: module01
-  title: “Module O1 - bootcamp”
+  title: "Module O1 - bootcamp"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"
 
 - id: lab03
-  title: “Lab 03 - ROS tutorial”
+  title: "Lab 03 - ROS tutorial"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec"
 
 - id: module02
-  title: “Module 02 - remote control and data processing”
+  title: "Module 02 - remote control and data processing"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38"
 
 - id: lab04
-  title: “Lab 04 - git and conventions”
+  title: "Lab 04 - git and conventions"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY"
 
 - id: lab05
-  title: “Lab 05 - calibration and lane filtering”
+  title: "Lab 05 - calibration and lane filtering"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE"
 
 - id: module03+04
-  title: “Module 03 + 04 - demo or die”
+  title: "Module 03 + 04 - demo or die"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg"
 
 - id: lab06 
-  title: “Lab 06 - ”
+  title: "Lab 06 - "
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0"
 
 
 - id:  contruct_instructions
-  title: “Getting started with “The Construct” - simulation environment”
+  title: "Getting started with The Construct simulation environment"
   tags: [modules+labs]   
   google_docs_share_link: "https://drive.google.com/open?id=1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM"
 
 - id: appearance_specification
-  title: “Appearance Specification”
+  title: "Appearance Specification"
   tags: [design]   
   google_docs_share_link: "https://drive.google.com/open?id=1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc"
 
 - id: belief_representation
-  title: “Belief Representation”
+  title: "Belief Representation"
   tags: [design]   
   google_docs_share_link: "https://drive.google.com/open?id=1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo"
 
 - id: traffic_code
-  title: “Duckietown Traffic Code”
+  title: "Duckietown Traffic Code"
   tags: [design] 
   google_docs_share_link: "https://drive.google.com/open?id=1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM"
 

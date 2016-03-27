@@ -8,6 +8,7 @@ roster=06_staff.md
 
 all: $(lectures) $(documents) $(collected_pdfs)  $(roster)
 
+
 serve:
 	bundle exec jekyll serve --host=0.0.0.0 --watch . 
 
@@ -32,3 +33,12 @@ regenerate-and-push:
 	-$(MAKE) -B
 	git commit -a -m regenerated
 	git push
+
+
+install-linux:
+	sudo pip install dateutil
+	sudo apt-get install python-dateutil
+	sudo pip install SystemCmd==1.3
+	sudo pip install PyContracts
+	sudo apt-get install pdftk
+

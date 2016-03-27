@@ -5,8 +5,18 @@ Dynamic regeneration based on YAML files
 Linux:
 
 	sudo apt-get install python-dateutil 
+	sudo apt-get install pdftk
 
-	sudo pip install SystemCmd==1.3
+OS X:
+
+	sudo pip install dateutil
+
+	install pdftk manually
+
+Both:
+	sudo pip install SystemCmd==1.3 
+	sudo pip install PyContracts
+
 
 Then this rebuilds everything:
 
