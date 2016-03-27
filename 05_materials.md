@@ -7,11 +7,16 @@ permalink: materials.html
 **Note: This is an open-source class. All materials should be available to everybody. If you get
 a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.**
 
-
 <style type='text/css'>
 .missing { color: red; }
 .title {font-weight: bold; }
 </style>
+
+
+<p style='color: darkred'>Note: at this point, the list of documents and the documents themselves
+are drafts.</p>
+
+<p><a style='font-weight: bold' href='media/collected.pdf'> All documents collated in one big PDF</a>. </p>
 
 
 
