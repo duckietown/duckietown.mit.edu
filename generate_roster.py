@@ -53,7 +53,7 @@ def go(people_filename):
     color: #004; font-weight: bold; }
      
     table#roster  tr td {padding-top: 2em;}
-    tr#first {display: none;}
+    /*tr#first {display: none;}*/
     h1 {display: none;}
     
     .position {font-weight: bold; }
@@ -74,8 +74,7 @@ def generate_roster(people):
 """
 
     s += """
-<tr class='roles' id="first" > <td colspan="2">
-     <strong>Duckietown Engineering Co.</strong> </td> </tr>
+<tr class='roles' id="first" > <td colspan="2">Duckietown Engineering Co. </td> </tr>
 """
 
     s += generate_roster_tag(people, 'management')
@@ -100,7 +99,7 @@ def generate_roster(people):
     s += generate_roster_tag(people, 'operations')
 
     s += """
-<tr class='roles' > <td colspan="2">  Training Program </td> </tr>
+<tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 """
 
     s += generate_roster_tag(people, 'training')

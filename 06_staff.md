@@ -17,7 +17,7 @@ permalink: staff.html
     color: #004; font-weight: bold; }
      
     table#roster  tr td {padding-top: 2em;}
-    tr#first {display: none;}
+    /*tr#first {display: none;}*/
     h1 {display: none;}
     
     .position {font-weight: bold; }
@@ -28,8 +28,7 @@ permalink: staff.html
 
 <table id='roster'>
 
-<tr class='roles' id="first" > <td colspan="2">
-     <strong>Duckietown Engineering Co.</strong> </td> </tr>
+<tr class='roles' id="first" > <td colspan="2">Duckietown Engineering Co. </td> </tr>
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/leonard.jpg"/></td></td><td><span class="name"><a href="https://marinerobotics.mit.edu/">John Leonard</a></span><br/><span class="position">Director of Research</span></td></tr>
@@ -102,7 +101,7 @@ Duckietown is supported by NSF, in the
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/novitzky.jpg"/></td></td><td><span class="name"><a href="http://michaelnovitzky.com/">Michael "Misha" Novitzky</a></span><br/><span class="position">Social Chair and Engineer of Navigation</span></td></tr>
 
 
-<tr class='roles' > <td colspan="2">  Training Program </td> </tr>
+<tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
