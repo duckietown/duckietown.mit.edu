@@ -74,33 +74,33 @@ def generate_roster(people):
 """
 
     s += """
-<tr class='roles' id="first" colspan="2"> <td>
+<tr class='roles' id="first" > <td colspan="2">
      <strong>Duckietown Engineering Co.</strong> </td> </tr>
 """
 
     s += generate_roster_tag(people, 'management')
 
     s += """
-<tr class='roles'   colspan="2"> <td> Advisory board </td> </tr>
+<tr class='roles'   > <td colspan="2"> Advisory board </td> </tr>
 """
 
     s += generate_roster_tag(people, 'advisory')
 
     s += """
-<tr class='roles'   colspan="2"> <td> Sponsors  </td> </tr>
+<tr class='roles'  > <td colspan="2"> Sponsors  </td> </tr>
 """
 
     s += generate_roster_tag(people, 'sponsors')
 
 
     s += """
-<tr class='roles'   colspan="2"> <td> Operations </td> </tr>
+<tr class='roles'   > <td colspan="2"> Operations </td> </tr>
 """
 
     s += generate_roster_tag(people, 'operations')
 
     s += """
-<tr class='roles' colspan="2"> <td>  Training Program </td> </tr>
+<tr class='roles' > <td colspan="2">  Training Program </td> </tr>
 """
 
     s += generate_roster_tag(people, 'training')
