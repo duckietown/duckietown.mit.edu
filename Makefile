@@ -27,3 +27,8 @@ $(collected_pdfs): documents.yaml
 $(roster): roster.html.head $(roster_html) 
 	echo "---\nlayout: page\ntitle: People\npermalink: staff.html\n---\n\n" > $(roster)
 	cat $^ >> $(roster)
+
+regenerate-and-push:
+	-$(MAKE) -B
+	git commit -a -m regenerated
+	git push
