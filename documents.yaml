@@ -85,6 +85,19 @@
   tags: [setup]
   google_docs_share_link: "https://drive.google.com/open?id=10ET1mvQ7mltw7TZDWOeLnYps5r3Aa5Vf1PU5xwpaCtA"
 
+
+- id: traffic_code
+  Title: “Duckietown Traffic Code”
+  desc: |
+    
+  google_docs_share_link: https://drive.google.com/open?id=1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM
+
+
+
+
+
+
+
 # Old stuff to convert to new format:
 
 
