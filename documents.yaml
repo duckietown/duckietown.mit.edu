@@ -13,6 +13,8 @@
 
 - id: accounts_guide
   title: "Accounts guide"
+  owner: censi
+  collaborators: [bowser]
   tags: [spring2016]
   desc: |
     This document contains instructions for how we would like you 
