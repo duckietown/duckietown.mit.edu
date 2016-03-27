@@ -146,12 +146,14 @@ def generate_html_tag(documents, tag):
         desc = desc.strip()
         desc = desc.replace('\n', ' ')
 
-        s += ('<p id="%s" class="%s"><a class="title" href="%s">%s%s</a>: ' %
-        (id_document, " ".join(classes), google_docs_share_link, icon_gdoc(), title))
+        pdf_link = '<a href="%s">%s static pdf</a>' % (url_pdf(d), icon_pdf())
+
+        s += ('<p id="%s" class="%s"><a class="title" href="%s">%s%s</a> (%s): ' %
+        (id_document, " ".join(classes), google_docs_share_link, icon_gdoc(), title, pdf_link))
 
         s += desc
 
-        s += ' <br/>(<a href="%s">%s static pdf</a>)' % (url_pdf(d), icon_pdf())
+
         s += '</p>'
 
 
