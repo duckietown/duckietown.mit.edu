@@ -22,6 +22,7 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 <style type='text/css'>
 .missing { color: red; }
 .title {font-weight: bold; }
+img.icon { border: 0;  width: 1em; }
 </style>
 
 
@@ -82,6 +83,34 @@ def generate_html(documents):
 
     print(generate_html_tag(documents, None))
 
+def icon_pdf():
+    return "<img class='icon' src='media/pdf.gif'/>"
+
+def icon_gdoc():
+    return "<img class='icon' src='media/gdoc.png'/>"
+
+def url_pdf(d):
+    id_document = get_id(d)
+    pdf_url = make_pdf_url(id_document)
+    return pdf_url
+
+def url_gdoc(d):
+    return d['google_docs_share_link']
+
+def make_pdf_url(id_document):
+    return 'https://docs.google.com/document/d/%s/export?format=pdf' % id_document
+
+def get_id(d):
+    s = d['google_docs_share_link']
+
+    # "https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing"
+
+    s = s.replace('https://docs.google.com/document/d/', '')
+
+    s = s.replace('/edit?usp=sharing', '')
+    s = s.replace('https://drive.google.com/open?id=', '')
+
+    return s
 
 def generate_html_tag(documents, tag):
     
@@ -112,13 +141,19 @@ def generate_html_tag(documents, tag):
         if not desc:
             desc = ''
         if not desc:
-            desc = 'Missing description'
-            classes.append('missing')
+            desc = '<span class="missing">Missing description</span>'
+#             classes.append('missing')
         desc = desc.strip()
         desc = desc.replace('\n', ' ')
 
-        s += '<p id="%s" class="%s"><a class="title" href="%s">%s</a>: ' % (id_document, " ".join(classes), google_docs_share_link, title)
-        s += '%s</p>' % desc
+        s += ('<p id="%s" class="%s"><a class="title" href="%s">%s%s</a>: ' %
+        (id_document, " ".join(classes), google_docs_share_link, icon_gdoc(), title))
+
+        s += desc
+
+        s += ' <br/>(<a href="%s">%s static pdf</a>)' % (url_pdf(d), icon_pdf())
+        s += '</p>'
+
 
         s += '\n\n'
     return s
