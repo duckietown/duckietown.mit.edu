@@ -94,6 +94,10 @@ Duckietown is supported by NSF, in the
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span></td></tr>
 
 
