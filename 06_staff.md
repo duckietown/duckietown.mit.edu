@@ -112,6 +112,10 @@ Duckietown is supported by NSF, in the
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/nbuckman.jpg"/></td></td><td><span class="name"> Noam Buckman</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
