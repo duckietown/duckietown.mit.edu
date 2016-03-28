@@ -22,12 +22,20 @@ are drafts.</p>
 
 
 
-## Important documents for MIT students 
+## The design of Duckietown
     
     
 
 
-<p id="accounts_guide" class=""><a class="title" href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing"><img class='icon' src='media/gdoc.png'/>Accounts guide</a> (<a href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): This document contains instructions for how we would like you  to represent yourself online during your Duckietown experience.</p>
+<p id="appearance_specification" class=""><a class="title" href="https://drive.google.com/open?id=1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc"><img class='icon' src='media/gdoc.png'/>Appearance Specification</a> (<a href="https://docs.google.com/document/d/1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="belief_representation" class=""><a class="title" href="https://drive.google.com/open?id=1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo"><img class='icon' src='media/gdoc.png'/>Belief Representation</a> (<a href="https://docs.google.com/document/d/1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="traffic_code" class=""><a class="title" href="https://drive.google.com/open?id=1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM"><img class='icon' src='media/gdoc.png'/>Duckietown Traffic Code</a> (<a href="https://docs.google.com/document/d/1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
 
 
 
@@ -146,11 +154,82 @@ are drafts.</p>
 
 
 
-## Untagged documents 
+## Procedures and HOWTos
     
     
 
-None
+
+<p id="faq_howto" class=""><a class="title" href="https://drive.google.com/open?id=18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU"><img class='icon' src='media/gdoc.png'/>FAQ / How To</a> (<a href="https://docs.google.com/document/d/18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="git+ROS_ref_materials" class=""><a class="title" href="https://drive.google.com/open?id=1eEz4DN_-mXzC3Cu4Wapt1f4rkKkBK4kKcPRvfTfMxDo"><img class='icon' src='media/gdoc.png'/>Pointers to Reference Materials for Git, ROS, etc.</a> (<a href="https://docs.google.com/document/d/1eEz4DN_-mXzC3Cu4Wapt1f4rkKkBK4kKcPRvfTfMxDo/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="reflashing_SD" class=""><a class="title" href="https://drive.google.com/open?id=1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI"><img class='icon' src='media/gdoc.png'/>Reflashing your SD card</a> (<a href="https://docs.google.com/document/d/1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="code_rules+conventions" class=""><a class="title" href="https://drive.google.com/open?id=1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8"><img class='icon' src='media/gdoc.png'/>Source Code Management Rules and Conventions</a> (<a href="https://docs.google.com/document/d/1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+
+## Spring 2016: Important documents for MIT students 
+    
+    
+
+
+<p id="accounts_guide" class=""><a class="title" href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing"><img class='icon' src='media/gdoc.png'/>Accounts guide</a> (<a href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): This document contains instructions for how we would like you  to represent yourself online during your Duckietown experience.</p>
+
+
+
+
+## Spring 2016: Modules and Labs
+    
+    
+
+
+<p id="lab01" class=""><a class="title" href="https://drive.google.com/open?id=13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0"><img class='icon' src='media/gdoc.png'/>Lab 01 - duckiebox distribution</a> (<a href="https://docs.google.com/document/d/13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="lab02" class=""><a class="title" href="https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"><img class='icon' src='media/gdoc.png'/>Lab 02 - finalizing the assembly and starting RC</a> (<a href="https://docs.google.com/document/d/1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="module01" class=""><a class="title" href="https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"><img class='icon' src='media/gdoc.png'/>Module O1 - bootcamp</a> (<a href="https://docs.google.com/document/d/1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="lab03" class=""><a class="title" href="https://drive.google.com/open?id=1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec"><img class='icon' src='media/gdoc.png'/>Lab 03 - ROS tutorial</a> (<a href="https://docs.google.com/document/d/1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="module02" class=""><a class="title" href="https://drive.google.com/open?id=1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38"><img class='icon' src='media/gdoc.png'/>Module 02 - remote control and data processing</a> (<a href="https://docs.google.com/document/d/1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="lab04" class=""><a class="title" href="https://drive.google.com/open?id=1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY"><img class='icon' src='media/gdoc.png'/>Lab 04 - git and conventions</a> (<a href="https://docs.google.com/document/d/1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="lab05" class=""><a class="title" href="https://drive.google.com/open?id=1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE"><img class='icon' src='media/gdoc.png'/>Lab 05 - calibration and lane filtering</a> (<a href="https://docs.google.com/document/d/1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="module03+04" class=""><a class="title" href="https://drive.google.com/open?id=1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg"><img class='icon' src='media/gdoc.png'/>Module 03 + 04 - demo or die</a> (<a href="https://docs.google.com/document/d/1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="lab06" class=""><a class="title" href="https://drive.google.com/open?id=12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0"><img class='icon' src='media/gdoc.png'/>Lab 06 - </a> (<a href="https://docs.google.com/document/d/12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+<p id="contruct_instructions" class=""><a class="title" href="https://drive.google.com/open?id=1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM"><img class='icon' src='media/gdoc.png'/>Getting started with The Construct simulation environment</a> (<a href="https://docs.google.com/document/d/1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
 
 
 

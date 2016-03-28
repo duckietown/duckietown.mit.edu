@@ -47,7 +47,7 @@ def main():
         documents = yaml.load(documents_data)
 
         print(head)
-        print(generate_html(documents))
+        generate_html(documents)
         print(tail)
 
     except MyExc as e:
@@ -59,13 +59,16 @@ def main():
         sys.exit(-1)
 
 def generate_html(documents):
+
     print("""
 
-## Important documents for MIT students 
+## The design of Duckietown
     
     """)
 
-    print(generate_html_tag(documents, 'spring2016'))
+    print(generate_html_tag(documents, 'design'))
+
+
 
     print("""
 
@@ -77,11 +80,38 @@ def generate_html(documents):
 
     print("""
 
-## Untagged documents 
+## Procedures and HOWTos
     
     """)
 
-    print(generate_html_tag(documents, None))
+    print(generate_html_tag(documents, 'procedure+howto'))
+
+
+    print("""
+
+## Spring 2016: Important documents for MIT students 
+    
+    """)
+
+    print(generate_html_tag(documents, 'spring2016'))
+
+    print("""
+
+## Spring 2016: Modules and Labs
+    
+    """)
+
+    print(generate_html_tag(documents, 'modules+labs'))
+
+ 
+    if False:
+        print("""
+
+    ## Untagged documents 
+        
+        """)
+
+        print(generate_html_tag(documents, None))
 
 def icon_pdf():
     return "<img class='icon' src='media/pdf.gif'/>"
