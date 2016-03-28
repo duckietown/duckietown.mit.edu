@@ -105,6 +105,10 @@ Duckietown is supported by NSF, in the
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/novitzky.jpg"/></td></td><td><span class="name"><a href="http://michaelnovitzky.com/">Michael "Misha" Novitzky</a></span><br/><span class="position">Social Chair and Engineer of Navigation</span></td></tr>
 
 
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Project Manager</span></td></tr>
+
+
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 
 
