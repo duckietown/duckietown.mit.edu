@@ -82,11 +82,15 @@ Duckietown is supported by NSF, in the
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wang.jpg"/></td></td><td><span class="name"><a href="http://web.it.nctu.edu.tw/~hchengwang/">Hsueh-Cheng Nick Wang</a></span><br/><span class="position">Manager</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rosman.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/rosman/">Guy Rosman</a></span><br/><span class="position">Vehicle Perception Engineer</span></td></tr>
 
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/cap.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Developer</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wang.jpg"/></td></td><td><span class="name"><a href="http://web.it.nctu.edu.tw/~hchengwang/">Hsueh-Cheng Nick Wang</a></span><br/><span class="position">Manager</span></td></tr>
 
 
 
@@ -113,6 +117,10 @@ Duckietown is supported by NSF, in the
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
