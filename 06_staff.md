@@ -83,7 +83,7 @@ from Caltech.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/paull.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/lpaull/">Liam Paull</a></span><br/><span class="position">Chief Operating Officer</span><p><span class="bio">Liam Paull is a Postdoctoral Associate working on "parallel autonomy" as a technical lead for the CSAIL/Toyota autonomous car project led by Prof. Daniela Rus. Previously he was in the Marine Robotics Group where he worked on resource constrained inference and cooperative mapping for autonomous underwater vehicles. He received his B.Sc. in Computer Engineering from McGill University and his Ph. D. from the University of New Brunswick. He is interested in perception and planning for mobile robots, particularly when they are faced with resource limitations. He also views that a robotics system is something that should be studied as a entire entity since many of the subtle and interesting phenomena exist at the borders between the "traditional" categorizations of robotic systems.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/paull.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/lpaull/">Liam Paull</a></span><br/><span class="position">Chief Operating Officer</span><p><span class="bio">Liam Paull is a Postdoctoral Associate working on "parallel autonomy" as a technical lead for the CSAIL/Toyota autonomous car project led by Prof. Daniela Rus. Previously he was in John Leonard's Marine Robotics Group where he worked on resource constrained inference and cooperative mapping for autonomous underwater vehicles. He received his B.Sc. in Computer Engineering from McGill University and his Ph. D. from the University of New Brunswick. He is interested in perception and planning for mobile robots, particularly when they are faced with resource limitations. He also views that a robotics system is something that should be studied as a entire entity since many of the subtle and interesting phenomena exist at the borders between the "traditional" categorizations of robotic systems.</span></p></td></tr>
 
 
 
@@ -101,6 +101,10 @@ He was a postdoctoral associate in the Marine Robotics Group (MRG)
 in the Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT 
 from 2013 to 2016. Dr. Wang focuses on developing robotic systems to 
 solve real-world problems in direct support of individuals.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
 
 
 
@@ -190,10 +194,6 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("subedi" should add information in DB)</span><br/><span class="position"></span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/carlone.jpg"/></td></td><td><span class="name"> ("carlone" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
@@ -224,11 +224,10 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 <tr class='roles'   > <td colspan="2"> Special Operations </td> </tr>
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Greta Paull</span><br/><span class="position">Junior Tester</span><p><span class="bio">Greta has been interested in robotics and rubber duckies from a young age. 
-She routinely builds her own laptops (from pencil and paper or magnatiles) 
-and lectures on the coolness of Duckiebots. He favorite book is the 
-Duckietown class textbook, <a href="https://en.wikipedia.org/wiki/Make_Way_for_Ducklings">Make Way for Ducklings</a>. 
-In the future, 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/greta.jpg"/></td></td><td><span class="name"> Greta Paull</span><br/><span class="position">Junior Tester</span><p><span class="bio">Greta is the leading 5-year-old expert on Duckiebots and routinely gives rivetting lectures about their functionality  
+to her colleagues. Her love for technology started from an early age and now she routinely builds her own laptops from paper and masking tape. 
+Her favorite book is the 
+Duckietown class textbook, <a href="https://en.wikipedia.org/wiki/Make_Way_for_Ducklings">Make Way for Ducklings</a> and when she is not studying she divides her time equally among playing zoo, making mystery soup, and taking care of her pet worm. In the future, 
 she hopes to attend Grade 1.</span></p></td></tr>
 
 
