@@ -58,6 +58,7 @@ def go(people_filename):
     
     .position {font-weight: bold; }
     td.photo {width: 10em; }
+    .bio { font-size: 90%; line-height: 80%;}
 </style>
 """
 
@@ -159,6 +160,11 @@ def generate_person(id_person, p):
 
     if 'roster_note' in p:
         s += '<p>%s</p>' % p['roster_note']
+
+    bio = p['bio'].strip()
+    if bio:
+        s += '<p><span class="bio">%s</span></p>' % bio
+        
     s += "</td></tr>"
     return s
 

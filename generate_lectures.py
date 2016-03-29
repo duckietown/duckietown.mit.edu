@@ -309,12 +309,18 @@ def normalize_position(v, context):
         return ''
     return v
 
+def normalize_bio(v, context):
+    if v is None:
+        context.warn('No bio.')
+        return ''
+    return v
 
 def normalize_person(id_record, record, context):
     record['order'] = record.get('order', 100)
     normalize(id_record, record, 'name', normalize_name, context)
     normalize(id_record, record, 'position', normalize_position, context)
     normalize(id_record, record, 'url', normalize_url, context)
+    normalize(id_record, record, 'bio', normalize_bio, context)
     normalize(id_record, record, 'tags', normalize_tags, context)
     return record
 
