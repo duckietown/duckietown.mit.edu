@@ -135,7 +135,7 @@ def generate_roster_tag(people, tag, expected=None):
     if expected is not None:
         n = len(ordered)
         missing = expected - n
-        if n > 0:
+        if missing > 0:
             url_DB = 'https://github.com/duckietown/website/tree/gh-pages/media/staff'
             s += '\n\n<tr class="missing"><td colspan="2">'
             s += '(Plus other %d people ' % missing

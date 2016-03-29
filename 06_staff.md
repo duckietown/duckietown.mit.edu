@@ -206,10 +206,6 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/waller.jpg"/></td></td><td><span class="name"><a href="">Erica Waller</a></span><br/><span class="position">Duckietown Urban Planner</span></td></tr>
 
 
-
-<tr class="missing"><td colspan="2">(Plus other -4 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
-
-
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 
 
