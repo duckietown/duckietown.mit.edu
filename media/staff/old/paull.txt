@@ -1,1 +1,0 @@
-I am a postdoc in the Marine Robotics group at MIT under the supervision of John Leonard. I completed my PhD at the University of New Brunswick in 2013. Most of my research efforts to date have been focused on marine robotics but I am currently transitioning into autonomous driving projects as a part of the CSAIL/Toyota initiative.
