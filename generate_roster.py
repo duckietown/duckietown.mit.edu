@@ -119,6 +119,9 @@ def generate_roster_tag(people, tag, expected=None):
 
     def get_order(k):
         score = people[k]['order'] * 1000
+
+        if people[k]['name'] is None:
+            score += 1000
         return score
 
     ordered = sorted(people, key=get_order)
@@ -146,6 +149,8 @@ def generate_person(id_person, p):
     s = "<tr><td class='photo'>"
     img_url = "http://duckietown.mit.edu/media/staff/%s.jpg" % id_person
     name = p['name']
+    if name is None:
+        name = ''
     position = p['position']
     url = p['url']
     

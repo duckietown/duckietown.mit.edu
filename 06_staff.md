@@ -95,40 +95,12 @@ His primary research interests include a variety of topics in computer vision, m
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/cap.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Developer</span><p><span class="bio">Michal Cap is a Fulbright-funded visiting PhD researcher with the Laboratory for Information and Decision Systems in the
-Massachusetts Institute of Technology. He received a bachelors degree from BUT Brno and 
-MSc. degree from Utrecht University. He also currently is pursuing PhD in artificial intelligence at CTU in Prague.
-Michal is interested in motion planning, multi-robot coordination, and automated transportation in general.</span></p></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wang.jpg"/></td></td><td><span class="name"><a href="http://web.it.nctu.edu.tw/~hchengwang/">Hsueh-Cheng Nick Wang</a></span><br/><span class="position">Manager</span><p><span class="bio">Dr. Wang is an assistant professor in the Assistive Robotics Group, 
 Electrical and Computer Engineering at National Chiao Tung University, Taiwan. 
 He was a postdoctoral associate in the Marine Robotics Group (MRG)
 in the Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT 
 from 2013 to 2016. Dr. Wang focuses on developing robotic systems to 
 solve real-world problems in direct support of individuals.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
-the Laboratory for Information & Decision Systems 
-(LIDS) and Aerospace Controls Laboratory (ACL) 
-at MIT. He received his PhD degree in Mechanical 
-Engineering in Controls from University of 
-California, Berkeley in 2014. His research 
-interests include navigation, path-planning, and control of autonomous ground and aerial vehicles in dynamic environments.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/zhao.jpg"/></td></td><td><span class="name"><a href="http://web.media.mit.edu/~hangzhao">Hang Zhao</a></span><br/><span class="position">Vehicle Autonomy Engineer</span><p><span class="bio">Hang Zhao is a third-year PhD student at Massachusetts Institute of Technology (MIT). 
-He received his B.S degree in information engineering from Zhejiang University, and M.S in mechanical engineering from MIT. 
-His research interests include computer vision, deep learning and visual robotics. 
-He is super excited to be an vehicle engineer for Duckietown!</span></p></td></tr>
 
 
 
@@ -146,12 +118,84 @@ interested in multi-robot cooperation and human-robot cooperation within teams.<
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
+the Laboratory for Information & Decision Systems 
+(LIDS) and Aerospace Controls Laboratory (ACL) 
+at MIT. He received his PhD degree in Mechanical 
+Engineering in Controls from University of 
+California, Berkeley in 2014. His research 
+interests include navigation, path-planning, and control of autonomous ground and aerial vehicles in dynamic environments.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ahn.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position"></span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Project Manager</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received the M.Sc. and Ph.D. degrees in robotics from ETH Zurich, Switzerland,
 and Diploma degrees in mathematics and in industrial engineering, both from the Universitat Politecnica de Catalunya.
 During his Ph.D. he was a joint researcher at Disney Research Zurich.
 His primary research interest is in motion planning and control of autonomous multi-robot systems.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/cap.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Developer</span><p><span class="bio">Michal Cap is a Fulbright-funded visiting PhD researcher with the Laboratory for Information and Decision Systems in the
+Massachusetts Institute of Technology. He received a bachelors degree from BUT Brno and 
+MSc. degree from Utrecht University. He also currently is pursuing PhD in artificial intelligence at CTU in Prague.
+Michal is interested in motion planning, multi-robot coordination, and automated transportation in general.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/zhao.jpg"/></td></td><td><span class="name"><a href="http://web.media.mit.edu/~hangzhao">Hang Zhao</a></span><br/><span class="position">Vehicle Autonomy Engineer</span><p><span class="bio">Hang Zhao is a third-year PhD student at Massachusetts Institute of Technology (MIT). 
+He received his B.S degree in information engineering from Zhejiang University, and M.S in mechanical engineering from MIT. 
+His research interests include computer vision, deep learning and visual robotics. 
+He is super excited to be an vehicle engineer for Duckietown!</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/pazis.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/subedi.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/carlone.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/chen.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/le.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/dusek.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/yershov.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/choi.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/garcia-mallen.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/hoehener.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
 
 
 
@@ -163,7 +207,7 @@ His primary research interest is in motion planning and control of autonomous mu
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 7 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr class="missing"><td colspan="2">(Plus other -4 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
