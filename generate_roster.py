@@ -97,7 +97,13 @@ def generate_roster(people):
 <tr class='roles'   > <td colspan="2"> Operations </td> </tr>
 """
 
-    s += generate_roster_tag(people, 'operations', expected=20)
+    s += generate_roster_tag(people, 'operations', expected=24)
+
+    s += """
+<tr class='roles'   > <td colspan="2"> Special Operations </td> </tr>
+"""
+
+    s += generate_roster_tag(people, 'special-ops')
 
     s += """
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
@@ -147,10 +153,18 @@ def generate_roster_tag(people, tag, expected=None):
 
 def generate_person(id_person, p):
     s = "<tr><td class='photo'>"
-    img_url = "http://duckietown.mit.edu/media/staff/%s.jpg" % id_person
+
+    img_local_url = "media/staff/%s.jpg" % id_person
+
+    img_missing_local_url = "media/staff/MISSING.jpg"
+    if not os.path.exists(img_local_url):
+        logger.warn('Image %r does not exist' % img_local_url)
+        img_local_url = img_missing_local_url
+
+    img_url = "http://duckietown.mit.edu/"+img_local_url
     name = p['name']
     if name is None:
-        name = ''
+        name = '("%s" should add information in DB)' % id_person
     position = p['position']
     url = p['url']
     

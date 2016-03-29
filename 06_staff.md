@@ -128,7 +128,16 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ahn.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://jeffdusek.mit.edu/">Jeff Dusek</a></span><br/><span class="position">Systems Engineer</span><p><span class="bio">eff pursued his love for the water and passion for science as an Ocean Engineering student at Florida Atlantic University and the Massachusetts Institute of Technology. He is now a Postdoctoral Fellow working in the Self-organizing Systems Research Group at Harvard University under the guidance of Professor Radhika Nagpal. Broadly, his areas of interest are experimental hydrodynamics, sensor development, and biomimetics. In all cases, he strive to apply lessons learned in the lab to real-world problems. Jeff also has a passion for assistive technology and the ability of emerging technologies and materials to improve the lives of those living with a disability.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ahn.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
+Her research interests include the analysis and control of networked dynamical systems with application to transportation systems.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://ares.lids.mit.edu/~yershov/">Dmitry Yershov</a></span><br/><span class="position">Systems & Electronics Engineer</span><p><span class="bio">Dmitry is a Postdoctoral Associate in the ARES group, Laboratory for Information and Decission Systems (LIDS) at the Massachusetts Institute of Technology. His research interests include: robotics, numerical approximations in optimal control, optimal feedback planning, sensing and inference, and information space planning.</span></p></td></tr>
 
 
 
@@ -152,6 +161,24 @@ Michal is interested in motion planning, multi-robot coordination, and automated
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/garcia-mallen.jpg"/></td></td><td><span class="name"> Jonathan Garcia-Mallen</span><br/><span class="position">User Experience Design</span><p><span class="bio">Having previously served as Supply Chain Analyst and Fashion Advisor for Duckietown, 
+Jonathan Garcia-Mallen is now making the experience of using a duckiebot as smooth and fun as possible. 
+He wants robots to do work too boring or dangerous for us humans, 
+as well as to research coordination of multiple machines and perception to make this happen. 
+Currently he is pursue his S.B. in Electrical Engineering and Computer Science at MIT.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/hoehener.jpg"/></td></td><td><span class="name"><a href="http://meche.mit.edu/people/staff/hoehener@mit.edu">Daniel Hoehener</a></span><br/><span class="position">Intersection Safety Engineer</span><p><span class="bio">Daniel Hoehener received the Ph.D. degree in Applied Mathematics 
+from University Pierre et Marie Curie in Paris in 2013, M.S. degree 
+in Applied Mathematics from Ecole Polytechnique, Paris, in 2010, 
+and the B.S. degree in Mathematics from the University of Fribourg in 
+2008. He is currently a Postdoctoral Associate at the Massachusetts 
+Institute of Technology (MIT), where he is working on various problems
+related to Cyber-Physical Systems, Optimization and Control.</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/zhao.jpg"/></td></td><td><span class="name"><a href="http://web.media.mit.edu/~hangzhao">Hang Zhao</a></span><br/><span class="position">Vehicle Autonomy Engineer</span><p><span class="bio">Hang Zhao is a third-year PhD student at Massachusetts Institute of Technology (MIT). 
 He received his B.S degree in information engineering from Zhejiang University, and M.S in mechanical engineering from MIT. 
 His research interests include computer vision, deep learning and visual robotics. 
@@ -159,51 +186,62 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/pazis.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("pazis" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/subedi.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("subedi" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/carlone.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/carlone.jpg"/></td></td><td><span class="name"> ("carlone" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/chen.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/chen.jpg"/></td></td><td><span class="name"> ("chen" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/le.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("le" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/dusek.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("franzoni" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/yershov.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/choi.jpg"/></td></td><td><span class="name"> ("choi" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/choi.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/garcia-mallen.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/hoehener.jpg"/></td></td><td><span class="name"> </span><br/><span class="position"></span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span><p><span class="bio">Holding an MSc in Biology, Kirsten Bowser's expertise align more closely with real, as opposed to rubber, duckies. She has significant experience conducting remote field research for long-term ecological studies. She is also competent in next-generation DNA sequencing and environmental barcoding. Her main research interests lie in the interactions between components of an ecosystem, either at larger (marine food webs) or small (gut microbiome) scales. Currently, Kirsten juggles the needs of her children (both biological and Duckietown-adopted) which runs the gamut from tieing shoes and making lunches to booking CSAIL meeting rooms and editing spreadsheets.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span><p><span class="bio">Holding an MSc in Biology, Kirsten Bowser's expertise align more closely with real, as opposed to rubber, duckies. She has significant experience conducting remote field research for long-term ecological studies. She is also competent in next-generation DNA sequencing and environmental barcoding. Her main research interests lie in the interactions between components of an ecosystem, either at larger (marine food webs) or small (gut microbiome) scales. Currently, Kirsten juggles the needs of both her biological and Duckietown-adopted children, which run the gamut from tieing shoes and making lunches to booking CSAIL meeting rooms and editing spreadsheets.</span></p></td></tr>
 
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/waller.jpg"/></td></td><td><span class="name"><a href="">Erica Waller</a></span><br/><span class="position">Duckietown Urban Planner</span></td></tr>
+
+
+<tr class='roles'   > <td colspan="2"> Special Operations </td> </tr>
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Greta Paull</span><br/><span class="position">Junior Tester</span><p><span class="bio">Greta has been interested in robotics and rubber duckies from a young age. 
+She routinely builds her own laptops (from pencil and paper or magnatiles) 
+and lectures on the coolness of Duckiebots. He favorite book is the 
+Duckietown class textbook, <a href="https://en.wikipedia.org/wiki/Make_Way_for_Ducklings">Make Way for Ducklings</a>. 
+In the future, 
+she hopes to attend Grade 1.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Ingrid Paull</span><br/><span class="position">Junior Tester/Singer Songwriter</span><p><span class="bio">Ingrid joined the Duckietown team after composing an award winning 
+song, <em><a href="https://vimeo.com/154418990">Duckiebots don't cry</a></em>. 
+She is passionate about songwriting, 
+singing, and dancing, particulary when not wearing any pants. 
+She has a strong affinity for duckies and creates dramatic 
+re-enactments with them during imaginary play during 
+the day at bathtime. Ingrid's talents include falling off 
+her chair at the dinner table, being "a little bit cute and a
+little bit naughty", and riding her scooter.</span></p></td></tr>
 
 
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
