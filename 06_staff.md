@@ -117,6 +117,14 @@ Duckietown is supported by NSF, in the
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Project Manager</span></td></tr>
 
 
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span></td></tr>
+
+
+
+<tr class="missing"><td colspan="2">(Plus other 8 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+
+
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 
 
@@ -124,7 +132,7 @@ Duckietown is supported by NSF, in the
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
@@ -132,7 +140,11 @@ Duckietown is supported by NSF, in the
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr class="missing"><td colspan="2">(Plus other 22 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  

@@ -96,13 +96,13 @@ def generate_roster(people):
 <tr class='roles'   > <td colspan="2"> Operations </td> </tr>
 """
 
-    s += generate_roster_tag(people, 'operations')
+    s += generate_roster_tag(people, 'operations', expected=20)
 
     s += """
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 """
 
-    s += generate_roster_tag(people, 'training')
+    s += generate_roster_tag(people, 'training', expected=26)
 
     s += """
 </table>"""
@@ -110,7 +110,7 @@ def generate_roster(people):
     return s
 
 
-def generate_roster_tag(people, tag):
+def generate_roster_tag(people, tag, expected=None):
     people = select(people, tag)
 
 
@@ -127,6 +127,17 @@ def generate_roster_tag(people, tag):
     for id_person in ordered:
         p = people[id_person]
         s += "\n\n" + generate_person(id_person, p) + "\n\n"
+
+    if expected is not None:
+        n = len(ordered)
+        missing = expected - n
+        if n > 0:
+            url_DB = 'https://github.com/duckietown/website/tree/gh-pages/media/staff'
+            s += '\n\n<tr class="missing"><td colspan="2">'
+            s += '(Plus other %d people ' % missing
+            s += ' who have not yet added their bio <a href="%s">in our DB</a>.)' % url_DB
+            s += '</td></tr>'
+            s += '\n\n'
 
     return s
 
