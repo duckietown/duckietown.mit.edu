@@ -128,7 +128,7 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://jeffdusek.mit.edu/">Jeff Dusek</a></span><br/><span class="position">Systems Engineer</span><p><span class="bio">eff pursued his love for the water and passion for science as an Ocean Engineering student at Florida Atlantic University and the Massachusetts Institute of Technology. He is now a Postdoctoral Fellow working in the Self-organizing Systems Research Group at Harvard University under the guidance of Professor Radhika Nagpal. Broadly, his areas of interest are experimental hydrodynamics, sensor development, and biomimetics. In all cases, he strive to apply lessons learned in the lab to real-world problems. Jeff also has a passion for assistive technology and the ability of emerging technologies and materials to improve the lives of those living with a disability.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://jeffdusek.mit.edu/">Jeff Dusek</a></span><br/><span class="position">Systems Engineer</span><p><span class="bio">Jeff pursued his love for the water and passion for science as an Ocean Engineering student at Florida Atlantic University and the Massachusetts Institute of Technology. He is now a Postdoctoral Fellow working in the Self-organizing Systems Research Group at Harvard University under the guidance of Professor Radhika Nagpal. Broadly, his areas of interest are experimental hydrodynamics, sensor development, and biomimetics. In all cases, he strive to apply lessons learned in the lab to real-world problems. Jeff also has a passion for assistive technology and the ability of emerging technologies and materials to improve the lives of those living with a disability.</span></p></td></tr>
 
 
 
@@ -239,7 +239,7 @@ She is passionate about songwriting,
 singing, and dancing, particulary when not wearing any pants. 
 She has a strong affinity for duckies and creates dramatic 
 re-enactments with them during imaginary play during 
-the day at bathtime. Ingrid's talents include falling off 
+the day and at bathtime. Ingrid's talents include falling off 
 her chair at the dinner table, being "a little bit cute and a
 little bit naughty", and riding her scooter.</span></p></td></tr>
 
