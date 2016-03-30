@@ -8,8 +8,6 @@ permalink: staff.html
   
     
 <style type='text/css'>
-    img.person { height: 8em;}
-    img.robot { height: 8em;}
     table#roster TD {  vertical-align: top;}
     table#roster  tr td:first-child { text-align: center;}
     table#roster  tr td { padding-left: 2em; }
