@@ -69,9 +69,9 @@ Our Duckiebot ($100 platform):
 
 
 The roboticists of the future:
-
+<div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://player.vimeo.com/video/150075068" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+</div>
 
 <!-- All these links are Google Docs documents 
 on which everybody can comment:
