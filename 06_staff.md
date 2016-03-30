@@ -244,15 +244,19 @@ little bit naughty", and riding her scooter.</span></p></td></tr>
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/catliu.jpg"/></td></td><td><span class="name"> Catherine Liu</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/joe-wl.jpg"/></td></td><td><span class="name"> Joseph Leavitt</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/nbuckman.jpg"/></td></td><td><span class="name"> Noam Buckman</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/samcerq.jpg"/></td></td><td><span class="name"> Samuel Cerqueira Pinto</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -260,7 +264,43 @@ little bit naughty", and riding her scooter.</span></p></td></tr>
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 22 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/valerio.jpg"/></td></td><td><span class="name"> Valerio Varricchio</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/lapentab.jpg"/></td></td><td><span class="name"> Bethany LaPenta</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/atacchet.jpg"/></td></td><td><span class="name"> Andrea Tacchetti</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/npd22.jpg"/></td></td><td><span class="name"> Nicolas Demas</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/nbuckman.jpg"/></td></td><td><span class="name"> Noam Buckman</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rkk.jpg"/></td></td><td><span class="name"> Robert Katzschmann</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr class="missing"><td colspan="2">(Plus other 12 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  
