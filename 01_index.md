@@ -70,7 +70,7 @@ Our Duckiebot ($100 platform):
 
 The roboticists of the future:
 
-<iframe src="https://player.vimeo.com/video/150075068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/150075068" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 <!-- All these links are Google Docs documents 
