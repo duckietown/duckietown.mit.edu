@@ -8,8 +8,6 @@ permalink: staff.html
   
     
 <style type='text/css'>
-    img.person { height: 8em;}
-    img.robot { height: 8em;}
     table#roster TD {  vertical-align: top;}
     table#roster  tr td:first-child { text-align: center;}
     table#roster  tr td { padding-left: 2em; }
@@ -232,7 +230,7 @@ she hopes to attend Grade 1.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Ingrid Paull</span><br/><span class="position">Junior Tester/Singer Songwriter</span><p><span class="bio">Ingrid joined the Duckietown team after composing an award winning 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ingrid.jpg"/></td></td><td><span class="name"> Ingrid Paull</span><br/><span class="position">Junior Tester/Singer Songwriter</span><p><span class="bio">Ingrid joined the Duckietown team after composing an award winning 
 song, <em><a href="https://vimeo.com/154418990">Duckiebots don't cry</a></em>. 
 She is passionate about songwriting, 
 singing, and dancing, particulary when not wearing any pants. 
@@ -246,15 +244,19 @@ little bit naughty", and riding her scooter.</span></p></td></tr>
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/catliu.jpg"/></td></td><td><span class="name"> Catherine Liu</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/joe-wl.jpg"/></td></td><td><span class="name"> Joseph Leavitt</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/nbuckman.jpg"/></td></td><td><span class="name"> Noam Buckman</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/samcerq.jpg"/></td></td><td><span class="name"> Samuel Cerqueira Pinto</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -262,7 +264,43 @@ little bit naughty", and riding her scooter.</span></p></td></tr>
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 22 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/valerio.jpg"/></td></td><td><span class="name"> Valerio Varricchio</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/lapentab.jpg"/></td></td><td><span class="name"> Bethany LaPenta</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/atacchet.jpg"/></td></td><td><span class="name"> Andrea Tacchetti</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/npd22.jpg"/></td></td><td><span class="name"> Nicolas Demas</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/nbuckman.jpg"/></td></td><td><span class="name"> Noam Buckman</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rkk.jpg"/></td></td><td><span class="name"> Robert Katzschmann</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr class="missing"><td colspan="2">(Plus other 12 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  

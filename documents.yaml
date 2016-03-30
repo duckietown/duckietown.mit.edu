@@ -11,6 +11,14 @@
 # - "spring2016": relevant for the spring 2016 class
 # - "setup": setup instructions 
 
+- id: cover_page
+  title: "cover_page"
+  owner: 
+  collaborators: 
+  tags: [spring2016]
+  desc: |
+  google_docs_share_link: "https://drive.google.com/open?id=1JRctSQTWZsZRFthPlJrxeets1SH56rQIRHsq0LvDpko"
+
 - id: accounts_guide
   title: "Accounts guide"
   owner: censi
