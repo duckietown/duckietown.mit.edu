@@ -53,7 +53,7 @@ permalink: lectures.html
     
     <h2><span class="lecture_id">C02_team:</span> Meet the team </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: Heejin Ahn, choi, <a href='https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao'>Javier Alonso-Mora</a>, <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, carlone, <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
+    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: Heejin Ahn, <a href='http://people.csail.mit.edu/cchoi/'>Changhyun Choi</a>, <a href='https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao'>Javier Alonso-Mora</a>, <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, <a href='http://www.lucacarlone.com/'>Luca Carlone</a>, <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
     
     <table><tr>
        <td>
@@ -112,7 +112,7 @@ permalink: lectures.html
     
     <h2><span class="lecture_id">C06_cameras:</span> Computer vision basics </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: <a href='http://acl.mit.edu/'>Jonathan How</a>, choi</p>
+    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: <a href='http://acl.mit.edu/'>Jonathan How</a>, <a href='http://people.csail.mit.edu/cchoi/'>Changhyun Choi</a></p>
     
     <table><tr>
        <td>

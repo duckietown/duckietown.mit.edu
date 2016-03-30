@@ -85,6 +85,10 @@ from Caltech.</span></p></td></tr>
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/pazis.jpg"/></td></td><td><span class="name"><a href="https://lids.mit.edu/people/research-staff/jason-pazis">Jason Pazis</a></span><br/><span class="position"></span><p><span class="bio">Jason's reseach interests include fast PAC-optimal exploration in Markov Decision Processes for real-word applications, parallel and safe exploration in Markov Decision Processes, transfer learning in Markov Decision Processes, and Non-parametric, batch mode reinforcement learning.</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rosman.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/rosman/">Guy Rosman</a></span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Guy Rosman is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received M.Sc. and Ph.D. degrees at the Technion, Israel.
@@ -106,7 +110,15 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/carlone.jpg"/></td></td><td><span class="name"><a href="http://www.lucacarlone.com/">Luca Carlone</a></span><br/><span class="position"></span><p><span class="bio">Luca is a postdoctoral associate at the MIT Laboratory for Information & Decision Systems, collaborating with Prof. Sertac Karaman. His research interests include estimation, optimization, and control applied to mobile robotics, with special focus on localization, mapping, and decision making for mobile robots navigation.</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/welch.jpg"/></td></td><td><span class="name"><a href="http://chriswelchphotography.com/">Chris Welch</a></span><br/><span class="position">Creative Director</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/chen.jpg"/></td></td><td><span class="name"><a href="http://acl.mit.edu/members/chen.htm">Steven Chen</a></span><br/><span class="position"></span><p><span class="bio">Steven's reseach interests include decentralized control and planning under uncertainty.</span></p></td></tr>
 
 
 
@@ -120,6 +132,10 @@ interested in multi-robot cooperation and human-robot cooperation within teams.<
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Elaine Kwan</span><br/><span class="position">Inventory Specialist</span><p><span class="bio">Elaine is a Lab Assistant for Duckietown.</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
 the Laboratory for Information & Decision Systems 
 (LIDS) and Aerospace Controls Laboratory (ACL) 
@@ -130,7 +146,7 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://jeffdusek.mit.edu/">Jeff Dusek</a></span><br/><span class="position">Systems Engineer</span><p><span class="bio">Jeff pursued his love for the water and passion for science as an Ocean Engineering student at Florida Atlantic University and the Massachusetts Institute of Technology. He is now a Postdoctoral Fellow working in the Self-organizing Systems Research Group at Harvard University under the guidance of Professor Radhika Nagpal. Broadly, his areas of interest are experimental hydrodynamics, sensor development, and biomimetics. In all cases, he strive to apply lessons learned in the lab to real-world problems. Jeff also has a passion for assistive technology and the ability of emerging technologies and materials to improve the lives of those living with a disability.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/dusek.jpg"/></td></td><td><span class="name"><a href="http://jeffdusek.mit.edu/">Jeff Dusek</a></span><br/><span class="position">Systems Engineer</span><p><span class="bio">Jeff pursued his love for the water and passion for science as an Ocean Engineering student at Florida Atlantic University and the Massachusetts Institute of Technology. He is now a Postdoctoral Fellow working in the Self-organizing Systems Research Group at Harvard University under the guidance of Professor Radhika Nagpal. Broadly, his areas of interest are experimental hydrodynamics, sensor development, and biomimetics. In all cases, he strive to apply lessons learned in the lab to real-world problems. Jeff also has a passion for assistive technology and the ability of emerging technologies and materials to improve the lives of those living with a disability.</span></p></td></tr>
 
 
 
@@ -139,7 +155,7 @@ Her research interests include the analysis and control of networked dynamical s
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://ares.lids.mit.edu/~yershov/">Dmitry Yershov</a></span><br/><span class="position">Systems & Electronics Engineer</span><p><span class="bio">Dmitry is a Postdoctoral Associate in the ARES group, Laboratory for Information and Decission Systems (LIDS) at the Massachusetts Institute of Technology. His research interests include: robotics, numerical approximations in optimal control, optimal feedback planning, sensing and inference, and information space planning.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/yershov.jpg"/></td></td><td><span class="name"><a href="http://ares.lids.mit.edu/~yershov/">Dmitry Yershov</a></span><br/><span class="position">Systems & Electronics Engineer</span><p><span class="bio">Dmitry is a Postdoctoral Associate in the ARES group, Laboratory for Information and Decission Systems (LIDS) at the Massachusetts Institute of Technology. His research interests include: robotics, numerical approximations in optimal control, optimal feedback planning, sensing and inference, and information space planning.</span></p></td></tr>
 
 
 
@@ -153,6 +169,10 @@ His primary research interest is in motion planning and control of autonomous mu
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/choi.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/cchoi/">Changhyun Choi</a></span><br/><span class="position"></span><p><span class="bio">Changhyun Choi is a Postdoctoral Associate in the Computer Science & Artificial Intelligence Lab (CSAIL) at Massachusetts Institute of Technology (MIT) working with Prof. Daniela Rus. He obtained a Ph.D. in Robotics at the School of Interactive Computing, College of Computing, Georgia Institute of Technology. His broad research interests are in Visual Perception for Robotics, with a focus on object recognition and pose estimation, visual tracking, and 3D registration.</span></p></td></tr>
 
 
 
@@ -188,27 +208,11 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("pazis" should add information in DB)</span><br/><span class="position"></span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/carlone.jpg"/></td></td><td><span class="name"> ("carlone" should add information in DB)</span><br/><span class="position"></span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/chen.jpg"/></td></td><td><span class="name"> ("chen" should add information in DB)</span><br/><span class="position"></span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("le" should add information in DB)</span><br/><span class="position"></span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("franzoni" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/choi.jpg"/></td></td><td><span class="name"> ("choi" should add information in DB)</span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("le" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 

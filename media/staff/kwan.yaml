@@ -1,5 +1,6 @@
- name: Elaine Kwan
- tags: [operations]
- position: Inventory Specialist
- bio: |
-Elaine is a Lab Assistant for Duckietown.
+name: Elaine Kwan
+tags: [operations]
+position: Inventory Specialist
+url:
+bio: |
+  Elaine is a Lab Assistant for Duckietown.
