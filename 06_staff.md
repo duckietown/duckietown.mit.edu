@@ -104,7 +104,7 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/subedi.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
 
 
 
@@ -224,7 +224,7 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 <tr class='roles'   > <td colspan="2"> Special Operations </td> </tr>
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/greta.jpg"/></td></td><td><span class="name"> Greta Paull</span><br/><span class="position">Junior Tester</span><p><span class="bio">Greta is the leading 5-year-old expert on Duckiebots and routinely gives rivetting lectures about their functionality  
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/greta.jpg"/></td></td><td><span class="name"> Greta Paull</span><br/><span class="position">Junior Tester</span><p><span class="bio">Greta is the leading 5-year-old expert on Duckiebots and gives animated lectures about their functionality  
 to her colleagues. Her love for technology started from an early age and now she routinely builds her own laptops from paper and masking tape. 
 Her favorite book is the 
 Duckietown class textbook, <a href="https://en.wikipedia.org/wiki/Make_Way_for_Ducklings">Make Way for Ducklings</a> and when she is not studying she divides her time equally among playing zoo, making mystery soup, and taking care of her pet worm. In the future, 
@@ -232,12 +232,12 @@ she hopes to attend Grade 1.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ingrid.jpg"/></td></td><td><span class="name"> Ingrid Paull</span><br/><span class="position">Junior Tester/Singer Songwriter</span><p><span class="bio">Ingrid joined the Duckietown team after composing an award winning 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Ingrid Paull</span><br/><span class="position">Junior Tester/Singer Songwriter</span><p><span class="bio">Ingrid joined the Duckietown team after composing an award winning 
 song, <em><a href="https://vimeo.com/154418990">Duckiebots don't cry</a></em>. 
 She is passionate about songwriting, 
 singing, and dancing, particulary when not wearing any pants. 
 She has a strong affinity for duckies and creates dramatic 
-re-enactments with them during imaginary play during 
+re-enactments with them during 
 the day and at bathtime. Ingrid's talents include falling off 
 her chair at the dinner table, being "a little bit cute and a
 little bit naughty", and riding her scooter.</span></p></td></tr>

@@ -156,6 +156,8 @@ def generate_lecture(id_lecture, lecture, people, context):
                 person = people[p]
                 url = person['url']
                 name = person['name']
+                if name is None:
+                    return p
                 if url:
                     return "<a href='%s'>%s</a>" % (url, name)
                 else:
