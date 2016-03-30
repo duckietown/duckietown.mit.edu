@@ -1,5 +1,5 @@
-name:
+name: Jason Pazis
 position: 
-url: 
-bio:
+url: https://lids.mit.edu/people/research-staff/jason-pazis
+bio: Jason's reseach interests include fast PAC-optimal exploration in Markov Decision Processes for real-word applications, parallel and safe exploration in Markov Decision Processes, transfer learning in Markov Decision Processes, and Non-parametric, batch mode reinforcement learning.
 tags: [operations]
