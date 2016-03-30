@@ -232,7 +232,7 @@ she hopes to attend Grade 1.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Ingrid Paull</span><br/><span class="position">Junior Tester/Singer Songwriter</span><p><span class="bio">Ingrid joined the Duckietown team after composing an award winning 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ingrid.jpg"/></td></td><td><span class="name"> Ingrid Paull</span><br/><span class="position">Junior Tester/Singer Songwriter</span><p><span class="bio">Ingrid joined the Duckietown team after composing an award winning 
 song, <em><a href="https://vimeo.com/154418990">Duckiebots don't cry</a></em>. 
 She is passionate about songwriting, 
 singing, and dancing, particulary when not wearing any pants. 
