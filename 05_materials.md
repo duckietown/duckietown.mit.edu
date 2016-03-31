@@ -181,10 +181,6 @@ are drafts.</p>
     
 
 
-<p id="cover_page" class=""><a class="title" href="https://drive.google.com/open?id=1JRctSQTWZsZRFthPlJrxeets1SH56rQIRHsq0LvDpko"><img class='icon' src='media/gdoc.png'/>cover_page</a> (<a href="https://docs.google.com/document/d/1JRctSQTWZsZRFthPlJrxeets1SH56rQIRHsq0LvDpko/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
-
-
-
 <p id="accounts_guide" class=""><a class="title" href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing"><img class='icon' src='media/gdoc.png'/>Accounts guide</a> (<a href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): This document contains instructions for how we would like you  to represent yourself online during your Duckietown experience.</p>
 
 
