@@ -245,6 +245,10 @@ her chair at the dinner table, being "a little bit cute and a
 little bit naughty", and riding her scooter.</span></p></td></tr>
 
 
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/valeria.jpg"/></td></td><td><span class="name"> Valeria Cagnina</span><br/><span class="position">Senior Tester</span><p><span class="bio">Valeria is a 15 year old robotics enthusiast, who is following the Duckietown class remotely from Italy.</span></p></td></tr>
+
+
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
 
 
