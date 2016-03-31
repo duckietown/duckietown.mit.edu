@@ -132,7 +132,7 @@ interested in multi-robot cooperation and human-robot cooperation within teams.<
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Elaine Kwan</span><br/><span class="position">Inventory Specialist</span><p><span class="bio">Elaine is a Lab Assistant for Duckietown.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/kwan.jpg"/></td></td><td><span class="name"> Elaine Kwan</span><br/><span class="position">Inventory Specialist</span><p><span class="bio">Elaine is a Lab Assistant for Duckietown.</span></p></td></tr>
 
 
 
@@ -187,7 +187,7 @@ Michal is interested in motion planning, multi-robot coordination, and automated
 Jonathan Garcia-Mallen is now making the experience of using a duckiebot as smooth and fun as possible. 
 He wants robots to do work too boring or dangerous for us humans, 
 as well as to research coordination of multiple machines and perception to make this happen. 
-Currently he is pursue his S.B. in Electrical Engineering and Computer Science at MIT.</span></p></td></tr>
+Currently he is pursuing his S.B. in Electrical Engineering and Computer Science at MIT.</span></p></td></tr>
 
 
 
@@ -208,7 +208,7 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("franzoni" should add information in DB)</span><br/><span class="position"></span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/franzoni.jpg"/></td></td><td><span class="name"> ("franzoni" should add information in DB)</span><br/><span class="position"></span></td></tr>
 
 
 

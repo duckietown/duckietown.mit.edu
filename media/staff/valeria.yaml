@@ -1,5 +1,6 @@
- name: Valeria Cagnina
- tags: [operations]
- position: Senior Tester
- bio: |
-Valeria is a 15 year old robotics enthusiast, who is following the Duckietown class remotely from Italy.
+name: Valeria Cagnina
+tags: [special-op]
+position: Senior Tester
+url:
+bio: |
+ Valeria is a 15 year old robotics enthusiast, who is following the Duckietown class remotely from Italy.
