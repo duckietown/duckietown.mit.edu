@@ -146,6 +146,14 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Alexander (Sasha) Galitsky</span><br/><span class="position">Creatives Assistant</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/franzoni.jpg"/></td></td><td><span class="name"> Igor Franzoni</span><br/><span class="position">Lab Assistant</span><p><span class="bio">Igor is one of Duckietown's lab assistants.</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/dusek.jpg"/></td></td><td><span class="name"><a href="http://jeffdusek.mit.edu/">Jeff Dusek</a></span><br/><span class="position">Systems Engineer</span><p><span class="bio">Jeff pursued his love for the water and passion for science as an Ocean Engineering student at Florida Atlantic University and the Massachusetts Institute of Technology. He is now a Postdoctoral Fellow working in the Self-organizing Systems Research Group at Harvard University under the guidance of Professor Radhika Nagpal. Broadly, his areas of interest are experimental hydrodynamics, sensor development, and biomimetics. In all cases, he strive to apply lessons learned in the lab to real-world problems. Jeff also has a passion for assistive technology and the ability of emerging technologies and materials to improve the lives of those living with a disability.</span></p></td></tr>
 
 
@@ -155,11 +163,15 @@ Her research interests include the analysis and control of networked dynamical s
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Quang Le</span><br/><span class="position">Soldering Expert</span><p><span class="bio">Quang is a Duckietown UROP</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/yershov.jpg"/></td></td><td><span class="name"><a href="http://ares.lids.mit.edu/~yershov/">Dmitry Yershov</a></span><br/><span class="position">Systems & Electronics Engineer</span><p><span class="bio">Dmitry is a Postdoctoral Associate in the ARES group, Laboratory for Information and Decission Systems (LIDS) at the Massachusetts Institute of Technology. His research interests include: robotics, numerical approximations in optimal control, optimal feedback planning, sensing and inference, and information space planning.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Project Manager</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received the M.Sc. and Ph.D. degrees in robotics from ETH Zurich, Switzerland,
 and Diploma degrees in mathematics and in industrial engineering, both from the Universitat Politecnica de Catalunya.
@@ -208,14 +220,6 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/franzoni.jpg"/></td></td><td><span class="name"> ("franzoni" should add information in DB)</span><br/><span class="position"></span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> ("le" should add information in DB)</span><br/><span class="position"></span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span><p><span class="bio">Holding an MSc in Biology, Kirsten Bowser's expertise align more closely with real, as opposed to rubber, duckies. She has significant experience conducting remote field research for long-term ecological studies. She is also competent in next-generation DNA sequencing and environmental barcoding. Her main research interests lie in the interactions between components of an ecosystem, either at larger (marine food webs) or small (gut microbiome) scales. Currently, Kirsten juggles the needs of both her biological and Duckietown-adopted children, which run the gamut from tieing shoes and making lunches to booking CSAIL meeting rooms and editing spreadsheets.</span></p></td></tr>
 
 
@@ -246,7 +250,19 @@ little bit naughty", and riding her scooter.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/valeria.jpg"/></td></td><td><span class="name"> Valeria Cagnina</span><br/><span class="position">Senior Tester</span><p><span class="bio">Valeria is a 15 year old robotics enthusiast, who is following the Duckietown class remotely from Italy.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/valeria.jpg"/></td></td><td><span class="name"> Valeria Cagnina</span><br/><span class="position">Senior Tester</span><p><span class="bio">Valeria is a 15 year old robotics enthusiast, 
+who is following the Duckietown class remotely 
+from Italy. She was speaker in TEDxMilanoWomen 
+and open the Maker Faire Rome. She built a robot using
+ Skype with another teen that live 800 km from she that
+  arrived in the final of RomeCup. She's co-Champion of 
+  Coderdojo Alessandria and build her first robot using 
+  ArduinoUNO at 11 y/o following YouTube video. Her hobbies 
+  include rhythmic gymnastics which she started at 3 years 
+  old and now teaches to small children, origami, painting, 
+  and travel around the world. When she grows up she plans 
+  to become robotics engineer and create her own startup 
+  for help other people with robotics.</span></p></td></tr>
 
 
 <tr class='roles' > <td colspan="2"> Duckietown Engineering Training Program </td> </tr>
