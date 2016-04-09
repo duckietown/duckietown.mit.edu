@@ -72,7 +72,7 @@ Duckietown is supported by NSF, in the
 <tr class='roles'   > <td colspan="2"> Operations </td> </tr>
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/censi.jpg"/></td></td><td><span class="name"><a href="http://censi.mit.edu/">Andrea Censi</a></span><br/><span class="position">Chief Technology Officer</span><p><span class="bio">Andrea Censi is a Research Scientist and Principal Investigator  with
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://censi.mit.edu/">Andrea Censi</a></span><br/><span class="position">Chief Technology Officer</span><p><span class="bio">Andrea Censi is a Research Scientist and Principal Investigator  with
 the Laboratory for Information and Decision Systems in the
 Massachusetts Institute of Technology.  He received the B.Sc. and
 M.Sc. degrees  (summa cum laude) in control engineering and robotics
@@ -139,7 +139,7 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/chen.jpg"/></td></td><td><span class="name"><a href="http://acl.mit.edu/members/chen.htm">Steven Chen</a></span><br/><span class="position"></span><p><span class="bio">Steven's reseach interests include decentralized control and planning under uncertainty.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://acl.mit.edu/members/chen.htm">Steven Chen</a></span><br/><span class="position"></span><p><span class="bio">Steven's reseach interests include decentralized control and planning under uncertainty.</span></p></td></tr>
 
 
 
@@ -153,7 +153,7 @@ interested in multi-robot cooperation and human-robot cooperation within teams.<
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/kwan.jpg"/></td></td><td><span class="name"> Elaine Kwan</span><br/><span class="position">Inventory Specialist</span><p><span class="bio">Elaine is a Lab Assistant for Duckietown.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Elaine Kwan</span><br/><span class="position">Inventory Specialist</span><p><span class="bio">Elaine is a Lab Assistant for Duckietown.</span></p></td></tr>
 
 
 
@@ -179,7 +179,7 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ahn.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
 Her research interests include the analysis and control of networked dynamical systems with application to transportation systems.</span></p></td></tr>
 
 
@@ -192,7 +192,7 @@ Her research interests include the analysis and control of networked dynamical s
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/jalonsom/">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/jalonsom/">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received the M.Sc. and Ph.D. degrees in robotics from ETH Zurich, Switzerland,
 and Diploma degrees in mathematics and in industrial engineering, both from the Universitat Politecnica de Catalunya.
@@ -205,11 +205,11 @@ His primary research interest is in motion planning and control of autonomous mu
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/choi.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/cchoi/">Changhyun Choi</a></span><br/><span class="position"></span><p><span class="bio">Changhyun Choi is a Postdoctoral Associate in the Computer Science & Artificial Intelligence Lab (CSAIL) at Massachusetts Institute of Technology (MIT) working with Prof. Daniela Rus. He obtained a Ph.D. in Robotics at the School of Interactive Computing, College of Computing, Georgia Institute of Technology. His broad research interests are in Visual Perception for Robotics, with a focus on object recognition and pose estimation, visual tracking, and 3D registration.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/cchoi/">Changhyun Choi</a></span><br/><span class="position"></span><p><span class="bio">Changhyun Choi is a Postdoctoral Associate in the Computer Science & Artificial Intelligence Lab (CSAIL) at Massachusetts Institute of Technology (MIT) working with Prof. Daniela Rus. He obtained a Ph.D. in Robotics at the School of Interactive Computing, College of Computing, Georgia Institute of Technology. His broad research interests are in Visual Perception for Robotics, with a focus on object recognition and pose estimation, visual tracking, and 3D registration.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/cap.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Developer</span><p><span class="bio">Michal Cap is a Fulbright-funded visiting PhD researcher with the Laboratory for Information and Decision Systems in the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Developer</span><p><span class="bio">Michal Cap is a Fulbright-funded visiting PhD researcher with the Laboratory for Information and Decision Systems in the
 Massachusetts Institute of Technology. He received a bachelors degree from BUT Brno and 
 MSc. degree from Utrecht University. He also currently is pursuing PhD in artificial intelligence at CTU in Prague.
 Michal is interested in motion planning, multi-robot coordination, and automated transportation in general.</span></p></td></tr>
@@ -245,7 +245,7 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/waller.jpg"/></td></td><td><span class="name"><a href="">Erica Waller</a></span><br/><span class="position">Duckietown Urban Planner</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="">Erica Waller</a></span><br/><span class="position">Duckietown Urban Planner</span></td></tr>
 
 
 <tr class='roles'   > <td colspan="2"> Special Operations </td> </tr>
