@@ -216,7 +216,7 @@ Michal is interested in motion planning, multi-robot coordination, and automated
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/garcia-mallen.jpg"/></td></td><td><span class="name"> Jonathan Garcia-Mallen</span><br/><span class="position">User Experience Design</span><p><span class="bio">Having previously served as Supply Chain Analyst and Fashion Advisor for Duckietown, 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Jonathan Garcia-Mallen</span><br/><span class="position">User Experience Design</span><p><span class="bio">Having previously served as Supply Chain Analyst and Fashion Advisor for Duckietown, 
 Jonathan Garcia-Mallen is now making the experience of using a duckiebot as smooth and fun as possible. 
 He wants robots to do work too boring or dangerous for us humans, 
 as well as to research coordination of multiple machines and perception to make this happen. 
