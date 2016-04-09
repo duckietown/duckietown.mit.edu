@@ -171,7 +171,7 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/franzoni.jpg"/></td></td><td><span class="name"> Igor Franzoni</span><br/><span class="position">Lab Assistant</span><p><span class="bio">Igor is one of Duckietown's lab assistants.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Igor Franzoni</span><br/><span class="position">Lab Assistant</span><p><span class="bio">Igor is one of Duckietown's lab assistants.</span></p></td></tr>
 
 
 
@@ -201,7 +201,7 @@ His primary research interest is in motion planning and control of autonomous mu
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
 
 
 
@@ -224,7 +224,7 @@ Currently he is pursuing his S.B. in Electrical Engineering and Computer Science
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/hoehener.jpg"/></td></td><td><span class="name"><a href="http://meche.mit.edu/people/staff/hoehener@mit.edu">Daniel Hoehener</a></span><br/><span class="position">Intersection Safety Engineer</span><p><span class="bio">Daniel Hoehener received the Ph.D. degree in Applied Mathematics 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://meche.mit.edu/people/staff/hoehener@mit.edu">Daniel Hoehener</a></span><br/><span class="position">Intersection Safety Engineer</span><p><span class="bio">Daniel Hoehener received the Ph.D. degree in Applied Mathematics 
 from University Pierre et Marie Curie in Paris in 2013, M.S. degree 
 in Applied Mathematics from Ecole Polytechnique, Paris, in 2010, 
 and the B.S. degree in Mathematics from the University of Fribourg in 
