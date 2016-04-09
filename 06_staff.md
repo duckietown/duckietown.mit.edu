@@ -157,7 +157,7 @@ interested in multi-robot cooperation and human-robot cooperation within teams.<
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
 the Laboratory for Information & Decision Systems 
 (LIDS) and Aerospace Controls Laboratory (ACL) 
 at MIT. He received his PhD degree in Mechanical 
