@@ -85,11 +85,11 @@ from Caltech.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/pazis.jpg"/></td></td><td><span class="name"><a href="https://lids.mit.edu/people/research-staff/jason-pazis">Jason Pazis</a></span><br/><span class="position"></span><p><span class="bio">Jason's reseach interests include fast PAC-optimal exploration in Markov Decision Processes for real-word applications, parallel and safe exploration in Markov Decision Processes, transfer learning in Markov Decision Processes, and Non-parametric, batch mode reinforcement learning.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="https://lids.mit.edu/people/research-staff/jason-pazis">Jason Pazis</a></span><br/><span class="position"></span><p><span class="bio">Jason's reseach interests include fast PAC-optimal exploration in Markov Decision Processes for real-word applications, parallel and safe exploration in Markov Decision Processes, transfer learning in Markov Decision Processes, and Non-parametric, batch mode reinforcement learning.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rosman.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/rosman/">Guy Rosman</a></span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Guy Rosman is a Postdoctoral Associate at the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/rosman/">Guy Rosman</a></span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Guy Rosman is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received M.Sc. and Ph.D. degrees at the Technion, Israel.
 During his studies, he worked at IBM HRL, Medicvision, and Invision, among other companies.
@@ -106,7 +106,7 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/subedi.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
 
 
 
@@ -114,7 +114,7 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/welch.jpg"/></td></td><td><span class="name"><a href="http://chriswelchphotography.com/">Chris Welch</a></span><br/><span class="position">Creative Director</span><p><span class="bio">Hailing from Pasadena, CA, Chris Welch is an avid
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://chriswelchphotography.com/">Chris Welch</a></span><br/><span class="position">Creative Director</span><p><span class="bio">Hailing from Pasadena, CA, Chris Welch is an avid
  photographer, roboticist, and a coffee connoisseur.
   As an undergraduate at MIT, Chris maintained 
   an active presence on campus as a member of 
