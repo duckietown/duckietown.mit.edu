@@ -114,7 +114,28 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/welch.jpg"/></td></td><td><span class="name"><a href="http://chriswelchphotography.com/">Chris Welch</a></span><br/><span class="position">Creative Director</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/welch.jpg"/></td></td><td><span class="name"><a href="http://chriswelchphotography.com/">Chris Welch</a></span><br/><span class="position">Creative Director</span><p><span class="bio">Hailing from Pasadena, CA, Chris Welch is an avid
+ photographer, roboticist, and a coffee connoisseur.
+  As an undergraduate at MIT, Chris maintained 
+  an active presence on campus as a member of 
+  in Phi Beta Epsilon, a team lead on the Marine 
+  Robotics Team, and a counselor for the Freshman
+   Leadership Program, before earning his Bachelors
+    in Mechanical and Ocean Engineering and a minor
+     in Energy Studies in 2013. He has ample experience 
+     working with Autonomous Underwater Vehicles and 
+     has worked within Chevron's Energy Technology 
+     Company on their Metocean team, 
+     Anchors/Moorings/Risers Team, and Subsea 
+     Survey/Positioning team. Chris is continuing 
+     his career at MIT as a graduate student in the 
+     field of Applied Ocean Sciences and Engineering 
+     within the MIT-WHOI Joint Program, having recently
+      earned his Masters based on research in autonomous 
+      navigation and manipulation of offshore structures. 
+      However, when Chris isn't researching, he continues 
+      to maintain a strong photography and videography 
+      presence around campus.</span></p></td></tr>
 
 
 
@@ -171,7 +192,7 @@ Her research interests include the analysis and control of networked dynamical s
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="https://scholar.google.com/citations?user=JydqDdEAAAAJ&hl=en&oi=ao">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/jalonsom/">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received the M.Sc. and Ph.D. degrees in robotics from ETH Zurich, Switzerland,
 and Diploma degrees in mathematics and in industrial engineering, both from the Universitat Politecnica de Catalunya.
@@ -304,7 +325,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/npd22.jpg"/></td></td><td><span class="name"> Nicolas Demas</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/npd22.jpg"/></td></td><td><span class="name"><a href="www.npdemas.com">Nickolas Demas</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
