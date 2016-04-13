@@ -72,7 +72,7 @@ Duckietown is supported by NSF, in the
 <tr class='roles'   > <td colspan="2"> Operations </td> </tr>
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://censi.mit.edu/">Andrea Censi</a></span><br/><span class="position">Chief Technology Officer</span><p><span class="bio">Andrea Censi is a Research Scientist and Principal Investigator  with
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/censi.jpg"/></td></td><td><span class="name"><a href="http://censi.mit.edu/">Andrea Censi</a></span><br/><span class="position">Chief Technology Officer</span><p><span class="bio">Andrea Censi is a Research Scientist and Principal Investigator  with
 the Laboratory for Information and Decision Systems in the
 Massachusetts Institute of Technology.  He received the B.Sc. and
 M.Sc. degrees  (summa cum laude) in control engineering and robotics
@@ -305,6 +305,10 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/teddy.jpg"/></td></td><td><span class="name"> Teddy Ort</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
@@ -333,7 +337,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/aanders/">Ari Onasafari Anders</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -341,11 +345,15 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rkk.jpg"/></td></td><td><span class="name"> Robert Katzschmann</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 12 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rkk.jpg"/></td></td><td><span class="name"><a href="http://robert.katzschmann.eu/">Robert Katzschmann</a></span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr class="missing"><td colspan="2">(Plus other 10 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  
