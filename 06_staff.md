@@ -85,7 +85,10 @@ from Caltech.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="https://lids.mit.edu/people/research-staff/jason-pazis">Jason Pazis</a></span><br/><span class="position"></span><p><span class="bio">Jason's reseach interests include fast PAC-optimal exploration in Markov Decision Processes for real-word applications, parallel and safe exploration in Markov Decision Processes, transfer learning in Markov Decision Processes, and Non-parametric, batch mode reinforcement learning.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/pazis.jpg"/></td></td><td><span class="name"><a href="https://lids.mit.edu/people/research-staff/jason-pazis">Jason Pazis</a></span><br/><span class="position"></span><p><span class="bio">Jason is a postdoctoral associate at the Laboratory for Information & Decision Systems (LIDS) at MIT.
+He received his PhD degree in Computer Science from Duke University.
+His interests are at the intersection of machine learning, artificial intelligence, and robotics,
+with a focus on parameter-free machine learning algorithms that can be used to learn to perform multiple tasks with minimal developer input.</span></p></td></tr>
 
 
 
@@ -201,7 +204,7 @@ His primary research interest is in motion planning and control of autonomous mu
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
 
 
 
@@ -301,7 +304,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/joe-wl.jpg"/></td></td><td><span class="name"> Joseph Leavitt</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -329,6 +332,10 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/lapentab.jpg"/></td></td><td><span class="name"> Bethany LaPenta</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
@@ -345,7 +352,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/joe-wl.jpg"/></td></td><td><span class="name"> Joseph Leavitt</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -365,7 +372,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 7 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr class="missing"><td colspan="2">(Plus other 6 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  
