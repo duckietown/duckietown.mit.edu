@@ -106,7 +106,7 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/subedi.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
 
 
 
@@ -157,7 +157,12 @@ interested in multi-robot cooperation and human-robot cooperation within teams.<
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
+Her research interests include the analysis and control of networked dynamical systems with application to transportation systems.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
 the Laboratory for Information & Decision Systems 
 (LIDS) and Aerospace Controls Laboratory (ACL) 
 at MIT. He received his PhD degree in Mechanical 
@@ -176,11 +181,6 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/dusek.jpg"/></td></td><td><span class="name"><a href="http://jeffdusek.mit.edu/">Jeff Dusek</a></span><br/><span class="position">Systems Engineer</span><p><span class="bio">Jeff pursued his love for the water and passion for science as an Ocean Engineering student at Florida Atlantic University and the Massachusetts Institute of Technology. He is now a Postdoctoral Fellow working in the Self-organizing Systems Research Group at Harvard University under the guidance of Professor Radhika Nagpal. Broadly, his areas of interest are experimental hydrodynamics, sensor development, and biomimetics. In all cases, he strive to apply lessons learned in the lab to real-world problems. Jeff also has a passion for assistive technology and the ability of emerging technologies and materials to improve the lives of those living with a disability.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
-Her research interests include the analysis and control of networked dynamical systems with application to transportation systems.</span></p></td></tr>
 
 
 
@@ -224,7 +224,7 @@ Currently he is pursuing his S.B. in Electrical Engineering and Computer Science
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://meche.mit.edu/people/staff/hoehener@mit.edu">Daniel Hoehener</a></span><br/><span class="position">Intersection Safety Engineer</span><p><span class="bio">Daniel Hoehener received the Ph.D. degree in Applied Mathematics 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/hoehener.jpg"/></td></td><td><span class="name"><a href="http://meche.mit.edu/people/staff/hoehener@mit.edu">Daniel Hoehener</a></span><br/><span class="position">Intersection Safety Engineer</span><p><span class="bio">Daniel Hoehener received the Ph.D. degree in Applied Mathematics 
 from University Pierre et Marie Curie in Paris in 2013, M.S. degree 
 in Applied Mathematics from Ecole Polytechnique, Paris, in 2010, 
 and the B.S. degree in Mathematics from the University of Fribourg in 
@@ -297,19 +297,27 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/onasafari.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/aanders/">Ari Onasafari Anders</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/joe-wl.jpg"/></td></td><td><span class="name"> Joseph Leavitt</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/samcerq.jpg"/></td></td><td><span class="name"> Samuel Cerqueira Pinto</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/mfe.jpg"/></td></td><td><span class="name"><a href="http://mfe.scripts.mit.edu">Michael Everett</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/agirard.jpg"/></td></td><td><span class="name"> Alexandre Girard</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/eharbitz.jpg"/></td></td><td><span class="name"> Erlend Solbakk Harbitz</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/teddy.jpg"/></td></td><td><span class="name"> Teddy Ort</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
@@ -325,7 +333,11 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/atacchet.jpg"/></td></td><td><span class="name"> Andrea Tacchetti</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/samcerq.jpg"/></td></td><td><span class="name"> Samuel Cerqueira Pinto</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/atacchet.jpg"/></td></td><td><span class="name"><a href="http://web.mit.edu/atacchet/www/">Andrea Tacchetti</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -337,7 +349,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/aanders/">Ari Onasafari Anders</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -345,7 +357,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
@@ -353,7 +365,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 10 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr class="missing"><td colspan="2">(Plus other 7 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  
