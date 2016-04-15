@@ -212,7 +212,7 @@ His primary research interest is in motion planning and control of autonomous mu
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Developer</span><p><span class="bio">Michal Cap is a Fulbright-funded visiting PhD researcher with the Laboratory for Information and Decision Systems in the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/cap.jpg"/></td></td><td><span class="name"><a href="http://agents.fel.cvut.cz/~cap/">Michal Cap</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Michal Cap is a Fulbright-funded visiting PhD researcher with the Laboratory for Information and Decision Systems in the
 Massachusetts Institute of Technology. He received a bachelors degree from BUT Brno and 
 MSc. degree from Utrecht University. He also currently is pursuing PhD in artificial intelligence at CTU in Prague.
 Michal is interested in motion planning, multi-robot coordination, and automated transportation in general.</span></p></td></tr>
@@ -296,43 +296,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/onasafari.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/aanders/">Ari Onasafari Anders</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/mfe.jpg"/></td></td><td><span class="name"><a href="http://mfe.scripts.mit.edu">Michael Everett</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/agirard.jpg"/></td></td><td><span class="name"> Alexandre Girard</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/eharbitz.jpg"/></td></td><td><span class="name"> Erlend Solbakk Harbitz</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/teddy.jpg"/></td></td><td><span class="name"> Teddy Ort</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/valerio.jpg"/></td></td><td><span class="name"> Valerio Varricchio</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -340,15 +304,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/samcerq.jpg"/></td></td><td><span class="name"> Samuel Cerqueira Pinto</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/atacchet.jpg"/></td></td><td><span class="name"><a href="http://web.mit.edu/atacchet/www/">Andrea Tacchetti</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/npd22.jpg"/></td></td><td><span class="name"><a href="www.npdemas.com">Nickolas Demas</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -356,15 +312,15 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/samcerq.jpg"/></td></td><td><span class="name"> Samuel Cerqueira Pinto</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/nbuckman.jpg"/></td></td><td><span class="name"> Noam Buckman</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/onasafari.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/aanders/">Ari Onasafari Anders</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/eharbitz.jpg"/></td></td><td><span class="name"> Erlend Solbakk Harbitz</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -372,7 +328,59 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 6 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/amadoa.jpg"/></td></td><td><span class="name"> Amado Antonini</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/vdean.jpg"/></td></td><td><span class="name"> Victoria Dean</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/hanssusilo.jpg"/></td></td><td><span class="name"> Hans Susilo</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/agirard.jpg"/></td></td><td><span class="name"> Alexandre Girard</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/nbuckman.jpg"/></td></td><td><span class="name"> Noam Buckman</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/wubella.jpg"/></td></td><td><span class="name"> Wyatt Ubellacker</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/mrinal.jpg"/></td></td><td><span class="name"><a href="http://www.mrinalmohit.com">Mrinal Mohit</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/teddy.jpg"/></td></td><td><span class="name"> Teddy Ort</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/valerio.jpg"/></td></td><td><span class="name"> Valerio Varricchio</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/npd22.jpg"/></td></td><td><span class="name"><a href="www.npdemas.com">Nickolas Demas</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr class="missing"><td colspan="2">(Plus other 4 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  
