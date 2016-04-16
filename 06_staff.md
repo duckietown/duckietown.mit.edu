@@ -195,7 +195,7 @@ interests include navigation, path-planning, and control of autonomous ground an
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/jalonsom/">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/alonso-mora.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/jalonsom/">Javier Alonso-Mora</a></span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Javier Alonso-Mora is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received the M.Sc. and Ph.D. degrees in robotics from ETH Zurich, Switzerland,
 and Diploma degrees in mathematics and in industrial engineering, both from the Universitat Politecnica de Catalunya.
