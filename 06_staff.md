@@ -183,7 +183,7 @@ with a focus on parameter-free machine learning algorithms that can be used to l
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/rosman/">Guy Rosman</a></span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Guy Rosman is a Postdoctoral Associate at the
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/rosman.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/rosman/">Guy Rosman</a></span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Guy Rosman is a Postdoctoral Associate at the
 Computer Science and Artificial Intelligence Laboratory of the Massachusetts Institute of Technology. 
 He received M.Sc. and Ph.D. degrees at the Technion, Israel.
 During his studies, he worked at IBM HRL, Medicvision, and Invision, among other companies.
