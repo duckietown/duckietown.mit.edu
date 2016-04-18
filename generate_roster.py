@@ -124,8 +124,13 @@ def generate_roster_tag(people, tag, expected=None):
     def get_order(k):
         score = people[k]['order'] * 1000
 
-        if people[k]['name'] is None:
+        name = people[k]['name']
+        if name is None:
             score += 1000
+        else:
+            last = name.split(' ')[-1]
+            score += ord(last[0])
+
         return score
 
     ordered = sorted(people, key=get_order)
