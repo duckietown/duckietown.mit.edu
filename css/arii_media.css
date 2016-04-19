@@ -4,6 +4,48 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+h1 { 
+    font-size: 340%; 
+    text-align: center; 
+    text-shadow: 2px 2px black;
+    font-family: 'Lobster Two', cursive;  
+    color: #aa6300; 
+}
+
+h2 { 
+    color: #aa6300; 
+    font-family: 'Lobster Two', cursive;  
+    }
+
+h3 { 
+    color: #aa6300; 
+    font-family: 'Lobster Two', cursive;  
+    font-size:150%;
+    }
+
+.index img {
+    max-width:150px;
+    width:20%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.black {
+    color: #000000;
+}
+
+
+li a {
+    font-family: monospace; 
+    font-weight: bolder
+}
+
+.container-fluid{
+    padding-bottom:2em
+}
+.buffer{
+    margin-top:2em
+}
+
 .middle img{
     width:80%;
 }
