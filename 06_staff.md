@@ -130,7 +130,7 @@ Michal is interested in motion planning, multi-robot coordination, and automated
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Jonathan Garcia-Mallen</span><br/><span class="position">User Experience Design</span><p><span class="bio">Having previously served as Supply Chain Analyst and Fashion Advisor for Duckietown, 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/garcia-mallen.jpg"/></td></td><td><span class="name"> Jonathan Garcia-Mallen</span><br/><span class="position">User Experience Design</span><p><span class="bio">Having previously served as Supply Chain Analyst and Fashion Advisor for Duckietown, 
 Jonathan Garcia-Mallen is now making the experience of using a duckiebot as smooth and fun as possible. 
 He wants robots to do work too boring or dangerous for us humans, 
 as well as to research coordination of multiple machines and perception to make this happen. 
@@ -152,6 +152,10 @@ related to Cyber-Physical Systems, Optimization and Control.</span></p></td></tr
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Quang Le</span><br/><span class="position">Soldering Expert</span><p><span class="bio">Quang is a Duckietown UROP</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/liu.jpg"/></td></td><td><span class="name"><a href="http://www.mit.edu/~syliu">Shih-Yuan Liu</a></span><br/><span class="position">ROS Master</span><p><span class="bio">Shih-Yuan Liu is a postdoctoral associate at 
 the Laboratory for Information & Decision Systems 
 (LIDS) and Aerospace Controls Laboratory (ACL) 
@@ -159,10 +163,6 @@ at MIT. He received his PhD degree in Mechanical
 Engineering in Controls from University of 
 California, Berkeley in 2014. His research 
 interests include navigation, path-planning, and control of autonomous ground and aerial vehicles in dynamic environments.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Quang Le</span><br/><span class="position">Soldering Expert</span><p><span class="bio">Quang is a Duckietown UROP</span></p></td></tr>
 
 
 
@@ -356,11 +356,11 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 

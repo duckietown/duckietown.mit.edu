@@ -8,21 +8,16 @@ permalink: updates.html
 Please follow us on Facebook:
 <a style='font-family: monospace; font-weight: bold' href="http://facebook.com/duckietown">facebook.com/duckietown</a>.
 
-
-
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
-  fjs.parentNode.insertBefore(js, fjs);
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div style='width: 800px; '>
-	<div class="fb-page" data-href="https://www.facebook.com/Duckietown-1003517843021035" 
-data-tabs="timeline" data-width="800" data-height="1400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
-</div>
- 
+<div class="embed-responsive embed-responsive-4by3  text-center col-lg-12 fb boo" >
+<iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fduckietown&tabs=timeline&width=2000&height=2000&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId"   scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
+</div>

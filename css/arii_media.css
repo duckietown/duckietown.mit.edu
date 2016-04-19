@@ -32,11 +32,23 @@ h3 {
 .black {
     color: #000000;
 }
-
+.fb, 
+.fb span,
+html#facebook.svg,
+.fb iframe { 
+        width: 100% !important; 
+        margin-left: auto;
+        margin-right:auto;
+    }
 
 li a {
     font-family: monospace; 
     font-weight: bolder
+}
+
+.boo{
+    width: 5000px;
+    height: 10000em;
 }
 
 .container-fluid{

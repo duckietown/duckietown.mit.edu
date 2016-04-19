@@ -32,75 +32,86 @@
 - id: checklist_robot_laptop_config
   tags: [setup]
   title: "Checklist - Robot and laptop configuration"
-  desc: 
+  desc: getting your robot and laptop configured!
   google_docs_share_link: "https://drive.google.com/open?id=1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA"
 
-- id: checklist_conforming_ros_contribution
+- id: checklist_conforming_ROS_contribution
   tags: [setup]
   title: "Checklist - what makes a conforming ROS contribution"
-  desc:
+  desc: how to get ROS to work!
   google_docs_share_link: "https://drive.google.com/open?id=1nueJb9j9APGYT7iT-PQNNqcytUlLKguKhV9C0P2xOIQ"
 
 
 - id: connect_pi_and_buffalo
   tags: [setup]
   title: "Connect to Pi and Buffalo"
+  desc: using the buffalo and raspberry pi for wifi!
   google_docs_share_link:  "https://drive.google.com/open?id=15LqdN3f5vA_eVrzeAIOW_GYdUl6STS4Sn11qtengEws"
 
 
 - id: documentation_style_guide
   tags: [setup]
-  title: Documentation style guide
+  title: Documentation style guide 
+  desc: proper style guidelens for Duckietown documentation
   google_docs_share_link:  "https://drive.google.com/open?id=1dN_qt1KFI7osXsKCkBuTnMfVwmkSKDfELkwbRJ5z8a0"
 
 
 - id: sd_card_reset
   tags: [setup]
   title: How to reset your SD card
+  desc: reseting your SD card information and instructions
   google_docs_share_link: "https://drive.google.com/open?id=1W0PZhI9BcPhYhlrR4OnsUnrxOdbsd6StfKv7CU_9Nhw"
 
 
 - id: how_to_test_everything
   tags: [setup]
   title: How to test everything
+  desc: information about testing everything.
   google_docs_share_link: "https://drive.google.com/open?id=1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08"
 
 
 - id: setup_step0_buy_parts
   tags: [setup]
   title: Setup Step 0 - buy the parts
+  desc: purchasing all of the parts to build a Duckiebot
   google_docs_share_link: "https://drive.google.com/open?id=1tRRN15MLBl5OwXkuhxToxqEZSDuvAlxXbiOygzJ4Guk"
 
 
 - id: setup_step0.5_soldering_boards
   tags: [setup]
   title: Setup Step 0.5 - soldering boards
+  desc: how to solder the boards for a Duckiebot
   google_docs_share_link: "https://drive.google.com/open?id=1HAjn_tXxTPVzIJP8ZAWhHe13UyQRm6oGbI7xuBDn6rk"
 
 
 - id: setup_step1_buy_parts
   tags: [setup]
-  title: Setup Step 1 - assembling the duckiebot 
+  title: Setup Step 1 - assembling the Duckiebot
+  desc: all the information you need on assembling a Duckiebot
   google_docs_share_link: "https://drive.google.com/open?id=1QKSj5W-LNoSg6dvAPhiIUOPcJvVdRBCL_uKQyGBBDsE"
 
 
 - id: setup_step11_ubuntu_image
   title: Setup Step 1.1 - reproducing the Ubuntu image
   tags: [setup]
+  desc: the ubuntu image we are using on the Duckiebots
   google_docs_share_link: "https://drive.google.com/open?id=1qMso-yhvK_y5lQ0qNpvDtPJ7M1iF5p7-l0_lJBTxHqo"
 
 
 - id: setup_step12_traffic_light
   title: Setup Step 1.2 - traffic light assembly
   tags: [setup]
+  desc: creating a custom Duckiebot traffic light
   google_docs_share_link: "https://drive.google.com/open?id=10ET1mvQ7mltw7TZDWOeLnYps5r3Aa5Vf1PU5xwpaCtA"
 
 - id: step1.5_burn_image
   title: "Setup Step 1.5 - burn the image"
   tags: [setup]   
+  desc: burning a Duckiebot image onto an sd card
   google_docs_share_link: "https://drive.google.com/open?id=1Bkffk1kNDkbz5HWj0CjnUrnpeY1RXjZLTfvaWo4OT3I"
 
 - id: step1.7_buffalo
+  desc: more information about that buffalo
   title: "Setup Step 1.7 - setting up the Buffalo access point v2.0"
   tags: [setup]   
   google_docs_share_link: "https://drive.google.com/open?id=1XJ-jezWasFkhTfQWgSiRSfWKkfR33TJgFBGbDYT6zOc"
@@ -108,63 +119,75 @@
 - id: step1.8_ubuntu_lap+duckietops
   title: "Setup Step 1.8 - setting up Ubuntu laptops and the Duckietops"
   tags: [setup]   
+  desc: all you could ever want to know about ubuntu duckietops
   google_docs_share_link: "https://drive.google.com/open?id=1uYgTz74Pqs4Kiwd7KxhHMHpQH9uuTBCMiPqGc9Qd1Tk"
 
 - id: step1.9_github
   title: "Setup Step 1.9 - Github basics"
-  tags: [setup]   
+  tags: [setup]  
+  desc: how to commit and pull correctly
   google_docs_share_link: "https://drive.google.com/open?id=1inbwS7PNHY_-Vl0iLWQZi5AKT4xT7YVtPLcQ2hTOmI8"
 
 - id: step2.00_SDtoRC 
   title: "Setup Step 2.00 - from SD image to RC control"
   tags: [setup]   
+  desc: how to get a remote controlled Duckiebot
   google_docs_share_link: "https://drive.google.com/open?id=1HP5ao3LwgQ1EkdRb3ksiMg8zdrpJXjSIH_XG2RFHyes"
 
 
 - id: step2.05_rc_control
   title: "Setup Step 2.05 - RC control, launched remotely"
   tags: [setup]   
+  desc: did the remote control work? see why here!
   google_docs_share_link: "https://drive.google.com/open?id=17sk1wuwkiAnKMDF-6e_N4a2XMmGn7FzIJdbhQMouUOk"
 
 - id: step2.1_joystick+camera_output
   title: "Setup Step 2.1 - joystick + camera output in remote laptop"
   tags: [setup]   
+  desc: getting camera output with that remote controlled Duckiebot!
   google_docs_share_link: "https://drive.google.com/open?id=1FB25mF8703TtEBUfNR6s8NXYc8_22lCU_7gAfQ_Rw_Y"
 
 - id: step2.2.1_wheel_calibrate
   title: "Setup Step 2.2.1 - wheel calibration"
   tags: [setup]   
+  desc: get the Duckiebot to drive straight
   google_docs_share_link: "https://drive.google.com/open?id=14K9OqR0ijCkXIGxPY1OYpHSFWCuaDgN1qq1QojMDhQw"
 
 
 - id:  step2.2.2_camera_calibrate
   title: "Setup Step 2.2.2 - camera calibration"
   tags: [setup]   
+  desc: no more rounded fishbowl images!
   google_docs_share_link: "https://drive.google.com/open?id=1cCLnIvC7R2RmsS8phw1eaFWc6_HoWVd9p8tSMsVrWNQ"
 
 - id: step3.0_log 
   title: "Setup Step 3.- take a log"
   tags: [setup]   
+  desc: how to take a log with ROS
   google_docs_share_link: "https://drive.google.com/open?id=1Wv0m-kX-lYxsrrkoBUpNO_IAP-nMejOTdiSvU9CxhC8"
 
 - id: step4_ROSpackage
   title: "Setup Step 4 - creating your own ROS package"
   tags: [setup]   
+  desc: making your own ROS package information
   google_docs_share_link: "https://drive.google.com/open?id=1rpRisFoCYUm0XT78j-nAYidlh-cDtLCdEbIaBCnx9ew"
 
 - id: step4.1_intergration
   title: "Setup Step 4.1 - integrating your new package into the architecture"
   tags: [setup]   
+  desc: getting your ROS package to work with Duckietown_msgs
   google_docs_share_link: "https://drive.google.com/open?id=1VqX0TMRmgOzor2r1WOawd9_3a635Rli003ItxQ3kdYE"
 
 - id: step5.0_LED
   title: "Setup Step 5.0 - LED car setup and test"
   tags: [setup]   
+  desc: LEDS are awesome!!!
   google_docs_share_link: "https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"
 
 - id: setup_troubleshooting
   title: "Troubleshooting - network troubleshooting checklist"
   tags: [setup]   
+  desc: why doesn't it work? see here !
   google_docs_share_link: "https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"
 
 
@@ -172,6 +195,7 @@
 - id: virtualbox_setup
   title: "Virtualbox setup"
   tags: [setup]   
+  desc: getting the virtual box to work?
   google_docs_share_link: "https://drive.google.com/open?id=1hiaKOEwzs458hLbHJqtQHPagm-5HopBFl-13zTFX40M"
 
 
@@ -179,6 +203,7 @@
 - id: vmware_setup
   title: "VMware Setup"
   tags: [setup]   
+  desc: vmware setup instructions
   google_docs_share_link: "https://drive.google.com/open?id=1RQ7Cib3Vh-_z_3cdILQ5pcQnXfcaCeQ7inhp3rHdYgo"
 
 
@@ -186,21 +211,25 @@
 - id: faq_howto
   title: "FAQ / How To"
   tags: [procedure+howto]   
+  desc: frequently asked questions!
   google_docs_share_link: "https://drive.google.com/open?id=18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU"
 
 - id: git+ROS_ref_materials
   title: "Pointers to Reference Materials for Git, ROS, etc."
   tags: [procedure+howto]   
+  desc: putting it all together, git, ROS, etc.
   google_docs_share_link: "https://drive.google.com/open?id=1eEz4DN_-mXzC3Cu4Wapt1f4rkKkBK4kKcPRvfTfMxDo"
 
 - id: reflashing_SD
   title: "Reflashing your SD card"
   tags: [procedure+howto]   
+  desc: reflash that sd card
   google_docs_share_link: "https://drive.google.com/open?id=1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI"
 
 - id: code_rules+conventions
   title: "Source Code Management Rules and Conventions"
   tags: [procedure+howto]   
+  desc: cool rules to make things understandable
   google_docs_share_link: "https://drive.google.com/open?id=1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8"
 
 
@@ -208,67 +237,83 @@
 - id: lab01
   title: "Lab 01 - duckiebox distribution"
   tags: [modules+labs]   
+  desc: opening the box ! yes the Duckietown box :-)
   google_docs_share_link: "https://drive.google.com/open?id=13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0"
 
 - id: lab02
   title: "Lab 02 - finalizing the assembly and starting RC"
   tags: [modules+labs]   
+  desc: getting remote controll functionality with the Duckiebot :D
   google_docs_share_link: "https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"
 
 - id: module01
   title: "Module O1 - bootcamp"
   tags: [modules+labs]   
+  desc: going to ROS work with bootcamp lab
   google_docs_share_link: "https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"
 
 - id: lab03
   title: "Lab 03 - ROS tutorial"
   tags: [modules+labs]   
+  desc: a slightly guided tutorial with ROS and Duckiebots
   google_docs_share_link: "https://drive.google.com/open?id=1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec"
 
 - id: module02
   title: "Module 02 - remote control and data processing"
   tags: [modules+labs]   
+  desc: a little more indepdence with the data processing
   google_docs_share_link: "https://drive.google.com/open?id=1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38"
 
 - id: lab04
   title: "Lab 04 - git and conventions"
   tags: [modules+labs]   
+  desc: Branch master has died.  what now?
   google_docs_share_link: "https://drive.google.com/open?id=1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY"
 
 - id: lab05
   title: "Lab 05 - calibration and lane filtering"
   tags: [modules+labs]   
+  desc: the Duckiebot still doesnt' drive straight.  what do?
   google_docs_share_link: "https://drive.google.com/open?id=1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE"
 
 - id: module03+04
   title: "Module 03 + 04 - demo or die"
   tags: [modules+labs]   
+  desc: look it works!
   google_docs_share_link: "https://drive.google.com/open?id=1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg"
 
 - id: lab06 
   title: "Lab 06 - "
   tags: [modules+labs]   
+  desc: it's unclear what this lab is about
   google_docs_share_link: "https://drive.google.com/open?id=12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0"
 
 
 - id:  contruct_instructions
   title: "Getting started with The Construct simulation environment"
   tags: [modules+labs]   
+  desc: I think the title is self explanatory
   google_docs_share_link: "https://drive.google.com/open?id=1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM"
 
 - id: appearance_specification
   title: "Appearance Specification"
   tags: [design]   
+  desc: |
+    This document is about the appearance rules for a consistent Duckietown. If you build your own Duckietown: if it adheres to this rule, we guarantee that our robots will work.
   google_docs_share_link: "https://drive.google.com/open?id=1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc"
 
 - id: belief_representation
   title: "Belief Representation"
   tags: [design]   
+  desc: |
+      Knowledge and belief representation for the world of Duckietown.
   google_docs_share_link: "https://drive.google.com/open?id=1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo"
 
 - id: traffic_code
   title: "Duckietown Traffic Code"
   tags: [design] 
+  desc: |
+      General principles about the laws of traffic within Duckietown.
   google_docs_share_link: "https://drive.google.com/open?id=1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM"
 
 
@@ -294,7 +339,7 @@
 # * [Account policy](https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing)
 # * Links to important resources:
 
-#   - [Github page](http://github.com/duckietown)
+#   - [Github page](http://github.com/Duckietown)
 #   - [Google Docs main folder](https://drive.google.com/folderview?id=0B9YU76UT5h3FVGxIdW5CdUd2ak0&usp=sharing)
 
 # ## How to build and operate our reproducible Duckiebot
