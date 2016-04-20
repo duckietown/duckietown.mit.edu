@@ -85,6 +85,10 @@ from Caltech.</span></p></td></tr>
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span><p><span class="bio">Holding an MSc in Biology, Kirsten Bowser's expertise align more closely with real, as opposed to rubber, duckies. She has significant experience conducting remote field research for long-term ecological studies. She is also competent in next-generation DNA sequencing and environmental barcoding. Her main research interests lie in the interactions between components of an ecosystem, either at larger (marine food webs) or small (gut microbiome) scales. Currently, Kirsten juggles the needs of both her biological and Duckietown-adopted children, which run the gamut from tieing shoes and making lunches to booking CSAIL meeting rooms and editing spreadsheets.</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
 Her research interests include the analysis and control of networked dynamical systems with application to transportation systems.</span></p></td></tr>
 
@@ -247,10 +251,6 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Erica Waller</span><br/><span class="position">Duckietown Urban Planner</span></td></tr>
 
 
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span><p><span class="bio">Holding an MSc in Biology, Kirsten Bowser's expertise align more closely with real, as opposed to rubber, duckies. She has significant experience conducting remote field research for long-term ecological studies. She is also competent in next-generation DNA sequencing and environmental barcoding. Her main research interests lie in the interactions between components of an ecosystem, either at larger (marine food webs) or small (gut microbiome) scales. Currently, Kirsten juggles the needs of both her biological and Duckietown-adopted children, which run the gamut from tieing shoes and making lunches to booking CSAIL meeting rooms and editing spreadsheets.</span></p></td></tr>
-
-
 <tr class='roles'   > <td colspan="2"> Special Operations </td> </tr>
 
 
@@ -360,11 +360,11 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
