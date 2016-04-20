@@ -131,6 +131,7 @@ def generate_roster_tag(people, tag, expected=None):
             last = name.split(' ')[-1]
             score += ord(last[0])
 
+        logger.debug('score %r -> %r' % (name, score))
         return score
 
     ordered = sorted(people, key=get_order)

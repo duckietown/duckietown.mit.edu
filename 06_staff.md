@@ -122,10 +122,6 @@ Michal is interested in motion planning, multi-robot coordination, and automated
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Igor Franzoni</span><br/><span class="position">Lab Assistant</span><p><span class="bio">Igor is one of Duckietown's lab assistants.</span></p></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Alexander (Sasha) Galitsky</span><br/><span class="position">Creatives Assistant</span></td></tr>
 
 
@@ -149,10 +145,6 @@ related to Cyber-Physical Systems, Optimization and Control.</span></p></td></tr
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Elaine Kwan</span><br/><span class="position">Inventory Specialist</span><p><span class="bio">Elaine is a Lab Assistant for Duckietown.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Quang Le</span><br/><span class="position">Soldering Expert</span><p><span class="bio">Quang is a Duckietown UROP</span></p></td></tr>
 
 
 
@@ -188,10 +180,6 @@ Computer Science and Artificial Intelligence Laboratory of the Massachusetts Ins
 He received M.Sc. and Ph.D. degrees at the Technion, Israel.
 During his studies, he worked at IBM HRL, Medicvision, and Invision, among other companies.
 His primary research interests include a variety of topics in computer vision, mostly around modeling and understanding in visual and 3D sensing and autonomous systems perception.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/subedi.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
 
 
 
@@ -244,11 +232,23 @@ He is super excited to be an vehicle engineer for Duckietown!</span></p></td></t
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Igor Franzoni</span><br/><span class="position">Lab Assistant</span><p><span class="bio">Igor is one of Duckietown's lab assistants.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Quang Le</span><br/><span class="position">Soldering Expert</span><p><span class="bio">Quang is a Duckietown UROP</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/subedi.jpg"/></td></td><td><span class="name"> Chandan Sharma Subedi</span><br/><span class="position">Master of Traffic Lights</span><p><span class="bio">Chandan is an undergraduate senior in Mechanical Engineering department at MIT. He is interested in Robotics and Control.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Erica Waller</span><br/><span class="position">Duckietown Urban Planner</span></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span><p><span class="bio">Holding an MSc in Biology, Kirsten Bowser's expertise align more closely with real, as opposed to rubber, duckies. She has significant experience conducting remote field research for long-term ecological studies. She is also competent in next-generation DNA sequencing and environmental barcoding. Her main research interests lie in the interactions between components of an ecosystem, either at larger (marine food webs) or small (gut microbiome) scales. Currently, Kirsten juggles the needs of both her biological and Duckietown-adopted children, which run the gamut from tieing shoes and making lunches to booking CSAIL meeting rooms and editing spreadsheets.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="">Erica Waller</a></span><br/><span class="position">Duckietown Urban Planner</span></td></tr>
 
 
 <tr class='roles'   > <td colspan="2"> Special Operations </td> </tr>
@@ -340,7 +340,11 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Sang Uk Lee</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
 
@@ -356,11 +360,11 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -384,7 +388,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 3 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr class="missing"><td colspan="2">(Plus other 2 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  
