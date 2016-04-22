@@ -2,7 +2,6 @@
 import os, yaml, glob, sys
 sys.path.append("../../")
 from generate_lectures import read_yaml_dict
-
 yaml_files = glob.glob( "images/*.yaml")
 
 people = {
@@ -17,7 +16,7 @@ people = {
 for filename in yaml_files:
     
     person = read_yaml_dict(filename)
-    name = filename.strip(".yaml").strip("images/")
+    name = filename.replace("images/","").replace(".yaml", "")
     person_jpg = name +".jpg"
     person_full_name = person["name"]
     tag = None
@@ -33,32 +32,29 @@ for tag in people:
     names = people[tag].keys()
     names.sort()
     sorted_people[tag] = [(name, people[tag][name]) for name in names]
-print sorted_people['management']
-print sorted_people['advisory']
-
 
 for tag in sorted_people:
     print "tag: %s length: %d " % (tag, len(sorted_people[tag]))
 
 formatting = { # row by column
-        'operations': (3,9,1 ),
-        "advisors": (3, 2, .85),
-        "training":(4,6, 0.5),
+        'operations': (3,9,.65 ),
+        "advisory": (3, 2, .85),
+        "training":(4,6, 0.6),
         "management":(1,2, 1),
-        "special-ops":(1,3, .5),
-        "sponsors":(1,2, 1)
+        "special-ops":(1,3, .8),
+        "sponsors":(1,2, .8)
         }
 
 def generate_middle_text():
     middle = ""
-    for tag in headerbox:
+    for tag in order:
         text = headerbox[tag]+"\n"
-        text += gen_table(formatting[tag]) + "}\n"
+        text += gen_table(tag, formatting[tag]) + "}\n"
         middle += text
     return middle
 
 
-def gen_table((row,column,width)):
+def gen_table(tag, (row,column,width)):
     start = r"""
             \begin{center}
             \begin{tabularx}{\linewidth}"""
@@ -77,12 +73,27 @@ def gen_table((row,column,width)):
         images = ""
         names = ""
         for c in range(column): 
-            if c != column-1:
-                images += "\includegraphics[width=%s\linewidth]{censi.jpg}&\n"% width
-                names += "\smaller andrea censi & "
+            index = r*column + c
+            if index >= len(sorted_people[tag]):
+                if c!= column-1:
+                    images += "&"
+                    names +="&"
+                else:
+                    names += endline + "\n"
+                    images += endline + "\n"
             else:
-                images +="\includegraphics[width=%s\linewidth]{censi.jpg}%s \n"%(width,endline)
-                names += "\smaller andrea censi %s \n " %(endline)
+                name, img = sorted_people[tag][index]
+                path = "images/" + img
+                if not os.path.exists(path):
+                    print "img des not exist: ", path, name
+                    img = "MISSING.jpg"
+
+                if c != column-1:
+                    images += "{\\centering \includegraphics[width=%s\linewidth]{%s}}&\n"% (width, img)
+                    names += "{\\tiny \\centering %s }& "% name
+                else:
+                    images +="{\\centering \includegraphics[width=%s\linewidth]{%s}}%s \n"%(width,img, endline)
+                    names += "{\\tiny \\centering %s }%s \n " %(name, endline)
         completed_rows += "%s\n%s" % (images, names)
     
     full_table = "\n".join([start, completed_rows, end])
@@ -94,11 +105,13 @@ def gen_table((row,column,width)):
 headerbox={
         'management':"\headerbox{Management}{name=management,column=0,row=0, span=1}{",
         'training':"\headerbox{Engineers in Training}{name=training,column=1,span=2, above=bottom, below=staff}{",
-        'advisors':"\headerbox{Advisors}{name=advisory,below=management, column=0, span=1, above=bottom}{",
+        'advisory':"\headerbox{Advisors}{name=advisory,below=management, column=0, span=1, above=bottom}{",
         'operations':"\headerbox{Staff}{name=staff,column=1, span=3, row=0}{",
         'sponsors':"\headerbox{Sponsors}{name=sponsors,column=3,span=1, above=bottom}{",
         'special-ops':"\headerbox{Special Operations}{name=special-ops,column=3,span=1, below=staff, above=sponsors}{",
         }
+
+order = ["management", "advisory", "operations", "sponsors", "special-ops", "training"]
 
 stock_table =r"""
 \begin{center}
@@ -115,7 +128,7 @@ stock_table =r"""
 \includegraphics[width=\linewidth]{censi.jpg}&
 \includegraphics[width=\linewidth]{censi.jpg}\\
 
-\smaller andrea censi long name & \smaller andrea censi & \smaller andrea censi & \smaller andrea censi & \smaller andrea censi &\smaller andrea censi & \smaller andrea censi & \smaller andrea censi & \smaller andrea censi \\
+\tiny andrea censi long name & \tiny andrea censi & \tiny andrea censi & \tiny andrea censi & \tiny andrea censi &\tiny andrea censi & \tiny andrea censi & \tiny andrea censi & \tiny andrea censi \\
    \end{tabularx}
 \end{center}
 
@@ -186,15 +199,15 @@ begin_document=r"""
       \includegraphics[width=0.05\linewidth]{logo.jpg}
  }
  % Title
- {\sc\Huge Duckietown Roster}
+ {\sc\Huge Duckietown Engineering}
  % Authors
- {Ari is cool\\[1em]
- {\texttt{Something about MIT}}}
+ {Spring 2016\\[1em]
+ {\texttt{Massachusetts Institute of Technology}}}
  % University logo
  {
   \begin{tabular}{r}
     \includegraphics[height=0.1\textheight]{logo}\\
-    \raisebox{0em}[0em][0em]{\includegraphics[height=0.03\textheight]{logo.jpg}}
+    %\raisebox{0em}[0em][0em]{\includegraphics[height=0.03\textheight]{logo.jpg}}
   \end{tabular}
  }
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

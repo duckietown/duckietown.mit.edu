@@ -1,0 +1,236 @@
+
+\documentclass[landscape,a0paper,fontscale=0.292]{baposter}
+
+\usepackage[vlined]{algorithm2e}
+\usepackage{times}
+\usepackage{calc}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{relsize}
+\usepackage{multirow}
+\usepackage{booktabs}
+
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage[T1]{fontenc}
+\usepackage{ae}
+\usepackage{array}
+\usepackage{tabularx}
+
+\graphicspath{{images/}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Begin of Document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Here starts the poster
+%%---------------------------------------------------------------------------
+%% Format it to your taste with the options
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{mycolor}{rgb}{1,0.2,0.3}
+
+\begin{poster}{
+ % Show grid to help with alignment
+ grid=false,
+ % Column spacing
+ colspacing=0.7em,
+ % Color style
+ headerColorOne=mycolor,
+ borderColor=mycolor,
+ % Format of textbox
+ textborder=rounded,
+ % Format of text header
+ headerborder=open,
+ headershape=rounded,
+ headershade=plain,
+ background=none,
+ bgColorOne=mycolor,
+  bgColorTwo=white,
+  borderColor=orange,
+  headerColorOne=orange,
+  headerColorTwo=orange,
+  headerFontColor=white,
+  boxColorOne=white,
+  boxColorTwo=white,
+ headerheight=0.1\textheight}
+ % Eye Catcher
+ {
+      \includegraphics[width=0.05\linewidth]{logo.jpg}
+ }
+ % Title
+ {\sc\Huge Duckietown Engineering}
+ % Authors
+ {Spring 2016\\[1em]
+ {\texttt{Massachusetts Institute of Technology}}}
+ % University logo
+ {
+  \begin{tabular}{r}
+    \includegraphics[height=0.1\textheight]{logo}\\
+    %\raisebox{0em}[0em][0em]{\includegraphics[height=0.03\textheight]{logo.jpg}}
+  \end{tabular}
+ }
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\headerbox{Management}{name=management,column=0,row=0, span=1}{
+
+            \begin{center}
+            \begin{tabularx}{\linewidth}{X X}
+
+{\centering \includegraphics[width=1\linewidth]{censi.jpg}}&
+{\centering \includegraphics[width=1\linewidth]{paull.jpg}}\\ 
+
+{\tiny \centering Andrea Censi }& {\tiny \centering Liam Paull }\\ 
+ 
+ 
+            \end{tabularx}
+            \end{center}
+            
+            }
+\headerbox{Advisors}{name=advisory,below=management, column=0, span=1, above=bottom}{
+
+            \begin{center}
+            \begin{tabularx}{\linewidth}{X X}
+
+{\centering \includegraphics[width=0.85\linewidth]{rus.jpg}}&
+{\centering \includegraphics[width=0.85\linewidth]{delvecchio.jpg}}\\ 
+
+{\tiny \centering Daniela Rus }& {\tiny \centering Domitilla Del Vecchio }\\ 
+ {\centering \includegraphics[width=0.85\linewidth]{frazzoli.jpg}}&
+{\centering \includegraphics[width=0.85\linewidth]{leonard.jpg}}\\ 
+
+{\tiny \centering Emilio Frazzoli }& {\tiny \centering John Leonard }\\ 
+ {\centering \includegraphics[width=0.85\linewidth]{how.jpg}}&
+{\centering \includegraphics[width=0.85\linewidth]{karaman.jpg}}\\ 
+
+{\tiny \centering Jonathan How }& {\tiny \centering Sertac Karaman }\\ 
+ 
+ 
+            \end{tabularx}
+            \end{center}
+            
+            }
+\headerbox{Staff}{name=staff,column=1, span=3, row=0}{
+
+            \begin{center}
+            \begin{tabularx}{\linewidth}{X X X X X X X X X}
+
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{subedi.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{hoehener.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{yershov.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{rosman.jpg}}\\ 
+
+{\tiny \centering Alexander (Sasha) Galitsky }& {\tiny \centering Chandan Sharma Subedi }& {\tiny \centering Changhyun Choi }& {\tiny \centering Chris Welch }& {\tiny \centering Daniel Hoehener }& {\tiny \centering Dmitry Yershov }& {\tiny \centering Elaine Kwan }& {\tiny \centering Erica Waller }& {\tiny \centering Guy Rosman }\\ 
+ {\centering \includegraphics[width=0.65\linewidth]{zhao.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{wang.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{tani.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{alonso-mora.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{dusek.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{garcia-mallen.jpg}}\\ 
+
+{\tiny \centering Hang Zhao }& {\tiny \centering Heejin Ahn }& {\tiny \centering Hsueh-Cheng Nick Wang }& {\tiny \centering Igor Franzoni }& {\tiny \centering Jacopo Tani }& {\tiny \centering Jason Pazis }& {\tiny \centering Javier Alonso-Mora }& {\tiny \centering Jeff Dusek }& {\tiny \centering Jonathan Garcia-Mallen }\\ 
+ {\centering \includegraphics[width=0.65\linewidth]{bowser.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{carlone.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{novitzky.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{cap.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{liu.jpg}}&
+{\centering \includegraphics[width=0.65\linewidth]{MISSING.jpg}}&
+&\\
+
+{\tiny \centering Kirsten Bowser }& {\tiny \centering Luca Carlone }& {\tiny \centering Michael (Misha) Novitzky }& {\tiny \centering Michal Cap }& {\tiny \centering Quang Le }& {\tiny \centering Shih-Yuan Liu }& {\tiny \centering Steven Chen }& &\\
+
+ 
+            \end{tabularx}
+            \end{center}
+            
+            }
+\headerbox{Sponsors}{name=sponsors,column=3,span=1, above=bottom}{
+
+            \begin{center}
+            \begin{tabularx}{\linewidth}{X X}
+
+{\centering \includegraphics[width=0.8\linewidth]{nsf.jpg}}&
+{\centering \includegraphics[width=0.8\linewidth]{theconstruct.jpg}}\\ 
+
+{\tiny \centering National Science Foundation, Information and Intelligent Systems (IIS) }& {\tiny \centering The Construct }\\ 
+ 
+ 
+            \end{tabularx}
+            \end{center}
+            
+            }
+\headerbox{Special Operations}{name=special-ops,column=3,span=1, below=staff, above=sponsors}{
+
+            \begin{center}
+            \begin{tabularx}{\linewidth}{X X X}
+
+{\centering \includegraphics[width=0.8\linewidth]{greta.jpg}}&
+{\centering \includegraphics[width=0.8\linewidth]{ingrid.jpg}}&
+{\centering \includegraphics[width=0.8\linewidth]{valeria.jpg}}\\ 
+
+{\tiny \centering Greta Paull }& {\tiny \centering Ingrid Paull }& {\tiny \centering Valeria Cagnina }\\ 
+ 
+ 
+            \end{tabularx}
+            \end{center}
+            
+            }
+\headerbox{Engineers in Training}{name=training,column=1,span=2, above=bottom, below=staff}{
+
+            \begin{center}
+            \begin{tabularx}{\linewidth}{X X X X X X}
+
+{\centering \includegraphics[width=0.6\linewidth]{agirard.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{amadoa.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{atacchet.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{onasafari.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{lapentab.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{araki.jpg}}\\ 
+
+{\tiny \centering Alexandre Girard }& {\tiny \centering Amado Antonini }& {\tiny \centering Andrea Tacchetti }& {\tiny \centering Ari Onasafari Anders }& {\tiny \centering Bethany LaPenta }& {\tiny \centering Brandon Araki }\\ 
+ {\centering \includegraphics[width=0.6\linewidth]{catliu.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{eharbitz.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{hanssusilo.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{jenshen.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{joe-wl.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{mfe.jpg}}\\ 
+
+{\tiny \centering Catherine Liu }& {\tiny \centering Erlend Solbakk Harbitz }& {\tiny \centering Hans Susilo }& {\tiny \centering Jenny Shen }& {\tiny \centering Joseph Leavitt }& {\tiny \centering Michael Everett }\\ 
+ {\centering \includegraphics[width=0.6\linewidth]{mrinal.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{npd22.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{nbuckman.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{qlai.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{rkk.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{samcerq.jpg}}\\ 
+
+{\tiny \centering Mrinal Mohit }& {\tiny \centering Nickolas Demas }& {\tiny \centering Noam Buckman }& {\tiny \centering Qiuying Lai }& {\tiny \centering Robert Katzschmann }& {\tiny \centering Samuel Cerqueira Pinto }\\ 
+ {\centering \includegraphics[width=0.6\linewidth]{sang.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{teddy.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{tristan.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{valerio.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{vdean.jpg}}&
+{\centering \includegraphics[width=0.6\linewidth]{wubella.jpg}}\\ 
+
+{\tiny \centering Sang Uk Lee }& {\tiny \centering Teddy Ort }& {\tiny \centering Tristan Swedish }& {\tiny \centering Valerio Varricchio }& {\tiny \centering Victoria Dean }& {\tiny \centering Wyatt Ubellacker }\\ 
+ 
+ 
+            \end{tabularx}
+            \end{center}
+            
+            }
+
+\end{poster}%
+%
+\end{document}

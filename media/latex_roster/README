@@ -1,0 +1,7 @@
+run python create_latex.py to create a tex file named "auto_roster.tex".
+
+run make to create poster (and run python script)
+
+
+requires tex-live-full ..  Using tabularx package
+
