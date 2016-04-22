@@ -1,7 +1,7 @@
-ALL: roster.pdf 
+ALL: clean auto_roster.pdf 
 
 %.pdf: %.tex Makefile
-	pdflatex --enable-write18 $< &&	pdflatex $< && pdflatex $<
+	python create_latex.py; pdflatex --enable-write18 $< &&	pdflatex $< && pdflatex $<
 
 clean:
-	  rm -f *.aux	*.bbl	*.blg	*.log	roster*.pdf 
+	  rm -f *.aux	*.bbl	*.blg	*.log	auto_roster*.pdf 

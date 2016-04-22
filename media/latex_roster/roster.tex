@@ -73,29 +73,18 @@
   \end{tabular}
  }
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    \headerbox{Sponsors}{name=sponsor,column=0,span=4,above=bottom}{
-    \begin{center}
-      \includegraphics[width=0.08\linewidth]{nsf.jpg}
-      \includegraphics[width=0.08\linewidth]{nsf.jpg}
-      \includegraphics[width=0.08\linewidth]{nsf.jpg}
-    \end{center}
-    }
-    
-    
+
+    \headerbox{Management}{name=management,column=0,row=0, span=1}{}
+    \headerbox{Advisors}{name=advisory, column=1,row=0, span=1}{}
+    \headerbox{Staff}{name=staff,column=2, span=2, row=0}{} 
+    \headerbox{Engineers in Training}{name=training,column=0,span=3, row=.5}{}
+    \headerbox{Special Operations}{name=special-ops,column=3,span=1, row=.5}{}
+    \headerbox{Sponsors}{name=sponsors,column=0,span=4, above=bottom}{}
+  
+\iffalse
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Now define the boxes that make up the poster
-%%%---------------------------------------------------------------------------
-%%% Each box has a name and can be placed absolutely or relatively.
-%%% The only inconvenience is that you can only specify a relative position 
-%%% towards an already declared box. So if you have a box attached to the 
-%%% bottom, one to the top and a third one which should be inbetween, you 
-%%% have to specify the top and bottom boxes before you specify the middle 
-%%% box.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \headerbox{Duckietown Staff}{name=abstract,column=0,row=0, span=3,above=sponsor}{
+  \headerbox{Duckietown Staff}{name=staff,column=0,row=0, span=3,above=management}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{center}
 
@@ -154,7 +143,7 @@
 }
 
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-   \headerbox{Engineers in Training}{name=tracking,column=3,span=1}{
+   \headerbox{Engineers in Training}{name=staff,column=3,span=1}{
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  \begin{center}
  \begin{tabularx}{\linewidth}{X X X X }
@@ -193,7 +182,7 @@
 \end{tabularx}
 \end{center}
 }
-
+\fi
 \end{poster}%
 %
 \end{document}
