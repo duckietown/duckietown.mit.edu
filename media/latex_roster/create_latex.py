@@ -207,8 +207,8 @@ begin_document=r"""
  % Title
  {\sc\Huge Duckietown Engineering}
  % Authors
- % {Spring 2016\\[1em]
- % {\texttt{Massachusetts Institute of Technology}}}
+ {\ \\[1em]
+ {}}
  % University logo
  {
   \begin{tabular}{r}
