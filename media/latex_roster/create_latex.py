@@ -30,7 +30,13 @@ for filename in yaml_files:
 sorted_people = {}
 for tag in people:
     names = people[tag].keys()
-    names.sort()
+    def ordering(name):
+        """ Order by last name """
+        last = name.split(' ')[-1]
+        res = ord(last[0])
+        return res
+
+    names.sort(key=ordering)
     sorted_people[tag] = [(name, people[tag][name]) for name in names]
 
 for tag in sorted_people:
@@ -201,8 +207,8 @@ begin_document=r"""
  % Title
  {\sc\Huge Duckietown Engineering}
  % Authors
- {Spring 2016\\[1em]
- {\texttt{Massachusetts Institute of Technology}}}
+ % {Spring 2016\\[1em]
+ % {\texttt{Massachusetts Institute of Technology}}}
  % University logo
  {
   \begin{tabular}{r}
