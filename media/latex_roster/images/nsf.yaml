@@ -1,0 +1,11 @@
+name: "National Science Foundation,<br/> Information & Intelligent Systems (IIS)"
+tags: [sponsors]
+order: 1
+position:
+url: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503641
+roster_note: |
+  <br/>
+  Duckietown is supported by NSF, in the 
+  <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503641">National Robotics Initiative</a> and 
+  <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503305">Robust Intelligence</a> programs.
+bio: ''

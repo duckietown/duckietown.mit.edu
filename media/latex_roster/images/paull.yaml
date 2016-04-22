@@ -1,0 +1,7 @@
+name: Liam Paull
+tags: [operations]
+order: 1
+position: Chief Operating Officer
+url: http://people.csail.mit.edu/lpaull/
+bio: | 
+  Liam Paull is a Postdoctoral Associate working on "parallel autonomy" as a technical lead for the CSAIL/Toyota autonomous car project led by Prof. Daniela Rus. Previously he was in John Leonard's Marine Robotics Group where he worked on resource constrained inference and cooperative mapping for autonomous underwater vehicles. He received his B.Sc. in Computer Engineering from McGill University and his Ph. D. from the University of New Brunswick. He is interested in perception and planning for mobile robots, particularly when they are faced with resource limitations. He also views that a robotics system is something that should be studied as a entire entity since many of the subtle and interesting phenomena exist at the borders between the "traditional" categorizations of robotic systems.

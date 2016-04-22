@@ -1,0 +1,9 @@
+name: The Construct
+tags: [sponsors]
+position:
+url: http://www.theconstructsim.com/
+# roster_note: |
+#   <br/>The Construct is a startup company that provides robotics simulations through a web browser. 
+
+bio: |
+  The Construct is a startup company that provides robotics simulations through a web browser. Users can simulate using the most popular simulators (Gazebo, Webots, DRC) without having to install anything. Simulations can be shared between users and they can work at the same time on the same simulation.
