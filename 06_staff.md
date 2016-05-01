@@ -89,7 +89,7 @@ from Caltech.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/ahn.jpg"/></td></td><td><span class="name"> Heejin Ahn</span><br/><span class="position">Multi-vehicle Coordination Engineer</span><p><span class="bio">Heejin Ahn is a Ph.D. candidiate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). She received the B.S. degree in Mechanical and Aerospace Engineering from Seoul National University, Seoul, Korea in 2012, and the S.M. degree in Mechanical Engineering from MIT in 2014. 
 Her research interests include the analysis and control of networked dynamical systems with application to transportation systems.</span></p></td></tr>
 
 
@@ -111,7 +111,7 @@ His primary research interest is in motion planning and control of autonomous mu
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/cchoi/">Changhyun Choi</a></span><br/><span class="position"></span><p><span class="bio">Changhyun Choi is a Postdoctoral Associate in the Computer Science & Artificial Intelligence Lab (CSAIL) at Massachusetts Institute of Technology (MIT) working with Prof. Daniela Rus. He obtained a Ph.D. in Robotics at the School of Interactive Computing, College of Computing, Georgia Institute of Technology. His broad research interests are in Visual Perception for Robotics, with a focus on object recognition and pose estimation, visual tracking, and 3D registration.</span></p></td></tr>
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/choi.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/cchoi/">Changhyun Choi</a></span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Changhyun Choi is a Postdoctoral Associate in the Computer Science & Artificial Intelligence Lab (CSAIL) at Massachusetts Institute of Technology (MIT) working with Prof. Daniela Rus. He obtained a Ph.D. in Robotics at the School of Interactive Computing, College of Computing, Georgia Institute of Technology. His broad research interests are in Visual Perception for Robotics, with a focus on object recognition and pose estimation, visual tracking, and 3D registration.</span></p></td></tr>
 
 
 
@@ -145,6 +145,10 @@ and the B.S. degree in Mathematics from the University of Fribourg in
 2008. He is currently a Postdoctoral Associate at the Massachusetts 
 Institute of Technology (MIT), where he is working on various problems
 related to Cyber-Physical Systems, Optimization and Control.</span></p></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jin.jpg"/></td></td><td><span class="name"> Lin Jin</span><br/><span class="position">International Relations</span><p><span class="bio">Lin is a Boston University Ph.D candidate working in the Szostak lab at the Massachusetts General Hospital. She studies the mysteries of the origin of life and her research involves building prebiotic "cells" from scratch. Though she does pure biology and chemistry bench work everyday, in her heart she still feels like an engineer, cherishing her engineering undergrad studies in Tsinghua University. Beyond her lab-born cells, Lin also likes to takes care of duckie babies as they swim across the ocean and build their new towns in other continents.</span></p></td></tr>
 
 
 
@@ -229,7 +233,7 @@ solve real-world problems in direct support of individuals.</span></p></td></tr>
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/zhao.jpg"/></td></td><td><span class="name"><a href="http://web.media.mit.edu/~hangzhao">Hang Zhao</a></span><br/><span class="position">Vehicle Autonomy Engineer</span><p><span class="bio">Hang Zhao is a third-year PhD student at Massachusetts Institute of Technology (MIT). 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/zhao.jpg"/></td></td><td><span class="name"><a href="http://web.media.mit.edu/~hangzhao">Hang Zhao</a></span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Hang Zhao is a third-year PhD student at Massachusetts Institute of Technology (MIT). 
 He received his B.S degree in information engineering from Zhejiang University, and M.S in mechanical engineering from MIT. 
 His research interests include computer vision, deep learning and visual robotics. 
 He is super excited to be an vehicle engineer for Duckietown!</span></p></td></tr>
@@ -293,6 +297,10 @@ and open the Maker Faire Rome. She built a robot using
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/onasafari.jpg"/></td></td><td><span class="name"><a href="http://people.csail.mit.edu/aanders/">Ari Onasafari Anders</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/araki.jpg"/></td></td><td><span class="name"> Brandon Araki</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -360,11 +368,11 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/jenshen.jpg"/></td></td><td><span class="name"> Jenny Shen</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
+
+
+
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tristan.jpg"/></td></td><td><span class="name"> Tristan Swedish</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
@@ -373,10 +381,6 @@ and open the Maker Faire Rome. She built a robot using
 
 
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/atacchet.jpg"/></td></td><td><span class="name"><a href="http://web.mit.edu/atacchet/www/">Andrea Tacchetti</a></span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/araki.jpg"/></td></td><td><span class="name"> Andrea Tacchetti</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
 
 
 
