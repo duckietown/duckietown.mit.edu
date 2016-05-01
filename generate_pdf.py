@@ -12,7 +12,7 @@ def main():
         documents_data = sys.stdin.read()
         documents = yaml.load(documents_data)
 
-        out = 'pdfs'
+        out = 'media/pdfs'
 
         if not os.path.exists(out):
             os.makedirs(out)

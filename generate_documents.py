@@ -101,7 +101,8 @@ def url_gdoc(d):
     return d['google_docs_share_link']
 
 def make_pdf_url(id_document):
-    return 'https://docs.google.com/document/d/%s/export?format=pdf' % id_document
+    return 'media/pdfs/%s.pdf' % id_document
+    # return 'https://docs.google.com/document/d/%s/export?format=pdf' % id_document
 
 def get_id(d):
     s = d['google_docs_share_link']
