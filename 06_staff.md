@@ -348,10 +348,6 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td></td><td><span class="name"> Sang Uk Lee</span><br/><span class="position">Vehicle Autonomy Engineering in training</span></td></tr>
-
-
-
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/qlai.jpg"/></td></td><td><span class="name"> Qiuying Lai</span><br/><span class="position">Vehicle Autonomy Engineer in training</span></td></tr>
 
 
@@ -392,7 +388,7 @@ and open the Maker Faire Rome. She built a robot using
 
 
 
-<tr class="missing"><td colspan="2">(Plus other 2 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
+<tr class="missing"><td colspan="2">(Plus other 3 people  who have not yet added their bio <a href="https://github.com/duckietown/website/tree/gh-pages/media/staff">in our DB</a>.)</td></tr>
 
 
 </table>  

@@ -9,29 +9,11 @@ import yaml
 logging.basicConfig()
 logger = logging.getLogger(__name__)
 
+def read_file(fn):
+    with open(fn) as f:
+        return f.read()
 
-head = """---
-layout: default
-title: Materials
-permalink: materials.html
----
-
-**Note: This is an open-source class. All materials should be available to everybody. If you get
-a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.**
-
-<style type='text/css'>
-.missing { color: red; }
-.title {font-weight: bold; }
-img.icon { border: 0;  width: 1em; }
-</style>
-
-
-<p style='color: darkred'>Note: at this point, the list of documents and the documents themselves
-are drafts.</p>
-
-<p><a style='font-weight: bold' href='media/collected.pdf'> All documents collated in one big PDF</a>. </p>
-
-"""
+head = read_file('05_materials.begin').strip()
 
 tail = """
 
@@ -60,23 +42,15 @@ def main():
 
 def generate_html(documents):
 
-    print("""
-
-## The design of Duckietown
-    
-    """)
-
-    print(generate_html_tag(documents, 'design'))
-
 
 
     print("""
 
-## Setup documents 
+## Basic Setup documents 
     
     """)
 
-    print(generate_html_tag(documents, 'setup'))
+    print(generate_html_tag(documents, ['setup']))
 
     print("""
 
@@ -84,24 +58,23 @@ def generate_html(documents):
     
     """)
 
-    print(generate_html_tag(documents, 'procedure+howto'))
-
-
-    print("""
-
-## Spring 2016: Important documents for MIT students 
-    
-    """)
-
-    print(generate_html_tag(documents, 'spring2016'))
+    print(generate_html_tag(documents, ['procedure+howto']))
 
     print("""
 
-## Spring 2016: Modules and Labs
+## The design of Duckietown
     
     """)
 
-    print(generate_html_tag(documents, 'modules+labs'))
+    print(generate_html_tag(documents, ['design']))
+
+    print("""
+
+## Spring 2016: Documents specific to MIT 2.166 students 
+    
+    """)
+
+    print(generate_html_tag(documents, ['spring2016', 'modules+labs']))
 
  
     if False:
@@ -142,19 +115,19 @@ def get_id(d):
 
     return s
 
-def generate_html_tag(documents, tag):
+def generate_html_tag(documents, tags_to_include):
     
     def select(d):
         tags = d.get('tags', [])
         if tags is None:
             tags = []
-        if tag is None:
+        if tags_to_include is None:
             return len(tags) == 0
-        return tag in tags
+        return any([_ in tags for _ in tags_to_include])
     
     selected = [d for d in documents if select(d)]
     
-    logger.info('tag %r: selected %d' % (tag, len(selected)))
+    logger.info('tags_to_include %r: selected %d' % (tags_to_include, len(selected)))
     s = ""
     for d in selected:
         id_document = d.get('id')

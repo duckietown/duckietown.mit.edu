@@ -18,7 +18,7 @@ $(lectures): lectures.yaml
 $(roster_html):
 	./generate_roster.py "media/staff/*yaml" > $@
 
-$(documents): documents.yaml
+$(documents): documents.yaml 05_materials.begin
 	./generate_documents.py < $< > $@
 
 $(collected_pdfs): documents.yaml

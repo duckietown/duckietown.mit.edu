@@ -1,0 +1,36 @@
+
+
+---
+layout: default
+title: Materials
+permalink: materials.html
+---
+
+
+<p style='color: darkred; font-weight: bold; padding-right: 30%'>
+	We have received quite a bit of interest from people who want to reproduce our 
+	Duckiebots. At this point, all of our software is already open source (<a href="https://github.com/duckietown/Software">this is the main repository</a>) and all of the documentation that we produced is linked below; however, we
+	do not have a friendly "getting started" guide. 
+
+	<a href="http://goo.gl/forms/OxZu85WGi7">Please sign up on our mailing list</a> to be notified when things will be ready for prime time.
+</p>
+
+
+
+<style type='text/css'>
+.missing { color: red; }
+.title {font-weight: bold; }
+img.icon { border: 0;  width: 1em; }
+</style>
+
+<img width='80%' src='media/documentation_figures/flow.png'/>
+
+<p>
+	<a style='font-weight: bold' href='media/collected.pdf'> 
+	All documents collated in one big PDF, 
+	if you cannot access Google Drive from your country</a>. 
+</p>
+
+All materials should be available to everybody. If you get
+a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.
+

@@ -6,3 +6,4 @@ Gemfile.lock
 .jekyll-metadata
 joined.pdf
 roster.html.part
+*pyc

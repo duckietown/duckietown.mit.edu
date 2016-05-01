@@ -4,8 +4,16 @@ title: Materials
 permalink: materials.html
 ---
 
-**Note: This is an open-source class. All materials should be available to everybody. If you get
-a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.**
+
+<p style='color: darkred; font-weight: bold; padding-right: 30%'>
+	We have received quite a bit of interest from people who want to reproduce our 
+	Duckiebots. At this point, all of our software is already open source (<a href="https://github.com/duckietown/Software">this is the main repository</a>) and all of the documentation that we produced is linked below; however, we
+	do not have a friendly "getting started" guide. 
+
+	<a href="http://goo.gl/forms/OxZu85WGi7">Please sign up on our mailing list</a> to be notified when things will be ready for prime time.
+</p>
+
+
 
 <style type='text/css'>
 .missing { color: red; }
@@ -13,59 +21,24 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 img.icon { border: 0;  width: 1em; }
 </style>
 
+<img width='80%' src='media/documentation_figures/flow.png'/>
 
-<p style='color: darkred'>Note: at this point, the list of documents and the documents themselves
-are drafts.</p>
+<p>
+	<a style='font-weight: bold' href='media/collected.pdf'> 
+	All documents collated in one big PDF, 
+	if you cannot access Google Drive from your country</a>. 
+</p>
 
-<p><a style='font-weight: bold' href='media/collected.pdf'> All documents collated in one big PDF</a>. </p>
+All materials should be available to everybody. If you get
+a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.
 
 
-
-
-## The design of Duckietown
+## Basic Setup documents 
     
     
 
 
-<p id="appearance_specification" class=""><a class="title" href="https://drive.google.com/open?id=1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc"><img class='icon' src='media/gdoc.png'/>Appearance Specification</a> (<a href="https://docs.google.com/document/d/1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): This document is about the appearance rules for a consistent Duckietown. If you build your own Duckietown: if it adheres to this rule, we guarantee that our robots will work.</p>
-
-
-
-<p id="belief_representation" class=""><a class="title" href="https://drive.google.com/open?id=1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo"><img class='icon' src='media/gdoc.png'/>Belief Representation</a> (<a href="https://docs.google.com/document/d/1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Knowledge and belief representation for the world of Duckietown.</p>
-
-
-
-<p id="traffic_code" class=""><a class="title" href="https://drive.google.com/open?id=1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM"><img class='icon' src='media/gdoc.png'/>Duckietown Traffic Code</a> (<a href="https://docs.google.com/document/d/1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): General principles about the laws of traffic within Duckietown.</p>
-
-
-
-
-## Setup documents 
-    
-    
-
-
-<p id="checklist_robot_laptop_config" class=""><a class="title" href="https://drive.google.com/open?id=1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA"><img class='icon' src='media/gdoc.png'/>Checklist - Robot and laptop configuration</a> (<a href="https://docs.google.com/document/d/1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): getting your robot and laptop configured!</p>
-
-
-
-<p id="checklist_conforming_ROS_contribution" class=""><a class="title" href="https://drive.google.com/open?id=1nueJb9j9APGYT7iT-PQNNqcytUlLKguKhV9C0P2xOIQ"><img class='icon' src='media/gdoc.png'/>Checklist - what makes a conforming ROS contribution</a> (<a href="https://docs.google.com/document/d/1nueJb9j9APGYT7iT-PQNNqcytUlLKguKhV9C0P2xOIQ/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): how to get ROS to work!</p>
-
-
-
-<p id="connect_pi_and_buffalo" class=""><a class="title" href="https://drive.google.com/open?id=15LqdN3f5vA_eVrzeAIOW_GYdUl6STS4Sn11qtengEws"><img class='icon' src='media/gdoc.png'/>Connect to Pi and Buffalo</a> (<a href="https://docs.google.com/document/d/15LqdN3f5vA_eVrzeAIOW_GYdUl6STS4Sn11qtengEws/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): using the buffalo and raspberry pi for wifi!</p>
-
-
-
-<p id="documentation_style_guide" class=""><a class="title" href="https://drive.google.com/open?id=1dN_qt1KFI7osXsKCkBuTnMfVwmkSKDfELkwbRJ5z8a0"><img class='icon' src='media/gdoc.png'/>Documentation style guide</a> (<a href="https://docs.google.com/document/d/1dN_qt1KFI7osXsKCkBuTnMfVwmkSKDfELkwbRJ5z8a0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): proper style guidelens for Duckietown documentation</p>
-
-
-
-<p id="sd_card_reset" class=""><a class="title" href="https://drive.google.com/open?id=1W0PZhI9BcPhYhlrR4OnsUnrxOdbsd6StfKv7CU_9Nhw"><img class='icon' src='media/gdoc.png'/>How to reset your SD card</a> (<a href="https://docs.google.com/document/d/1W0PZhI9BcPhYhlrR4OnsUnrxOdbsd6StfKv7CU_9Nhw/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): reseting your SD card information and instructions</p>
-
-
-
-<p id="how_to_test_everything" class=""><a class="title" href="https://drive.google.com/open?id=1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08"><img class='icon' src='media/gdoc.png'/>How to test everything</a> (<a href="https://docs.google.com/document/d/1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): information about testing everything.</p>
+<p id="getting_started" class=""><a class="title" href="https://drive.google.com/open?id=1JRctSQTWZsZRFthPlJrxeets1SH56rQIRHsq0LvDpko"><img class='icon' src='media/gdoc.png'/>Getting Started</a> (<a href="https://docs.google.com/document/d/1JRctSQTWZsZRFthPlJrxeets1SH56rQIRHsq0LvDpko/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
 
 
 
@@ -121,7 +94,7 @@ are drafts.</p>
 
 
 
-<p id="step2.2.2_camera_calibrate" class=""><a class="title" href="https://drive.google.com/open?id=1cCLnIvC7R2RmsS8phw1eaFWc6_HoWVd9p8tSMsVrWNQ"><img class='icon' src='media/gdoc.png'/>Setup Step 2.2.2 - camera calibration</a> (<a href="https://docs.google.com/document/d/1cCLnIvC7R2RmsS8phw1eaFWc6_HoWVd9p8tSMsVrWNQ/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): no more rounded fishbowl images!</p>
+<p id="step2.2.2_camera_calibrate" class=""><a class="title" href="https://drive.google.com/open?id=1cCLnIvC7R2RmsS8phw1eaFWc6_HoWVd9p8tSMsVrWNQ"><img class='icon' src='media/gdoc.png'/>Setup Step 2.2.2 - camera calibration</a> (<a href="https://docs.google.com/document/d/1cCLnIvC7R2RmsS8phw1eaFWc6_HoWVd9p8tSMsVrWNQ/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Camera calibration setup</p>
 
 
 
@@ -137,19 +110,23 @@ are drafts.</p>
 
 
 
-<p id="step5.0_LED" class=""><a class="title" href="https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"><img class='icon' src='media/gdoc.png'/>Setup Step 5.0 - LED car setup and test</a> (<a href="https://docs.google.com/document/d/1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): LEDS are awesome!!!</p>
+<p id="step5.0_LED" class=""><a class="title" href="https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"><img class='icon' src='media/gdoc.png'/>Setup Step 5.0 - LED car setup and test</a> (<a href="https://docs.google.com/document/d/1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): LEDS are awesome</p>
 
 
 
-<p id="setup_troubleshooting" class=""><a class="title" href="https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"><img class='icon' src='media/gdoc.png'/>Troubleshooting - network troubleshooting checklist</a> (<a href="https://docs.google.com/document/d/1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): why doesn't it work? see here !</p>
+<p id="virtualbox_setup" class=""><a class="title" href="https://drive.google.com/open?id=1hiaKOEwzs458hLbHJqtQHPagm-5HopBFl-13zTFX40M"><img class='icon' src='media/gdoc.png'/>Virtualbox setup</a> (<a href="https://docs.google.com/document/d/1hiaKOEwzs458hLbHJqtQHPagm-5HopBFl-13zTFX40M/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): VirtualBox setup instructions</p>
 
 
 
-<p id="virtualbox_setup" class=""><a class="title" href="https://drive.google.com/open?id=1hiaKOEwzs458hLbHJqtQHPagm-5HopBFl-13zTFX40M"><img class='icon' src='media/gdoc.png'/>Virtualbox setup</a> (<a href="https://docs.google.com/document/d/1hiaKOEwzs458hLbHJqtQHPagm-5HopBFl-13zTFX40M/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): getting the virtual box to work?</p>
+<p id="vmware_setup" class=""><a class="title" href="https://drive.google.com/open?id=1RQ7Cib3Vh-_z_3cdILQ5pcQnXfcaCeQ7inhp3rHdYgo"><img class='icon' src='media/gdoc.png'/>VMware Setup</a> (<a href="https://docs.google.com/document/d/1RQ7Cib3Vh-_z_3cdILQ5pcQnXfcaCeQ7inhp3rHdYgo/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): VMware setup instructions</p>
 
 
 
-<p id="vmware_setup" class=""><a class="title" href="https://drive.google.com/open?id=1RQ7Cib3Vh-_z_3cdILQ5pcQnXfcaCeQ7inhp3rHdYgo"><img class='icon' src='media/gdoc.png'/>VMware Setup</a> (<a href="https://docs.google.com/document/d/1RQ7Cib3Vh-_z_3cdILQ5pcQnXfcaCeQ7inhp3rHdYgo/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): vmware setup instructions</p>
+<p id="connect_pi_and_buffalo" class=""><a class="title" href="https://drive.google.com/open?id=15LqdN3f5vA_eVrzeAIOW_GYdUl6STS4Sn11qtengEws"><img class='icon' src='media/gdoc.png'/>Connect to Pi and Buffalo</a> (<a href="https://docs.google.com/document/d/15LqdN3f5vA_eVrzeAIOW_GYdUl6STS4Sn11qtengEws/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Using the Buffalo access point for wifi connection.</p>
+
+
+
+<p id="contruct_instructions" class=""><a class="title" href="https://drive.google.com/open?id=1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM"><img class='icon' src='media/gdoc.png'/>Getting started with The Construct simulation environment</a> (<a href="https://docs.google.com/document/d/1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): We are developing a simulation environment for Duckietown.</p>
 
 
 
@@ -159,7 +136,31 @@ are drafts.</p>
     
 
 
-<p id="faq_howto" class=""><a class="title" href="https://drive.google.com/open?id=18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU"><img class='icon' src='media/gdoc.png'/>FAQ / How To</a> (<a href="https://docs.google.com/document/d/18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): frequently asked questions!</p>
+<p id="checklist_robot_laptop_config" class=""><a class="title" href="https://drive.google.com/open?id=1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA"><img class='icon' src='media/gdoc.png'/>Checklist - Robot and laptop configuration</a> (<a href="https://docs.google.com/document/d/1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): getting your robot and laptop configured!</p>
+
+
+
+<p id="checklist_conforming_ROS_contribution" class=""><a class="title" href="https://drive.google.com/open?id=1nueJb9j9APGYT7iT-PQNNqcytUlLKguKhV9C0P2xOIQ"><img class='icon' src='media/gdoc.png'/>Checklist - what makes a conforming ROS contribution</a> (<a href="https://docs.google.com/document/d/1nueJb9j9APGYT7iT-PQNNqcytUlLKguKhV9C0P2xOIQ/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): how to get ROS to work!</p>
+
+
+
+<p id="documentation_style_guide" class=""><a class="title" href="https://drive.google.com/open?id=1dN_qt1KFI7osXsKCkBuTnMfVwmkSKDfELkwbRJ5z8a0"><img class='icon' src='media/gdoc.png'/>Documentation style guide</a> (<a href="https://docs.google.com/document/d/1dN_qt1KFI7osXsKCkBuTnMfVwmkSKDfELkwbRJ5z8a0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): proper style guidelens for Duckietown documentation</p>
+
+
+
+<p id="sd_card_reset" class=""><a class="title" href="https://drive.google.com/open?id=1W0PZhI9BcPhYhlrR4OnsUnrxOdbsd6StfKv7CU_9Nhw"><img class='icon' src='media/gdoc.png'/>How to reset your SD card</a> (<a href="https://docs.google.com/document/d/1W0PZhI9BcPhYhlrR4OnsUnrxOdbsd6StfKv7CU_9Nhw/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): reseting your SD card information and instructions</p>
+
+
+
+<p id="how_to_test_everything" class=""><a class="title" href="https://drive.google.com/open?id=1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08"><img class='icon' src='media/gdoc.png'/>How to test everything</a> (<a href="https://docs.google.com/document/d/1UgCuAcE0WJKja-y0WTXR8pFo9f3srQ4TNtAiX8Nhp08/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): information about testing everything.</p>
+
+
+
+<p id="setup_troubleshooting" class=""><a class="title" href="https://drive.google.com/open?id=1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8"><img class='icon' src='media/gdoc.png'/>Troubleshooting - network troubleshooting checklist</a> (<a href="https://docs.google.com/document/d/1YWmaHmffInCk2ZFoy2r_QOLMXJQlxkIjPbhCczsg5y8/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): How to troubleshoot the network connection.</p>
+
+
+
+<p id="faq_howto" class=""><a class="title" href="https://drive.google.com/open?id=18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU"><img class='icon' src='media/gdoc.png'/>FAQ / How To</a> (<a href="https://docs.google.com/document/d/18ewh-0yHTQqy4LtA6OBfxBhQCuqIXKa_jwE7ri_PDnU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Frequently asked questions.</p>
 
 
 
@@ -167,16 +168,34 @@ are drafts.</p>
 
 
 
-<p id="reflashing_SD" class=""><a class="title" href="https://drive.google.com/open?id=1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI"><img class='icon' src='media/gdoc.png'/>Reflashing your SD card</a> (<a href="https://docs.google.com/document/d/1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): reflash that sd card</p>
+<p id="reflashing_SD" class=""><a class="title" href="https://drive.google.com/open?id=1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI"><img class='icon' src='media/gdoc.png'/>Reflashing your SD card</a> (<a href="https://docs.google.com/document/d/1eq6Z_GwefmA2I1p8ICdnvMpnaDhqJ91hA1L9GdnV7kI/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Reflash the SD card</p>
 
 
 
-<p id="code_rules+conventions" class=""><a class="title" href="https://drive.google.com/open?id=1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8"><img class='icon' src='media/gdoc.png'/>Source Code Management Rules and Conventions</a> (<a href="https://docs.google.com/document/d/1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): cool rules to make things understandable</p>
+<p id="code_rules+conventions" class=""><a class="title" href="https://drive.google.com/open?id=1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8"><img class='icon' src='media/gdoc.png'/>Source Code Management Rules and Conventions</a> (<a href="https://docs.google.com/document/d/1aHaV9sYQdExBQ8HXVnZ3n-YL-ReXG-cHky6-lCXk2C8/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Rules to make contributions coherent.</p>
 
 
 
 
-## Spring 2016: Important documents for MIT students 
+## The design of Duckietown
+    
+    
+
+
+<p id="appearance_specification" class=""><a class="title" href="https://drive.google.com/open?id=1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc"><img class='icon' src='media/gdoc.png'/>Appearance Specification</a> (<a href="https://docs.google.com/document/d/1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): This document is about the appearance rules for a consistent Duckietown. If you build your own Duckietown: if it adheres to this rule, we guarantee that our robots will work.</p>
+
+
+
+<p id="belief_representation" class=""><a class="title" href="https://drive.google.com/open?id=1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo"><img class='icon' src='media/gdoc.png'/>Belief Representation</a> (<a href="https://docs.google.com/document/d/1Z4F5VgGGkh0tnjkOxNeQibDG4UFlQKQb29wFoaO6Ywo/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Knowledge and belief representation for the world of Duckietown.</p>
+
+
+
+<p id="traffic_code" class=""><a class="title" href="https://drive.google.com/open?id=1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM"><img class='icon' src='media/gdoc.png'/>Duckietown Traffic Code</a> (<a href="https://docs.google.com/document/d/1D2l8ltY2OGA2Mxw9xxaWS9c03nI4h9DkfiE0oqJpllM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): General principles about the traffic rules within Duckietown.</p>
+
+
+
+
+## Spring 2016: Documents specific to MIT 2.166 students 
     
     
 
@@ -185,49 +204,39 @@ are drafts.</p>
 
 
 
-
-## Spring 2016: Modules and Labs
-    
-    
-
-
-<p id="lab01" class=""><a class="title" href="https://drive.google.com/open?id=13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0"><img class='icon' src='media/gdoc.png'/>Lab 01 - duckiebox distribution</a> (<a href="https://docs.google.com/document/d/13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): opening the box ! yes the Duckietown box :-)</p>
+<p id="lab01" class=""><a class="title" href="https://drive.google.com/open?id=13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0"><img class='icon' src='media/gdoc.png'/>Lab 01 - duckiebox distribution</a> (<a href="https://docs.google.com/document/d/13Da6URI6ZbZhJW7vIYYDj4xi1sKqMg24lDpAAc-VFC0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): The day we opened the box.</p>
 
 
 
-<p id="lab02" class=""><a class="title" href="https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"><img class='icon' src='media/gdoc.png'/>Lab 02 - finalizing the assembly and starting RC</a> (<a href="https://docs.google.com/document/d/1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): getting remote controll functionality with the Duckiebot :D</p>
+<p id="lab02" class=""><a class="title" href="https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"><img class='icon' src='media/gdoc.png'/>Lab 02 - finalizing the assembly and starting RC</a> (<a href="https://docs.google.com/document/d/1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Getting remote control functionality with the Duckiebot.</p>
 
 
 
-<p id="module01" class=""><a class="title" href="https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"><img class='icon' src='media/gdoc.png'/>Module O1 - bootcamp</a> (<a href="https://docs.google.com/document/d/1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): going to ROS work with bootcamp lab</p>
+<p id="module01" class=""><a class="title" href="https://drive.google.com/open?id=1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU"><img class='icon' src='media/gdoc.png'/>Module O1 - bootcamp</a> (<a href="https://docs.google.com/document/d/1tj4uqlrxXqfvF9u4cdMGYxMIgnCFleJ016DWK4zI4EU/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Going to ROS work with bootcamp lab</p>
 
 
 
-<p id="lab03" class=""><a class="title" href="https://drive.google.com/open?id=1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec"><img class='icon' src='media/gdoc.png'/>Lab 03 - ROS tutorial</a> (<a href="https://docs.google.com/document/d/1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): a slightly guided tutorial with ROS and Duckiebots</p>
+<p id="lab03" class=""><a class="title" href="https://drive.google.com/open?id=1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec"><img class='icon' src='media/gdoc.png'/>Lab 03 - ROS tutorial</a> (<a href="https://docs.google.com/document/d/1fJe0IZXczCmrez8LEv3s5BxbIO0owAwpc3gZul1hhec/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): A slightly guided tutorial with ROS and Duckiebots.</p>
 
 
 
-<p id="module02" class=""><a class="title" href="https://drive.google.com/open?id=1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38"><img class='icon' src='media/gdoc.png'/>Module 02 - remote control and data processing</a> (<a href="https://docs.google.com/document/d/1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): a little more indepdence with the data processing</p>
+<p id="module02" class=""><a class="title" href="https://drive.google.com/open?id=1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38"><img class='icon' src='media/gdoc.png'/>Module 02 - remote control and data processing</a> (<a href="https://docs.google.com/document/d/1BhdzmCra0x67oTY4fDmuaPj0Hv0Tpr1jmrS2KHpyI38/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): A little more indepedence with the data processing.</p>
 
 
 
-<p id="lab04" class=""><a class="title" href="https://drive.google.com/open?id=1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY"><img class='icon' src='media/gdoc.png'/>Lab 04 - git and conventions</a> (<a href="https://docs.google.com/document/d/1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Branch master has died.  what now?</p>
+<p id="lab04" class=""><a class="title" href="https://drive.google.com/open?id=1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY"><img class='icon' src='media/gdoc.png'/>Lab 04 - git and conventions</a> (<a href="https://docs.google.com/document/d/1MDDKQTU_WY3JhJJJIpgCpuXoyI-bZyIWEuh7R0PGpDY/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
 
 
 
-<p id="lab05" class=""><a class="title" href="https://drive.google.com/open?id=1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE"><img class='icon' src='media/gdoc.png'/>Lab 05 - calibration and lane filtering</a> (<a href="https://docs.google.com/document/d/1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): the Duckiebot still doesnt' drive straight.  what do?</p>
+<p id="lab05" class=""><a class="title" href="https://drive.google.com/open?id=1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE"><img class='icon' src='media/gdoc.png'/>Lab 05 - calibration and lane filtering</a> (<a href="https://docs.google.com/document/d/1XnYiyk3lT8BaPNgPtY79yR7QNIhZFB2ZZcoTyNcwNtE/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): The Duckiebot still doesn't drive straight. What to do?</p>
 
 
 
-<p id="module03+04" class=""><a class="title" href="https://drive.google.com/open?id=1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg"><img class='icon' src='media/gdoc.png'/>Module 03 + 04 - demo or die</a> (<a href="https://docs.google.com/document/d/1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): look it works!</p>
+<p id="module03+04" class=""><a class="title" href="https://drive.google.com/open?id=1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg"><img class='icon' src='media/gdoc.png'/>Module 03 + 04 - demo or die</a> (<a href="https://docs.google.com/document/d/1tjf85cDy4o7dJ3J4Ui8XMAtI0in-RdMYxq9wGFTeHNg/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Getting to do lane following.</p>
 
 
 
-<p id="lab06" class=""><a class="title" href="https://drive.google.com/open?id=12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0"><img class='icon' src='media/gdoc.png'/>Lab 06 - </a> (<a href="https://docs.google.com/document/d/12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): it's unclear what this lab is about</p>
-
-
-
-<p id="contruct_instructions" class=""><a class="title" href="https://drive.google.com/open?id=1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM"><img class='icon' src='media/gdoc.png'/>Getting started with The Construct simulation environment</a> (<a href="https://docs.google.com/document/d/1fJ6KeKauUAxvoaFMNSwwsDZ0tyfOn8boQBZX0HodFuM/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): I think the title is self explanatory</p>
+<p id="lab06" class=""><a class="title" href="https://drive.google.com/open?id=12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0"><img class='icon' src='media/gdoc.png'/>Lab 06 - </a> (<a href="https://docs.google.com/document/d/12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0/export?format=pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
 
 
 
