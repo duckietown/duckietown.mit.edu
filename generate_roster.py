@@ -172,7 +172,7 @@ def generate_person(id_person, p):
     position = p['position']
     url = p['url']
     
-    s += '<img class="person" src="%s"/></td>' % img_url
+    s += '<img class="person" src="%s"/>' % img_url
     s += "</td><td>"
 
     if url is not None:
