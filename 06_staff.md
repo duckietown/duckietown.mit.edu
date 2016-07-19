@@ -126,7 +126,7 @@ Michal is interested in motion planning, multi-robot coordination, and automated
 
 
 
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/MISSING.jpg"/></td><td><span class="name"><a href="http://it.linkedin.com/in/maurodangelo">Mauro D'Angelo</a></span><br/><span class="position">DuckietownHS Systems & Electronics Engineer</span><p><span class="bio">Mauro is president of the no profit organization named 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/mdangelo.jpg"/></td><td><span class="name"><a href="http://it.linkedin.com/in/maurodangelo">Mauro D'Angelo</a></span><br/><span class="position">DuckietownHS Systems & Electronics Engineer</span><p><span class="bio">Mauro is president of the no profit organization named 
 Perlatecnica that performs activities of social promotion.   
 www.perlatecnica.it</span></p></td></tr>
 
