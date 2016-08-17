@@ -4,15 +4,13 @@ C21_estimation_from_blur:
   title: "Estimation from Motion Blur"
   date: "Apr 27, 2016"
   vimeo: [] 
-  files: 
-    - desc: 
-      url: 
+  files: []
   presenters:
   - tani
   ready: false
 
 
-C20_slam_i:
+C20_slam_ii:
   title: "SLAM II"
   date: "Apr 25, 2016"
   vimeo: []

@@ -21,8 +21,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C01_intro:</span> Welcome to Duckietown </h2>
-    
     <p>Presenters: <a href='http://censi.mit.edu/'>Andrea Censi</a>, <a href='http://people.csail.mit.edu/lpaull/'>Liam Paull</a></p>
     
     <table><tr>
@@ -51,8 +49,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C02_team:</span> Meet the team </h2>
-    
     <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: Heejin Ahn, <a href='http://people.csail.mit.edu/cchoi/'>Changhyun Choi</a>, <a href='http://people.csail.mit.edu/jalonsom/'>Javier Alonso-Mora</a>, <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, <a href='http://www.lucacarlone.com/'>Luca Carlone</a>, <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
     
     <table><tr>
@@ -70,8 +66,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C03_hires:</span> Meet the new hires </h2>
-    
     <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: <a href='http://censi.mit.edu/'>Andrea Censi</a></p>
     
     <p class="incomplete">(Video not available yet.)</p>
@@ -85,8 +79,6 @@ permalink: lectures.html
 <div class='lecture'>
 
     
-    
-    <h2><span class="lecture_id">C04_arch:</span> Robotics Architectures </h2>
     
     <p>Presenters: <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, <a href='http://www.mit.edu/~syliu'>Shih-Yuan Liu</a></p>
     
@@ -115,8 +107,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C06_cameras:</span> Computer vision basics </h2>
-    
     <p>Presenters: <a href='http://acl.mit.edu/'>Jonathan How</a>, <a href='http://people.csail.mit.edu/cchoi/'>Changhyun Choi</a></p>
     
     <table><tr>
@@ -144,8 +134,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C07_testing:</span> Software testing </h2>
-    
     <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: steiner</p>
     
     <p class="incomplete">(Video not available yet.)</p>
@@ -159,8 +147,6 @@ permalink: lectures.html
 <div class='lecture'>
 
     
-    
-    <h2><span class="lecture_id">C08_filtering:</span> Filtering basics </h2>
     
     <p>Presenters: <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
     
@@ -183,8 +169,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C09_laneFilter:</span> Nonlinear filtering </h2>
-    
     <p>Presenters: <a href='http://people.csail.mit.edu/lpaull/'>Liam Paull</a></p>
     
     <table><tr>
@@ -205,8 +189,6 @@ permalink: lectures.html
 <div class='lecture'>
 
     
-    
-    <h2><span class="lecture_id">C10_projects:</span> Building Duckietown </h2>
     
     <p class="incomplete">(No presenters specified.)</p>
     
@@ -229,8 +211,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C11_development:</span> Development </h2>
-    
     <p>Presenters: <a href='http://censi.mit.edu/'>Andrea Censi</a></p>
     
     <table><tr>
@@ -252,8 +232,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C14_motion_planning:</span> Motion Planning </h2>
-    
     <p>Presenters: <a href='http://agents.fel.cvut.cz/~cap/'>Michal Cap</a></p>
     
     <p class="incomplete">(Video not available yet.)</p>
@@ -273,8 +251,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C15_navigation:</span> Navigation </h2>
-    
     <p>Presenters: <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a></p>
     
     <p class="incomplete">(Video not available yet.)</p>
@@ -292,8 +268,6 @@ permalink: lectures.html
 <div class='lecture'>
 
     
-    
-    <h2><span class="lecture_id">C16_intro_to_safety:</span> Introduction to Safety </h2>
     
     <p>Presenters: <a href='http://www.mit.edu/~ddv/'>Domitilla Del Vecchio</a></p>
     
@@ -313,8 +287,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C17_intro_to_safety:</span> Advanced Safety and Formal Methods </h2>
-    
     <p>Presenters: Heejin Ahn, <a href='http://meche.mit.edu/people/staff/hoehener@mit.edu'>Daniel Hoehener</a></p>
     
     <p class="incomplete">(Video not available yet.)</p>
@@ -332,8 +304,6 @@ permalink: lectures.html
 <div class='lecture'>
 
     
-    
-    <h2><span class="lecture_id">C18_multi_vehicle_coordination:</span> Multi-Vehicle Coordination </h2>
     
     <p>Presenters: <a href='http://people.csail.mit.edu/jalonsom/'>Javier Alonso-Mora</a></p>
     
@@ -353,8 +323,6 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C19_slam_i:</span> SLAM I </h2>
-    
     <p>Presenters: <a href='http://www.lucacarlone.com/'>Luca Carlone</a></p>
     
     <p class="incomplete">(Video not available yet.)</p>
@@ -372,8 +340,6 @@ permalink: lectures.html
 <div class='lecture'>
 
     
-    
-    <h2><span class="lecture_id">C20_slam_i:</span> SLAM II </h2>
     
     <p>Presenters: <a href='http://www.lucacarlone.com/'>Luca Carlone</a></p>
     
@@ -393,18 +359,12 @@ permalink: lectures.html
 
     
     
-    <h2><span class="lecture_id">C21_estimation_from_blur:</span> Estimation from Motion Blur </h2>
-    
     <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: Jacopo Tani</p>
     
     <p class="incomplete">(Video not available yet.)</p>
     
     <table><tr>
     </tr></table>
-    
-    <ul class="materials">
-     <li><a href="None">None</a></li>
-    </ul>
     
     
 </div>
