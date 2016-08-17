@@ -1,38 +1,147 @@
 # https://docs.google.com/spreadsheets/d/1J3v3r8-toORWZah-Jqx9yEVezRbwidOiNvwpNcgwn88/edit#gid=0
 
+C21_estimation_from_blur:
+  title: "Estimation from Motion Blur"
+  date: "Apr 27, 2016"
+  vimeo: [] 
+  files: 
+    - desc: 
+      url: 
+  presenters:
+  - tani
+  ready: false
+
+
+C20_slam_i:
+  title: "SLAM II"
+  date: "Apr 25, 2016"
+  vimeo: []
+  files: 
+    - desc: Keynote
+      url: https://www.dropbox.com/s/psyovgo97nspze1/LC-C20-SLAM2.key?dl=0
+  presenters: 
+  - carlone
+  ready: true
+
+
+C19_slam_i:
+  title: "SLAM I"
+  date: "Apr 13, 2016"
+  vimeo: []
+  files: 
+    - desc: Keynote
+      url: https://www.dropbox.com/s/1lu7jn2w2d3grxf/LC-C19-SLAM.key?dl=0
+  presenters: 
+  - carlone
+  ready: true
+
+
+C18_multi_vehicle_coordination:
+  title: "Multi-Vehicle Coordination"
+  date: "Apr 11, 2016"
+  vimeo: []
+  files: 
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/qtducfi1ywzrv3d/JA-Lecture18-optimCoord.pptx?dl=0
+  presenters: 
+  - alonso-mora
+  ready: true
+
+
+C17_intro_to_safety:
+  title: "Advanced Safety and Formal Methods"
+  date: "Apr 8, 2016"
+  vimeo: []
+  files: 
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/j8o3fu5eur93sc5/Apr6_FormalMethods_standard_v2.pptx?dl=0
+  presenters: 
+  - ahn
+  - hoehener
+  ready: true
+
+
+C16_intro_to_safety:
+  title: "Introduction to Safety"
+  date: "Apr 4, 2016"
+  vimeo: []
+  files: 
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/cyvjos31iwrfvoz/TransportationRes.pptx?dl=0
+  presenters: 
+  - delvecchio
+  ready: true
+
+
+C15_navigation:
+  title: "Navigation"
+  date: "Mar 30, 2016"
+  vimeo: []
+  files: 
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/eqrmmlm2li6g2pk/novitzky_duckietown_navigation_1_LP.pptx?dl=0
+  presenters: 
+  - novitzky
+  ready: true
+
+
+C14_motion_planning:
+  title: "Motion Planning"
+  date: "Mar 28, 2016"
+  vimeo: []
+  files: 
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/1deykmhckea8a0h/lecture.pptx?dl=0
+    - desc: PDF
+      url: https://www.dropbox.com/s/9gktwymwnat6ivd/lecture.pdf?dl=0
+  presenters: 
+  - cap
+  ready: true
+
+#C12 and C13 are phase 2 development
+
 C11_development:
-  title: 
+  title: "Development"
   date: "Mar 9, 2016"
   vimeo: https://vimeo.com/158835095
-  files: []
+  files:
+    - desc: No slides available
+      url: 
   presenters:
-  ready: false
+  - censi
+  ready: true
 
 C10_projects:
   title: "Building Duckietown"
   date: "Mar 7, 2016"
   vimeo: https://vimeo.com/158835091
-  files: []
+  files:
+    - desc: Keynote
+      url: https://www.dropbox.com/s/cwn5sglgvv7jpvi/Integrated_LP.key?dl=0
   presenters:
-  ready: false
+  ready: true
 
 C09_laneFilter:
   title: "Nonlinear filtering"
   date: "Mar 2, 2016"
   vimeo: https://vimeo.com/157886586
-  files: []
+  files:
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/hoov862edkwvy1m/perc1-lane_filter_paull.pptx?dl=0
   presenters:
   - paull
-  ready: false
+  ready: true
 
 C08_filtering:
   title: "Filtering basics"
   date: "Feb 29, 2016"
   vimeo: https://vimeo.com/157886581
-  files: []
+  files: 
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/4tbm9tnermwkte2/20160208_leonard_duckietown.pptx?dl=0
   presenters:
   - leonard
-  ready: false
+  ready: true
   
 C07_testing:
   title: "Software testing"
@@ -47,13 +156,17 @@ C06_cameras:
   title: "Computer vision basics"
   date: "Feb 22, 2016"
   files:
+    - desc: Keynote
+      url: https://www.dropbox.com/s/23pza9nzs2pdlpo/C06_cameras-choi-updated_with_urls.key?dl=0
+    - desc: PDF
+      url: https://www.dropbox.com/s/e4yz054oamb9g96/C06_cameras-choi-updated_with_urls.pdf?dl=0
   vimeo: 
   - https://vimeo.com/159612162
   - https://vimeo.com/159612203
   presenters:
   - how
   - choi
-  ready: false
+  ready: true
 
 # C05 does not exist
 
@@ -71,7 +184,7 @@ C04_arch:
   presenters:
   - novitzky
   - liu 
-  ready: false
+  ready: true
   
 
 C03_hires:
