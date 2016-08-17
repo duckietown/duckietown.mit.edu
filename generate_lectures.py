@@ -142,7 +142,7 @@ def generate_lecture(id_lecture, lecture, people, context):
 
 
     #s += '<h2><span class="lecture_id">%s:</span> %s </h2>\n\n' % (id_lecture, title)
-    s += '<h2> %s </h2>\n\n' % (id_lecture, title)
+    s += '<h2> %s </h2>\n\n' % ( title)
 
     if not lecture['ready']:
         s += '<p class="notready">This lecture is not ready for publishing yet; files are missing,'

@@ -102,9 +102,7 @@ C11_development:
   title: "Development"
   date: "Mar 9, 2016"
   vimeo: https://vimeo.com/158835095
-  files:
-    - desc: No slides available
-      url: 
+  files: [] # no slides for this lecture
   presenters:
   - censi
   ready: true
