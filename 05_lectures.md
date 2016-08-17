@@ -103,6 +103,11 @@ permalink: lectures.html
             webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </td></tr></table>
     
+    <ul class="materials">
+     <li><a href="https://www.dropbox.com/s/kbytk2j1loswjv1/start_middleware.pdf?dl=0">Part 1 (Middlewares) PDF</a></li>
+     <li><a href="https://www.dropbox.com/s/i22kpeun49e484s/duckietown_ros.pdf?dl=0">Part 2 (Intro to ROS) PDF</a></li>
+    </ul>
+    
     
 </div>
 

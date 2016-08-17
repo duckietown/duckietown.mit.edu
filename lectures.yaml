@@ -46,7 +46,7 @@ C07_testing:
 C06_cameras:
   title: "Computer vision basics"
   date: "Feb 22, 2016"
-  files: []
+  files:
   vimeo: 
   - https://vimeo.com/159612162
   - https://vimeo.com/159612203
@@ -60,7 +60,11 @@ C06_cameras:
 C04_arch:
   title:  "Robotics Architectures"
   date: "Feb 16, 2016"
-  files: []
+  files:
+    - desc: Part 1 (Middlewares) PDF
+      url: https://www.dropbox.com/s/kbytk2j1loswjv1/start_middleware.pdf?dl=0
+    - desc: Part 2 (Intro to ROS) PDF
+      url: https://www.dropbox.com/s/i22kpeun49e484s/duckietown_ros.pdf?dl=0
   vimeo: 
   - https://vimeo.com/156041019
   - https://vimeo.com/156041024
