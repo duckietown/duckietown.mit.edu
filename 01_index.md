@@ -17,19 +17,19 @@ permalink: index.html
         <div class="col-sm-4 text-center  ">
             <h3 class="black">Duckietown is </h3>
             <h3>an advanced autonomy class taught at MIT </h3>
-            <img class="thumbnail" src="media/index1.jpg"></img>
+            <img class="thumbnail" src="media/index1.jpg">
         </div>
         
         <div class="col-sm-4 text-center  ">
             <h3 class="black">Duckietown is </h3>
             <h3>a role play exercise</h3>
-            <img class="thumbnail" src="media/index2.png"></img>
+            <img class="thumbnail" src="media/index2.png">
         </div>
         
         <div class="col-sm-4 text-center  ">
             <h3 class="black">Duckietown is </h3>
             <h3>a research project</h3>
-            <img class="thumbnail" src="media/index3.jpg"></img>
+            <img class="thumbnail" src="media/index3.jpg">
         </div>
 
     </div>
@@ -39,19 +39,19 @@ permalink: index.html
         <div class="col-sm-4 text-center">
             <h3 class="black">Duckietown is </h3>
             <h3>an "open source" and "reproducible" class</h3>
-            <img class="thumbnail" src="media/index4.jpg"></img>
+            <img class="thumbnail" src="media/index4.jpg">
         </div>
         
         <div class="col-sm-4 text-center">
             <h3 class="black">Duckietown is </h3>
             <h3>an outreach effort</h3>
-            <img class="thumbnail" src="media/index5.jpg"></img>
+            <img class="thumbnail" src="media/index5.jpg">
         </div>
         
         <div class="col-sm-4 text-center">
             <h3 class="black">Duckietown is </h3>
             <h3>a learning experience for everybody</h3>
-            <img class="thumbnail" src="media/index6.png"></img>
+            <img class="thumbnail" src="media/index6.png">
         </div>
 
     </div>
