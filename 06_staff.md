@@ -85,6 +85,10 @@ from Caltech.</span></p></td></tr>
 
 
 
+<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Chief Strategy Officer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
+
+
+
 <tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/bowser.jpg"/></td><td><span class="name"> Kirsten Bowser</span><br/><span class="position">Human Resources</span><p><span class="bio">Holding an MSc in Biology, Kirsten Bowser's expertise align more closely with real, as opposed to rubber, duckies. She has significant experience conducting remote field research for long-term ecological studies. She is also competent in next-generation DNA sequencing and environmental barcoding. Her main research interests lie in the interactions between components of an ecosystem, either at larger (marine food webs) or small (gut microbiome) scales. Currently, Kirsten juggles the needs of both her biological and Duckietown-adopted children, which run the gamut from tieing shoes and making lunches to booking CSAIL meeting rooms and editing spreadsheets.</span></p></td></tr>
 
 
@@ -194,10 +198,6 @@ Computer Science and Artificial Intelligence Laboratory of the Massachusetts Ins
 He received M.Sc. and Ph.D. degrees at the Technion, Israel.
 During his studies, he worked at IBM HRL, Medicvision, and Invision, among other companies.
 His primary research interests include a variety of topics in computer vision, mostly around modeling and understanding in visual and 3D sensing and autonomous systems perception.</span></p></td></tr>
-
-
-
-<tr><td class='photo'><img class="person" src="http://duckietown.mit.edu/media/staff/tani.jpg"/></td><td><span class="name"> Jacopo Tani</span><br/><span class="position">Vehicle Perception Engineer</span><p><span class="bio">Jacopo Tani is a Postdoctoral Associate in the Search for Extra    Terrestrial Genomes project of the Earth, Atmospheric and Planetary Sciences department at MIT. He received the laurea specialistica degree (cum laude) in space engineering from La Sapienza university in 2009 and the master in space institutions and policies from the Italian Society for International Organization, in 2010, in Rome, Italy, prior to the Ph. D. in aeronautical engineering from Rensselaer Polytechnic Institute, Troy, USA, in 2015. His research interests broadly include modeling and control of systems with aerospace applications.</span></p></td></tr>
 
 
 
