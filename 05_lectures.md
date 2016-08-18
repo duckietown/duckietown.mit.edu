@@ -53,7 +53,7 @@ permalink: lectures.html
     
     <h2> Meet the team </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: Heejin Ahn, <a href='http://people.csail.mit.edu/cchoi/'>Changhyun Choi</a>, <a href='http://people.csail.mit.edu/jalonsom/'>Javier Alonso-Mora</a>, <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, <a href='http://www.lucacarlone.com/'>Luca Carlone</a>, <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
+    <p>Presenters: Heejin Ahn, <a href='http://people.csail.mit.edu/cchoi/'>Changhyun Choi</a>, <a href='http://people.csail.mit.edu/jalonsom/'>Javier Alonso-Mora</a>, <a href='http://michaelnovitzky.com/'>Michael "Misha" Novitzky</a>, <a href='http://www.lucacarlone.com/'>Luca Carlone</a>, <a href='https://marinerobotics.mit.edu/'>John Leonard</a></p>
     
     <table><tr>
        <td>
@@ -62,6 +62,11 @@ permalink: lectures.html
             width="400" height="281" frameborder="0"
             webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </td></tr></table>
+    
+    <ul class="materials">
+     <li><a href="https://www.dropbox.com/s/6p1tm1z8n76esyo/final_20160208_leonard_duckietown_.pptx?dl=0">Part 1 - Corporate Strategy (Powerpoint)</a></li>
+     <li><a href="https://www.dropbox.com/s/pjxxj0khun4q7n3/lecture2-part13.key?dl=0">Part 2 - Meet the Team (Keynote)</a></li>
+    </ul>
     
     
 </div>
@@ -349,7 +354,7 @@ permalink: lectures.html
 
     
     
-    <h2> SLAM I </h2>
+    <h2> SLAM 1 </h2>
     
     <p>Presenters: <a href='http://www.lucacarlone.com/'>Luca Carlone</a></p>
     
@@ -369,7 +374,7 @@ permalink: lectures.html
 
     
     
-    <h2> SLAM II </h2>
+    <h2> SLAM 2 </h2>
     
     <p>Presenters: <a href='http://www.lucacarlone.com/'>Luca Carlone</a></p>
     
@@ -397,6 +402,11 @@ permalink: lectures.html
     
     <table><tr>
     </tr></table>
+    
+    <ul class="materials">
+     <li><a href="https://www.dropbox.com/s/tm4mv912evq9k7f/Duckietown%20-%20State%20Estimation%20from%20Blur_ppsplitted.pptx?dl=0">Powerpoint</a></li>
+     <li><a href="https://www.dropbox.com/s/mpem4uuc1eque4e/Duckietown%20-%20State%20Estimation%20from%20Blur.pdf?dl=0">PDF</a></li>
+    </ul>
     
     
 </div>

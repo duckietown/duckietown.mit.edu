@@ -4,14 +4,18 @@ C21_estimation_from_blur:
   title: "Estimation from Motion Blur"
   date: "Apr 27, 2016"
   vimeo: [] 
-  files: []
+  files: 
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/tm4mv912evq9k7f/Duckietown%20-%20State%20Estimation%20from%20Blur_ppsplitted.pptx?dl=0
+    - desc: PDF
+      url: https://www.dropbox.com/s/mpem4uuc1eque4e/Duckietown%20-%20State%20Estimation%20from%20Blur.pdf?dl=0
   presenters:
   - tani
   ready: false
 
 
 C20_slam_ii:
-  title: "SLAM II"
+  title: "SLAM 2"
   date: "Apr 25, 2016"
   vimeo: []
   files: 
@@ -23,7 +27,7 @@ C20_slam_ii:
 
 
 C19_slam_i:
-  title: "SLAM I"
+  title: "SLAM 1"
   date: "Apr 13, 2016"
   vimeo: []
   files: 
@@ -197,7 +201,11 @@ C02_team:
   date: "Feb 8, 2016"
   vimeo:
   - https://vimeo.com/155349165
-  files: []
+  files:
+    - desc: Part 1 - Corporate Strategy (Powerpoint)
+      url: https://www.dropbox.com/s/6p1tm1z8n76esyo/final_20160208_leonard_duckietown_.pptx?dl=0
+    - desc: Part 2 - Meet the Team (Keynote)
+      url: https://www.dropbox.com/s/pjxxj0khun4q7n3/lecture2-part13.key?dl=0 
   presenters: 
   - ahn
   - choi
@@ -206,7 +214,7 @@ C02_team:
   - carlone
   - leonard
 
-  ready: false
+  ready: true
 
 # MIT 2.166 Duckietown - Lecture 1, first part
 # Slides and other materials are at http://duckietown.mit.edu/2016/lectures.html#C01_intro
