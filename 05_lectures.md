@@ -77,7 +77,7 @@ permalink: lectures.html
     
     <h2> Meet the new hires </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: <a href='http://censi.mit.edu/'>Andrea Censi</a></p>
+    <p>Presenters: <a href='http://censi.mit.edu/'>Andrea Censi</a></p>
     
     <p class="incomplete">(Video not available yet.)</p>
     
