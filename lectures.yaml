@@ -200,7 +200,7 @@ C03_hires:
       url: https://www.dropbox.com/s/r970l2yqbzkje27/C03_hires.key?dl=0
   presenters:
   - censi
-  ready: false
+  ready: true
 
 C02_team:
   title:  "Meet the team"
