@@ -11,7 +11,7 @@ C21_estimation_from_blur:
       url: https://www.dropbox.com/s/mpem4uuc1eque4e/Duckietown%20-%20State%20Estimation%20from%20Blur.pdf?dl=0
   presenters:
   - tani
-  ready: false
+  ready: true
 
 
 C20_slam_ii:

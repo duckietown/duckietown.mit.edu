@@ -396,7 +396,7 @@ permalink: lectures.html
     
     <h2> Estimation from Motion Blur </h2>
     
-    <p class="notready">This lecture is not ready for publishing yet; files are missing, or the videos are not edited.</p><p>Presenters: Jacopo Tani</p>
+    <p>Presenters: Jacopo Tani</p>
     
     <p class="incomplete">(Video not available yet.)</p>
     
