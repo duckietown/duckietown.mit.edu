@@ -191,7 +191,13 @@ C03_hires:
   title:  "Meet the new hires"
   date: "Feb 10, 2016"
   vimeo: []
-  files: []
+  files:
+    - desc: Powerpoint
+      url: https://www.dropbox.com/s/ggsr54x7t538f94/C03_hires.pptx?dl=0
+    - desc: PDF
+      url: https://www.dropbox.com/s/yz9dtqfp4mboj2r/C03_hires.pdf?dl=0
+    - desc: Keynote
+      url: https://www.dropbox.com/s/r970l2yqbzkje27/C03_hires.key?dl=0
   presenters:
   - censi
   ready: false

@@ -84,6 +84,12 @@ permalink: lectures.html
     <table><tr>
     </tr></table>
     
+    <ul class="materials">
+     <li><a href="https://www.dropbox.com/s/ggsr54x7t538f94/C03_hires.pptx?dl=0">Powerpoint</a></li>
+     <li><a href="https://www.dropbox.com/s/yz9dtqfp4mboj2r/C03_hires.pdf?dl=0">PDF</a></li>
+     <li><a href="https://www.dropbox.com/s/r970l2yqbzkje27/C03_hires.key?dl=0">Keynote</a></li>
+    </ul>
+    
     
 </div>
 
