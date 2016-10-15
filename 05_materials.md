@@ -242,7 +242,7 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
     
 
 
-<p id="icra_2017" class=""><a class="title" href="https://drive.google.com/file/d/0B49dGT7ubfmSZFJmZEJwak5hcTQ/view?usp=sharing"><img class='icon' src='media/gdoc.png'/>Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research</a> (<a href="media/pdfs/0B49dGT7ubfmSZFJmZEJwak5hcTQ.pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Manuscript submitted to the International Conference on Robotics and Automation (ICRA) 2017</p>
+Manuscript submitted to the International Conference on Robotics and Automation (ICRA) 2017</p>
 
 
 

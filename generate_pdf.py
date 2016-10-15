@@ -22,7 +22,6 @@ def main():
 
         for d in documents:
             id_document = get_id(d)
-            logger.info("%s", d['tags'])
             if (d['tags'] == 'paper'):
                 continue
 
