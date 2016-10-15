@@ -46,7 +46,7 @@ def generate_html(documents):
 
     print("""
 
-## Basic Setup documents 
+## Basic Setup Documents 
     
     """)
 
@@ -70,7 +70,7 @@ def generate_html(documents):
 
     print("""
 
-## Spring 2016: Documents specific to MIT 2.166 students 
+## Spring 2016: Documents Specific to MIT 2.166 Students 
     
     """)
 

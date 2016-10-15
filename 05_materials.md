@@ -29,7 +29,7 @@ All materials should be available to everybody. If you get
 a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.
 
 
-## Basic Setup documents 
+## Basic Setup Documents 
     
     
 
@@ -191,7 +191,7 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 
 
 
-## Spring 2016: Documents specific to MIT 2.166 students 
+## Spring 2016: Documents Specific to MIT 2.166 Students 
     
     
 
