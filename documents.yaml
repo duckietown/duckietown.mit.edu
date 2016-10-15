@@ -10,6 +10,16 @@
 # Tags conventions:
 # - "spring2016": relevant for the spring 2016 class
 # - "setup": setup instructions 
+#
+
+- id: icra_2017
+  title: "Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research"
+  owner: 
+  collaborators: 
+  tags: paper
+  desc: Manuscript submitted to the International Conference on Robotics and Automation (ICRA) 2017 
+  google_docs_share_link: "https://drive.google.com/file/d/0B49dGT7ubfmSZFJmZEJwak5hcTQ/view?usp=sharing"
+
 
 - id: getting_started
   title: "Getting Started"

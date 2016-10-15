@@ -62,7 +62,7 @@ def generate_html(documents):
 
     print("""
 
-## The design of Duckietown
+## The Design of Duckietown
     
     """)
 
@@ -75,6 +75,14 @@ def generate_html(documents):
     """)
 
     print(generate_html_tag(documents, ['spring2016', 'modules+labs']))
+
+    print("""
+
+## Publications
+    
+    """)
+
+    print(generate_html_tag(documents, ['paper']))
 
  
     if False:
@@ -110,8 +118,9 @@ def get_id(d):
     # "https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing"
 
     s = s.replace('https://docs.google.com/document/d/', '')
-
+    s = s.replace('https://drive.google.com/file/d/','')
     s = s.replace('/edit?usp=sharing', '')
+    s = s.replace('/view?usp=sharing','')
     s = s.replace('https://drive.google.com/open?id=', '')
 
     return s

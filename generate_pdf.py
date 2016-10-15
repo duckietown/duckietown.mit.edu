@@ -22,6 +22,9 @@ def main():
 
         for d in documents:
             id_document = get_id(d)
+            logger.info("%s", d['tags'])
+            if (d['tags'] == 'paper'):
+                continue
 
             pdf_url = make_pdf_url(id_document)
 
@@ -82,10 +85,10 @@ def get_id(d):
     s = d['google_docs_share_link']
     
     # "https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing"
-    
     s = s.replace('https://docs.google.com/document/d/', '')
-    
+    s = s.replace('https://drive.google.com/file/d/','')
     s = s.replace('/edit?usp=sharing','')
+    s = s.replace('/view?usp=sharing','')
     s = s.replace('https://drive.google.com/open?id=', '')
 
     return s

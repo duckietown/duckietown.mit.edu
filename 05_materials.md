@@ -173,7 +173,7 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 
 
 
-## The design of Duckietown
+## The Design of Duckietown
     
     
 
@@ -233,6 +233,16 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 
 
 <p id="lab06" class=""><a class="title" href="https://drive.google.com/open?id=12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0"><img class='icon' src='media/gdoc.png'/>Lab 06 - </a> (<a href="media/pdfs/12kIWQDxkfmpxWrsO-YNV_KUT2mvQMNZmTYVIpmqeA_0.pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): <span class="missing">Missing description</span></p>
+
+
+
+
+## Publications
+    
+    
+
+
+<p id="icra_2017" class=""><a class="title" href="https://drive.google.com/file/d/0B49dGT7ubfmSZFJmZEJwak5hcTQ/view?usp=sharing"><img class='icon' src='media/gdoc.png'/>Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research</a> (<a href="media/pdfs/0B49dGT7ubfmSZFJmZEJwak5hcTQ.pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Manuscript submitted to the International Conference on Robotics and Automation (ICRA) 2017</p>
 
 
 
