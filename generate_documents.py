@@ -160,9 +160,11 @@ def generate_html_tag(documents, tags_to_include):
         desc = desc.replace('\n', ' ')
 
         if (d['tags'] != "paper"):
-            pdf_link = '<a href="%s">%s static pdf</a>' % (url_pdf(d), icon_pdf())
-            s += ('<p id="%s" class="%s"><a class="title" href="%s">%s%s</a> (%s): ' %
-                  (id_document, " ".join(classes), google_docs_share_link, icon_gdoc(), title, pdf_link))
+            pdf_link = '(<a href="%s">%s static pdf</a>)' % (url_pdf(d), icon_pdf())
+        else:
+            pdf_link = ''
+        s += ('<p id="%s" class="%s"><a class="title" href="%s">%s%s</a> %s: ' %
+              (id_document, " ".join(classes), google_docs_share_link, icon_gdoc(), title, pdf_link))
 
         s += desc
 
