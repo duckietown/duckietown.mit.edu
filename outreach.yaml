@@ -1,0 +1,43 @@
+# Use this pattern:
+# - id: <identifier string with underscores>
+#   institution: <name of institution>
+#   title: <title or article/class/etc>
+#   leader: prof or teacher leading the effort
+#   collaborators: [list] 
+#   tags: [list, of, tags]
+#   desc: |
+#     <Multiple line description of the project>
+#   video_embed_link: [list of links]
+#   photo_embed_link: [list of links]
+#   project_url: <project url>
+#   institution_url: <institution_url>
+#   leader_url: <leader_url>
+#
+# Tags conventions:
+# - "research": a paper was written with duckietown
+# - "graduate": a graduate level class
+# - "undergraduate": an undergraduate class
+# - "high_school": a high school class
+# - "elementary": an elementary class
+# - "independent": an independent learner
+# - "media": a media piece written about duckietown
+
+- id: NCTU
+  institution: National Chiao Tung University
+  title: ICN9005 Robotic Vision
+  tags: [graduate]
+  desc: |
+    The "first branch of Duckietown" was started in 2016 in NCTU led by Prof Nick Wang
+  project_url: http://duckietown.nctu.edu.tw/
+  instituation_url: http://www.nctu.edu.tw/en
+  leader_url: http://web.it.nctu.edu.tw/~hchengwang/
+
+- id: MIT
+  institution: Massachusetts Institute of Technology
+  title: MIT 2.166
+  tags: [graduate]
+  desc: |
+    The "Where it all started - the first class at was at MIT in 2016"
+  project_url: http://duckietown.nctu.edu.tw/
+  instituation_url: http://www.nctu.edu.tw/en
+  leader_url: http://web.it.nctu.edu.tw/~hchengwang/
