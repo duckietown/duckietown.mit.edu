@@ -94,7 +94,7 @@
   title: Perlatecnica
   tags: [high school]
   desc: | 
-    Class underway led by Mr. Mauro D\x27Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
+    Class underway led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
   score: 4
   year: 2016
   project_url: http://www.perlatecnica.it/
@@ -102,7 +102,7 @@
 
 - id: Peck
   institution: The Peck School
-  title: Bruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design
+  title: Bruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design
   tags: [elementary school]
   desc: | 
     The 5th graders are designing their own robots 

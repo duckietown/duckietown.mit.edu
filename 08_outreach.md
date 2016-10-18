@@ -38,8 +38,8 @@ infoWindowContent.push(['<div class="info_content">' +
         '<h3>Undergraduate' + ' Class'+ ': <a href="None">None</a> at <a href="https://rpi.edu/">Rensselaer Polytechnic Institute</a> </h3>' +
         '<p>Class under development</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
         '<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">Perlatecnica</a> at <a href="http://www.isismarcianise.gov.it/">I.S.I.S marcianise</a> </h3>' +
-        '<p>Class underway led by Mr. Mauro D\x27Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Elementary School' + ' Class'+ ': <a href="None">Bruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design</a> at <a href="http://www.peckschool.org/page">The Peck School</a> </h3>' +
+        '<p>Class underway led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
+        '<h3>Elementary School' + ' Class'+ ': <a href="None">Bruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design</a> at <a href="http://www.peckschool.org/page">The Peck School</a> </h3>' +
         '<p>The 5th graders are designing their own robots</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
         '<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">Paper under review</a> at <a href="http://www.ucmerced.edu/">University of California, Merced</a> </h3>' +
         '<p></p>' + '</div>']);var image = { 
@@ -206,7 +206,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'The Peck School \nBruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design \n(Elementary School Class)' 
+              title: 'The Peck School \nBruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design \n(Elementary School Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -292,7 +292,7 @@ infoWindowContent.push(['<div class="info_content">' +
 
 
 
-<p id="Perlatecnica" class=""><a class="title" href="None">I.S.I.S marcianise</a> - <a class="title" href="http://www.perlatecnica.it/">Perlatecnica</a>: Class underway led by Mr. Mauro D\x27Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>
+<p id="Perlatecnica" class=""><a class="title" href="None">I.S.I.S marcianise</a> - <a class="title" href="http://www.perlatecnica.it/">Perlatecnica</a>: Class underway led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>
 
 
 
@@ -302,7 +302,7 @@ infoWindowContent.push(['<div class="info_content">' +
 
 
 
-<p id="Peck" class=""><a class="title" href="None">The Peck School</a> - <a class="title" href="None">Bruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design</a>: The 5th graders are designing their own robots</p>
+<p id="Peck" class=""><a class="title" href="None">The Peck School</a> - <a class="title" href="None">Bruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design</a>: The 5th graders are designing their own robots</p>
 
 
 
