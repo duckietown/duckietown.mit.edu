@@ -121,6 +121,18 @@
   project_url: http://faculty.ucmerced.edu/scarpin
   institution_url: http://www.ucmerced.edu/
 
+- id: Lee
+  institution: Roeper School in Birmingham
+  title: Independent project 
+  tags: [independent]
+  desc: | 
+    Nathaniel Lee is a senior at the Roeper School in Birmingham, MI and is taking the Duckietown course as an independent study.
+  score: 4
+  year: 2016
+  project_url: 
+  institution_url: https://www.roeper.org/
+
+
 - id: projectm
   institution: Project M
   title: Follow the ducks to road safety

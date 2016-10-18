@@ -42,7 +42,9 @@ infoWindowContent.push(['<div class="info_content">' +
         '<h3>Elementary School' + ' Class'+ ': <a href="None">Bruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design</a> at <a href="http://www.peckschool.org/page">The Peck School</a> </h3>' +
         '<p>The 5th graders are designing their own robots</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
         '<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">Paper under review</a> at <a href="http://www.ucmerced.edu/">University of California, Merced</a> </h3>' +
-        '<p></p>' + '</div>']);var image = { 
+        '<p></p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
+        '<h3>Independent' + ': <a href="None">Independent project</a> at <a href="https://www.roeper.org/">Roeper School in Birmingham</a> </h3>' +
+        '<p>Nathaniel Lee is a senior at the Roeper School in Birmingham, MI and is taking the Duckietown course as an independent study.</p>' + '</div>']);var image = { 
             url: 'media/duckie2.png', 
             scaledSize: new google.maps.Size(20,20), 
             origin: new google.maps.Point(0, 0), 
@@ -236,6 +238,27 @@ infoWindowContent.push(['<div class="info_content">' +
                 infoWindow.open(map, marker);
             }
         })(marker, 8)); 
+          };};  
+            var request = { 
+               query: 'Roeper School in Birmingham' 
+            }; 
+         service.textSearch(request, callback9); 
+         function callback9(results, status) { 
+          if (status === google.maps.places.PlacesServiceStatus.OK) {
+            var position = results[0].geometry.location
+            var marker = new google.maps.Marker({ 
+              map: map, 
+              position: position,
+              icon: image, 
+              title: 'Roeper School in Birmingham \nIndependent project \n(Independent)' 
+            });
+            
+            google.maps.event.addListener(marker, 'click', (function(marker,i) {
+              return function() {
+                infoWindow.setContent(infoWindowContent[9][0]);
+                infoWindow.open(map, marker);
+            }
+        })(marker, 9)); 
           };}; 
       }
 
@@ -303,6 +326,16 @@ infoWindowContent.push(['<div class="info_content">' +
 
 
 <p id="Peck" class=""><a class="title" href="None">The Peck School</a> - <a class="title" href="None">Bruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design</a>: The 5th graders are designing their own robots</p>
+
+
+
+
+### Independent Study
+
+
+
+
+<p id="Lee" class=""><a class="title" href="None">Roeper School in Birmingham</a> - <a class="title" href="None">Independent project</a>: Nathaniel Lee is a senior at the Roeper School in Birmingham, MI and is taking the Duckietown course as an independent study.</p>
 
 
 

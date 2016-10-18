@@ -147,7 +147,7 @@ def generate_hover(d):
     s+="%s \\n" % institution
     s+="%s \\n" % title
     s+="(%s" % tag.title()
-    if tag != 'research':
+    if tag != 'research' and tag!= 'independent' :
         s+=" Class"
     s+=")"
     logger.info("institution: %s" % institution)
@@ -164,7 +164,7 @@ def generate_info_windows(outreach):
         tag=d.get('tags')[0]
         s+="""infoWindowContent.push(['<div class="info_content">' +
         '<h3>%s' """ % tag.title()
-        if tag != 'research':
+        if tag != 'research' and tag!= 'independent':
             s+= "+ ' Class'"
         s+="""+ ': <a href="%s">%s</a> at <a href="%s">%s</a> </h3>' +
         '<p>%s</p>' + '</div>']);""" % (d.get('project_url'), d.get('title'), d.get('institution_url'), d.get('institution'), d.get('desc').strip() )
@@ -212,6 +212,13 @@ def generate_html(outreach):
 
     print(generate_html_tag(outreach, ['elementary school']))
 
+    print("""
+
+### Independent Study
+
+""")
+
+    print(generate_html_tag(outreach, ['independent']))
 
 
     print("""
