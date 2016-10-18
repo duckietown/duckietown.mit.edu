@@ -9,6 +9,13 @@ import yaml
 logging.basicConfig()
 logger = logging.getLogger(__name__)
 
+###
+# TODO:
+# condition on existence of link urls in yaml so that links don't appear for "NONE"
+# format text better
+# addition of a picture for every entry?
+
+
 def read_file(fn):
     with open(fn) as f:
         return f.read()
@@ -135,24 +142,32 @@ def generate_hover(d):
     institution = d.get('institution')
     title = d.get('title')
     tags = d.get('tags')
-    tag = tags[0].title()
+    tag = tags[0]
     s=""
     s+="%s \\n" % institution
     s+="%s \\n" % title
-    s+="(%s class)" % tag
+    s+="(%s" % tag.title()
+    if tag != 'research':
+        s+=" Class"
+    s+=")"
     logger.info("institution: %s" % institution)
     return s
 
 def generate_info_windows(outreach):
+    
     s=""
     s+="""
     // Info Window Content
     var infoWindowContent = []
 """
     for d in outreach:
+        tag=d.get('tags')[0]
         s+="""infoWindowContent.push(['<div class="info_content">' +
-        '<h3>%s Class: <a href="%s">%s</a> at <a href="%s">%s</a> </h3>' +
-        '<p>%s</p>' + '</div>']);""" % ((d.get('tags')[0]).title(), d.get('project_url'), d.get('title'), d.get('institution_url'), d.get('institution'), d.get('desc').strip() )
+        '<h3>%s' """ % tag.title()
+        if tag != 'research':
+            s+= "+ ' Class'"
+        s+="""+ ': <a href="%s">%s</a> at <a href="%s">%s</a> </h3>' +
+        '<p>%s</p>' + '</div>']);""" % (d.get('project_url'), d.get('title'), d.get('institution_url'), d.get('institution'), d.get('desc').strip() )
     return s
 
 def generate_html(outreach):

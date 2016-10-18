@@ -25,21 +25,23 @@ var boston = {lat: 42.3601, lng: -71.0589};
     // Info Window Content
     var infoWindowContent = []
 infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Graduate Class: <a href="http://duckietown.mit.edu/">MIT 2.166</a> at <a href="http://web.mit.edu">Massachusetts Institute of Technology</a> </h3>' +
+        '<h3>Graduate' + ' Class'+ ': <a href="http://duckietown.mit.edu/">MIT 2.166</a> at <a href="http://web.mit.edu">Massachusetts Institute of Technology</a> </h3>' +
         '<p>The "Where it all started - the first class at was at MIT in 2016"</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Graduate Class: <a href="http://duckietown.nctu.edu.tw/">ICN9005 Robotic Vision</a> at <a href="http://www.nctu.edu.tw/en">National Chiao Tung University</a> </h3>' +
+        '<h3>Graduate' + ' Class'+ ': <a href="http://duckietown.nctu.edu.tw/">ICN9005 Robotic Vision</a> at <a href="http://www.nctu.edu.tw/en">National Chiao Tung University</a> </h3>' +
         '<p>The "first branch of Duckietown" was started in 2016 in NCTU led by Prof Nick Wang</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Undergraduate Class: <a href="http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers">Robotics Summer Workshop</a> at <a href="http://www.rutgers.edu/">Rutgers University</a> </h3>' +
+        '<h3>Undergraduate' + ' Class'+ ': <a href="http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers">Robotics Summer Workshop</a> at <a href="http://www.rutgers.edu/">Rutgers University</a> </h3>' +
         '<p><a href="https://www.youtube.com/watch?v=I4NudbNBUHI">There is No Gap Between Us and the Professors</a> How is the classroom environment different in China compared with the United States? Watch our video to see what students from South China University of Technology have to say after studying robotics and engineering at Rutgers this summer.</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Undergraduate Class: <a href="None">None</a> at <a href="http://www.tsinghua.edu.cn/publish/newthuen/">Tsinghua University</a> </h3>' +
+        '<h3>Undergraduate' + ' Class'+ ': <a href="None">Class under development</a> at <a href="http://www.tsinghua.edu.cn/publish/newthuen/">Tsinghua University</a> </h3>' +
         '<p>Class under development</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Undergraduate Class: <a href="None">None</a> at <a href="https://rpi.edu/">Rensselaer Polytechnic Institute</a> </h3>' +
+        '<h3>Undergraduate' + ' Class'+ ': <a href="None">Class under development</a> at <a href="https://www.cvut.cz/en">Czech Technical University in Prague</a> </h3>' +
+        '<p></p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
+        '<h3>Undergraduate' + ' Class'+ ': <a href="None">None</a> at <a href="https://rpi.edu/">Rensselaer Polytechnic Institute</a> </h3>' +
         '<p>Class under development</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>High School Class: <a href="None">Perlatecnica</a> at <a href="http://www.perlatecnica.it/">Via Napoli, 60</a> </h3>' +
-        '<p>Class underway led by Mr. Mauro D`Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Elementary School Class: <a href="None">Bruce Schwartz`s 5th grade class are building their own robots based on the Duckiebot design</a> at <a href="http://www.peckschool.org/page">The Peck School</a> </h3>' +
+        '<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">Perlatecnica</a> at <a href="http://www.isismarcianise.gov.it/">I.S.I.S marcianise</a> </h3>' +
+        '<p>Class underway led by Mr. Mauro D\x27Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
+        '<h3>Elementary School' + ' Class'+ ': <a href="None">Bruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design</a> at <a href="http://www.peckschool.org/page">The Peck School</a> </h3>' +
         '<p>The 5th graders are designing their own robots</p>' + '</div>']);infoWindowContent.push(['<div class="info_content">' +
-        '<h3>Research Class: <a href="http://faculty.ucmerced.edu/scarpin">Paper under review</a> at <a href="http://www.ucmerced.edu/">University of California, Merced</a> </h3>' +
+        '<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">Paper under review</a> at <a href="http://www.ucmerced.edu/">University of California, Merced</a> </h3>' +
         '<p></p>' + '</div>']);var image = { 
             url: 'media/duckie2.png', 
             scaledSize: new google.maps.Size(20,20), 
@@ -57,7 +59,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'Massachusetts Institute of Technology \nMIT 2.166 \n(Graduate class)' 
+              title: 'Massachusetts Institute of Technology \nMIT 2.166 \n(Graduate Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -78,7 +80,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'National Chiao Tung University \nICN9005 Robotic Vision \n(Graduate class)' 
+              title: 'National Chiao Tung University \nICN9005 Robotic Vision \n(Graduate Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -99,7 +101,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'Rutgers University \nRobotics Summer Workshop \n(Undergraduate class)' 
+              title: 'Rutgers University \nRobotics Summer Workshop \n(Undergraduate Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -120,7 +122,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'Tsinghua University \nNone \n(Undergraduate class)' 
+              title: 'Tsinghua University \nClass under development \n(Undergraduate Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -131,7 +133,7 @@ infoWindowContent.push(['<div class="info_content">' +
         })(marker, 3)); 
           };};  
             var request = { 
-               query: 'Rensselaer Polytechnic Institute' 
+               query: 'Czech Technical University in Prague' 
             }; 
          service.textSearch(request, callback4); 
          function callback4(results, status) { 
@@ -141,7 +143,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'Rensselaer Polytechnic Institute \nNone \n(Undergraduate class)' 
+              title: 'Czech Technical University in Prague \nClass under development \n(Undergraduate Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -152,7 +154,7 @@ infoWindowContent.push(['<div class="info_content">' +
         })(marker, 4)); 
           };};  
             var request = { 
-               query: 'Via Napoli, 60' 
+               query: 'Rensselaer Polytechnic Institute' 
             }; 
          service.textSearch(request, callback5); 
          function callback5(results, status) { 
@@ -162,7 +164,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'Via Napoli, 60 \nPerlatecnica \n(High School class)' 
+              title: 'Rensselaer Polytechnic Institute \nNone \n(Undergraduate Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -173,7 +175,7 @@ infoWindowContent.push(['<div class="info_content">' +
         })(marker, 5)); 
           };};  
             var request = { 
-               query: 'The Peck School' 
+               query: 'I.S.I.S marcianise' 
             }; 
          service.textSearch(request, callback6); 
          function callback6(results, status) { 
@@ -183,7 +185,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'The Peck School \nBruce Schwartz`s 5th grade class are building their own robots based on the Duckiebot design \n(Elementary School class)' 
+              title: 'I.S.I.S marcianise \nPerlatecnica \n(High School Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -194,7 +196,7 @@ infoWindowContent.push(['<div class="info_content">' +
         })(marker, 6)); 
           };};  
             var request = { 
-               query: 'University of California, Merced' 
+               query: 'The Peck School' 
             }; 
          service.textSearch(request, callback7); 
          function callback7(results, status) { 
@@ -204,7 +206,7 @@ infoWindowContent.push(['<div class="info_content">' +
               map: map, 
               position: position,
               icon: image, 
-              title: 'University of California, Merced \nPaper under review \n(Research class)' 
+              title: 'The Peck School \nBruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design \n(Elementary School Class)' 
             });
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
@@ -213,6 +215,27 @@ infoWindowContent.push(['<div class="info_content">' +
                 infoWindow.open(map, marker);
             }
         })(marker, 7)); 
+          };};  
+            var request = { 
+               query: 'University of California, Merced' 
+            }; 
+         service.textSearch(request, callback8); 
+         function callback8(results, status) { 
+          if (status === google.maps.places.PlacesServiceStatus.OK) {
+            var position = results[0].geometry.location
+            var marker = new google.maps.Marker({ 
+              map: map, 
+              position: position,
+              icon: image, 
+              title: 'University of California, Merced \nPaper under review \n(Research)' 
+            });
+            
+            google.maps.event.addListener(marker, 'click', (function(marker,i) {
+              return function() {
+                infoWindow.setContent(infoWindowContent[8][0]);
+                infoWindow.open(map, marker);
+            }
+        })(marker, 8)); 
           };}; 
       }
 
@@ -251,7 +274,11 @@ infoWindowContent.push(['<div class="info_content">' +
 
 
 
-<p id="Tsinghua" class="missing"><a class="title" href="None">Tsinghua University</a> - <a class="title" href="None">Missing title</a>: Class under development</p>
+<p id="Tsinghua" class=""><a class="title" href="None">Tsinghua University</a> - <a class="title" href="None">Class under development</a>: Class under development</p>
+
+
+
+<p id="CTU" class=""><a class="title" href="None">Czech Technical University in Prague</a> - <a class="title" href="None">Class under development</a>: <span class="missing">Missing description</span></p>
 
 
 
@@ -265,7 +292,7 @@ infoWindowContent.push(['<div class="info_content">' +
 
 
 
-<p id="Perlatecnica" class=""><a class="title" href="None">Via Napoli, 60</a> - <a class="title" href="None">Perlatecnica</a>: Class underway led by Mr. Mauro D`Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>
+<p id="Perlatecnica" class=""><a class="title" href="None">I.S.I.S marcianise</a> - <a class="title" href="http://www.perlatecnica.it/">Perlatecnica</a>: Class underway led by Mr. Mauro D\x27Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>
 
 
 
@@ -275,7 +302,7 @@ infoWindowContent.push(['<div class="info_content">' +
 
 
 
-<p id="Peck" class=""><a class="title" href="None">The Peck School</a> - <a class="title" href="None">Bruce Schwartz`s 5th grade class are building their own robots based on the Duckiebot design</a>: The 5th graders are designing their own robots</p>
+<p id="Peck" class=""><a class="title" href="None">The Peck School</a> - <a class="title" href="None">Bruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design</a>: The 5th graders are designing their own robots</p>
 
 
 

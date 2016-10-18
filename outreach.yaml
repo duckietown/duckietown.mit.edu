@@ -58,7 +58,7 @@
 
 - id: Tsinghua
   institution: Tsinghua University 
-  title: 
+  title: Class under development
   tags: [undergraduate]
   desc: | 
     Class under development
@@ -66,6 +66,17 @@
   year: 2016
   project_url: 
   institution_url: http://www.tsinghua.edu.cn/publish/newthuen/
+
+- id: CTU
+  institution: Czech Technical University in Prague
+  title: Class under development
+  tags: [undergraduate]
+  desc: | 
+  score: 4
+  year: 2016
+  project_url: 
+  institution_url: https://www.cvut.cz/en
+
 
 - id: RPI
   institution: Rensselaer Polytechnic Institute
@@ -79,19 +90,19 @@
   institution_url: https://rpi.edu/
 
 - id: Perlatecnica
-  institution: Via Napoli, 60
+  institution: I.S.I.S marcianise
   title: Perlatecnica
   tags: [high school]
   desc: | 
-    Class underway led by Mr. Mauro D`Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
+    Class underway led by Mr. Mauro D\x27Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
   score: 4
   year: 2016
-  project_url: 
-  institution_url: http://www.perlatecnica.it/
+  project_url: http://www.perlatecnica.it/
+  institution_url: http://www.isismarcianise.gov.it/
 
 - id: Peck
   institution: The Peck School
-  title: Bruce Schwartz`s 5th grade class are building their own robots based on the Duckiebot design
+  title: Bruce Schwartz\x27s 5th grade class are building their own robots based on the Duckiebot design
   tags: [elementary school]
   desc: | 
     The 5th graders are designing their own robots 
