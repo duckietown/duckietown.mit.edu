@@ -3,10 +3,11 @@ roster_html=roster.html.part
 
 documents=05_materials.md
 lectures=05_lectures.md
+outreach=08_outreach.md
 collected_pdfs=media/collected.pdf
 roster=06_staff.md
 
-all: $(lectures) $(documents) $(collected_pdfs)  $(roster)
+all: $(lectures) $(documents) $(collected_pdfs)  $(roster) $(outreach)
 
 
 serve:
@@ -20,6 +21,9 @@ $(roster_html):
 
 $(documents): documents.yaml 05_materials.begin
 	./generate_documents.py < $< > $@
+
+$(outreach): outreach.yaml 
+	./generate_outreach.py < $< > $@
 
 $(collected_pdfs): documents.yaml
 	./generate_pdf.py < $< > $@

@@ -1,26 +1,37 @@
 # Use this pattern:
 # - id: <identifier string with underscores>
-#   institution: <name of institution>
+#   institution: <name of institution> (NB: this should be searchable as a "place in google. To test put the string into the text box in maps.google.com and make sure the right place is the highest returned entry
 #   title: <title or article/class/etc>
-#   leader: prof or teacher leading the effort
 #   collaborators: [list] 
 #   tags: [list, of, tags]
 #   desc: |
 #     <Multiple line description of the project>
+#   score: 10
+#   year: 2016
 #   video_embed_link: [list of links]
 #   photo_embed_link: [list of links]
 #   project_url: <project url>
 #   institution_url: <institution_url>
-#   leader_url: <leader_url>
 #
 # Tags conventions:
 # - "research": a paper was written with duckietown
 # - "graduate": a graduate level class
 # - "undergraduate": an undergraduate class
-# - "high_school": a high school class
-# - "elementary": an elementary class
+# - "high school": a high school class
+# - "elementary school": an elementary class
 # - "independent": an independent learner
 # - "media": a media piece written about duckietown
+- id: MIT
+  institution: Massachusetts Institute of Technology
+  title: MIT 2.166
+  tags: [graduate]
+  desc: |
+    The "Where it all started - the first class at was at MIT in 2016"
+  score: 1000
+  year: 2016
+  project_url: http://duckietown.mit.edu/
+  institution_url: http://web.mit.edu
+
 
 - id: NCTU
   institution: National Chiao Tung University
@@ -28,16 +39,124 @@
   tags: [graduate]
   desc: |
     The "first branch of Duckietown" was started in 2016 in NCTU led by Prof Nick Wang
+  score: 5
+  year: 2016
   project_url: http://duckietown.nctu.edu.tw/
-  instituation_url: http://www.nctu.edu.tw/en
-  leader_url: http://web.it.nctu.edu.tw/~hchengwang/
+  institution_url: http://www.nctu.edu.tw/en
 
-- id: MIT
-  institution: Massachusetts Institute of Technology
-  title: MIT 2.166
-  tags: [graduate]
-  desc: |
-    The "Where it all started - the first class at was at MIT in 2016"
-  project_url: http://duckietown.nctu.edu.tw/
-  instituation_url: http://www.nctu.edu.tw/en
-  leader_url: http://web.it.nctu.edu.tw/~hchengwang/
+
+- id: Rutgers
+  institution: Rutgers University 
+  title: Robotics Summer Workshop
+  tags: [undergraduate]
+  desc: | 
+    <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">There is No Gap Between Us and the Professors</a> How is the classroom environment different in China compared with the United States? Watch our video to see what students from South China University of Technology have to say after studying robotics and engineering at Rutgers this summer.
+  score: 4
+  year: 2016
+  project_url: http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers
+  institution_url: http://www.rutgers.edu/
+
+- id: Tsinghua
+  institution: Tsinghua University 
+  title: 
+  tags: [undergraduate]
+  desc: | 
+    Class under development
+  score: 4
+  year: 2016
+  project_url: 
+  institution_url: http://www.tsinghua.edu.cn/publish/newthuen/
+
+- id: RPI
+  institution: Rensselaer Polytechnic Institute
+  title: 
+  tags: [undergraduate]
+  desc: | 
+    Class under development
+  score: 4
+  year: 2016
+  project_url: 
+  institution_url: https://rpi.edu/
+
+- id: Perlatecnica
+  institution: Via Napoli, 60
+  title: Perlatecnica
+  tags: [high school]
+  desc: | 
+    Class underway led by Mr. Mauro D`Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
+  score: 4
+  year: 2016
+  project_url: 
+  institution_url: http://www.perlatecnica.it/
+
+- id: Peck
+  institution: The Peck School
+  title: Bruce Schwartz`s 5th grade class are building their own robots based on the Duckiebot design
+  tags: [elementary school]
+  desc: | 
+    The 5th graders are designing their own robots 
+  score: 4
+  year: 2016
+  project_url: 
+  institution_url: http://www.peckschool.org/page
+
+- id: Carpin
+  institution: University of California, Merced
+  title: Paper under review
+  tags: [research]
+  desc: | 
+  score: 4
+  year: 2016
+  project_url: http://faculty.ucmerced.edu/scarpin
+  institution_url: http://www.ucmerced.edu/
+
+- id: projectm
+  institution: Project M
+  title: Follow the ducks to road safety
+  tags: [media]
+  desc: | 
+    Computer-supported driving is still in its infancy, but auto researchers are working hard to avoid accidents such as the fatal crash of a Tesla Model S. Some scientists are even playing with rubber ducks, but only in the interests of our safety
+  score: 4
+  year: 2016
+  project_url: http://projectm-online.com/risk/what-do-autonomous-cars-mean-for-the-future-mobility-of-the-elderly/
+  institution_url: 
+
+- id: boston.com
+  institution: www.boston.com
+  title: Why MITs Duckietown uses adorable rubber toys to research self-driving cars
+  tags: [media]
+  desc: | 
+  score: 4
+  year: 2016
+  project_url: http://www.boston.com/cars/news-and-reviews/2016/06/02/why-mits-duckietown-uses-adorable-rubber-toys-to-research-self-driving-cars
+  institution_url: http://www.boston.com
+
+- id: popsci
+  institution: Popular Science
+  title: MEET THE SELF-DRIVING RUBBER DUCKIE TAXIS OF DUCKIETOWN
+  tags: [media]
+  desc: | 
+  score: 4
+  year: 2016
+  project_url: http://www.popsci.com/meet-self-driving-rubber-duckie-taxis-duckietown
+  institution_url: http://www.popsci.com/
+
+- id: csail
+  institution: CSAIL
+  title: SELF-DRIVING CARS, MEET RUBBER DUCKIES
+  tags: [media]
+  desc: | 
+  score: 4
+  year: 2016
+  project_url: http://www.csail.mit.edu/Self_driving_cars_meet_rubber_duckies
+  institution_url: http://www.csail.mit.edu
+
+- id: quartz
+  institution: Quartz
+  title: A tiny town of rubber ducks is laying the groundwork for the next generation of self-driving cars
+  tags: [media]
+  desc: | 
+  score: 4
+  year: 2016
+  project_url: http://qz.com/672992/a-tiny-town-of-rubber-ducks-is-laying-the-groundwork-for-the-next-generation-of-self-driving-cars/
+  institution_url: http://qz.com
