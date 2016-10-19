@@ -26,12 +26,12 @@
   title: MIT 2.166
   tags: [graduate]
   desc: |
-    The "Where it all started - the first class at was at MIT in 2016"
+    Where it all started! The first Duckietown class was at MIT in 2016"
   score: 1000
   year: 2016
   project_url: http://duckietown.mit.edu/
   institution_url: http://web.mit.edu
-
+  active: True
 
 - id: NCTU
   institution: National Chiao Tung University
@@ -43,62 +43,64 @@
   year: 2016
   project_url: http://duckietown.nctu.edu.tw/
   institution_url: http://www.nctu.edu.tw/en
-
+  active: True
 
 - id: Rutgers
   institution: Rutgers University 
   title: Robotics Summer Workshop
   tags: [undergraduate]
   desc: | 
-    <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">There is No Gap Between Us and the Professors</a> How is the classroom environment different in China compared with the United States? Watch our video to see what students from South China University of Technology have to say after studying robotics and engineering at Rutgers this summer.
+    Prof Jingjin Yu at Rutgers led a summer workshop based on Duckietown. The focus was on comparing the differences in the classroom environment between China and the United States. Here is a  <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">video</a>.
   score: 4
   year: 2016
   project_url: http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers
   institution_url: http://www.rutgers.edu/
+  active: True
 
 - id: Tsinghua
   institution: Tsinghua University 
-  title: Class under development
+  title: 
   tags: [undergraduate]
   desc: | 
-    Class under development
   score: 4
   year: 2016
   project_url: 
   institution_url: http://www.tsinghua.edu.cn/publish/newthuen/
+  active: True
 
 - id: CTU
   institution: Czech Technical University in Prague
-  title: Class under development
+  title: 
   tags: [undergraduate]
   desc: | 
   score: 4
   year: 2016
   project_url: 
   institution_url: https://www.cvut.cz/en
-
+  active: True
 
 - id: RPI
   institution: Rensselaer Polytechnic Institute
   title: 
   tags: [undergraduate]
   desc: | 
-    Class under development
   score: 4
   year: 2016
   project_url: 
   institution_url: https://rpi.edu/
+  active: True
 
 - id: Perlatecnica
   institution: I.S.I.S marcianise
   title: Perlatecnica
   tags: [high school]
   desc: | 
-    Class underway led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
   score: 4
   year: 2016
   project_url: http://www.perlatecnica.it/
   institution_url: http://www.isismarcianise.gov.it/
+  active: False
 
 - id: Peck
   institution: The Peck School
@@ -110,6 +112,7 @@
   year: 2016
   project_url: 
   institution_url: http://www.peckschool.org/page
+  active: False
 
 - id: Carpin
   institution: University of California, Merced
@@ -120,6 +123,7 @@
   year: 2016
   project_url: http://faculty.ucmerced.edu/scarpin
   institution_url: http://www.ucmerced.edu/
+  active: False
 
 - id: Lee
   institution: Roeper School in Birmingham
@@ -131,7 +135,7 @@
   year: 2016
   project_url: 
   institution_url: https://www.roeper.org/
-
+  active: False  
 
 - id: projectm
   institution: Project M
@@ -142,7 +146,8 @@
   score: 4
   year: 2016
   project_url: http://projectm-online.com/risk/what-do-autonomous-cars-mean-for-the-future-mobility-of-the-elderly/
-  institution_url: 
+  institution_url: http://projectm-online.com/
+  active: True
 
 - id: boston.com
   institution: www.boston.com
@@ -153,6 +158,7 @@
   year: 2016
   project_url: http://www.boston.com/cars/news-and-reviews/2016/06/02/why-mits-duckietown-uses-adorable-rubber-toys-to-research-self-driving-cars
   institution_url: http://www.boston.com
+  active: True
 
 - id: popsci
   institution: Popular Science
@@ -163,6 +169,7 @@
   year: 2016
   project_url: http://www.popsci.com/meet-self-driving-rubber-duckie-taxis-duckietown
   institution_url: http://www.popsci.com/
+  active: True
 
 - id: csail
   institution: CSAIL
@@ -173,6 +180,7 @@
   year: 2016
   project_url: http://www.csail.mit.edu/Self_driving_cars_meet_rubber_duckies
   institution_url: http://www.csail.mit.edu
+  active: True
 
 - id: quartz
   institution: Quartz
@@ -183,3 +191,15 @@
   year: 2016
   project_url: http://qz.com/672992/a-tiny-town-of-rubber-ducks-is-laying-the-groundwork-for-the-next-generation-of-self-driving-cars/
   institution_url: http://qz.com
+  active: True
+
+- id: techtimes
+  institution: Tech Times
+  title: "Cruisin&apos; In Duckietown: MIT&apos;s Rubber Duckie Taxis Can Self-drive"
+  tags: [media]
+  desc: | 
+  score: 4
+  year: 2016
+  project_url: http://www.techtimes.com/articles/152328/20160421/cruisin-in-duckietown-mits-rubber-duckie-taxis-can-self-drive.htm
+  institution_url: http://www.techtimes.com
+  active: True

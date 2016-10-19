@@ -125,15 +125,17 @@ def generate_markers(outreach):
               position: position,
               icon: image, 
               title: '%s' 
-            });
+            }); """ % (i,i,generate_hover(d))
+        if (d.get('active')):
+            s+="""
             
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
                 infoWindow.setContent(infoWindowContent[%d][0]);
                 infoWindow.open(map, marker);
             }
-        })(marker, %d)); 
-          };}; """ % (i,i,generate_hover(d),i,i)
+        })(marker, %d));""" % (i,i) 
+        s+="};};" 
         i+=1
 
     return s
@@ -141,6 +143,8 @@ def generate_markers(outreach):
 def generate_hover(d):
     institution = d.get('institution')
     title = d.get('title')
+    if not title:
+        title= "Under Development"
     tags = d.get('tags')
     tag = tags[0]
     s=""
@@ -162,12 +166,32 @@ def generate_info_windows(outreach):
 """
     for d in outreach:
         tag=d.get('tags')[0]
-        s+="""infoWindowContent.push(['<div class="info_content">' +
-        '<h3>%s' """ % tag.title()
+        title = d.get('title')
+        if not title:
+            title = "Under Development"
+        info = """'<div class="info_content">'"""
+        info += """+'<h3>%s' """ % tag.title()
         if tag != 'research' and tag!= 'independent':
-            s+= "+ ' Class'"
-        s+="""+ ': <a href="%s">%s</a> at <a href="%s">%s</a> </h3>' +
-        '<p>%s</p>' + '</div>']);""" % (d.get('project_url'), d.get('title'), d.get('institution_url'), d.get('institution'), d.get('desc').strip() )
+            info+= "+ ' Class'"
+        institute_url = d.get('institution_url')
+        project_url = d.get('project_url')
+        if project_url:
+            info+="""+ ': <a href="%s">'""" % project_url  
+        info+="+ ' %s'" % title
+        if project_url:
+            info+="+'</a>'"
+        info+= "+' at '"
+        if institute_url:
+            info+="""+'<a href="%s">'""" % institute_url
+        info+="+'%s'" % d.get('institution')
+        if institute_url:
+            info+="+'</a>'" 
+        info+="+'</h3>'"
+        desc = d.get('desc')
+        if desc:
+            info+="""+'<p>%s</p>'""" % desc.strip()
+        info+="+'</div>'""" 
+        s+="""infoWindowContent.push([%s]);\n""" % info
     return s
 
 def generate_html(outreach):
@@ -180,62 +204,75 @@ def generate_html(outreach):
     
     """)
 
-    print("""
+    selected = select_from_tags(outreach,['graduate'])
+    if len(selected) != 0:
+                                
+        print("""
 
 ### Graduate
 
 """)
+        print(generate_html_tag(selected, ['graduate']))
 
-    print(generate_html_tag(outreach, ['graduate']))
-
-    print("""
+    selected = select_from_tags(outreach,['undergraduate'])
+    if len(selected) != 0:
+        print("""
 
 ### Undergraduate
 
 """)
 
-    print(generate_html_tag(outreach, ['undergraduate']))
+        print(generate_html_tag(selected, ['undergraduate']))
 
-    print("""
+    selected = select_from_tags(outreach,['high school'])
+    if len(selected) != 0:
+        print("""
 
 ### High School
 
 """)
 
-    print(generate_html_tag(outreach, ['high school']))
+        print(generate_html_tag(selected, ['high school']))
 
-    print("""
+    selected = select_from_tags(outreach,['elementary_school'])
+    if len(selected) != 0:
+        print("""
 
 ### Elementary School
 
 """)
 
-    print(generate_html_tag(outreach, ['elementary school']))
+        print(generate_html_tag(selected, ['elementary school']))
 
-    print("""
+    selected = select_from_tags(outreach,['independent'])
+    if len(selected) != 0:
+        print("""
 
 ### Independent Study
 
 """)
+        print(generate_html_tag(outreach, ['independent']))
 
-    print(generate_html_tag(outreach, ['independent']))
 
-
-    print("""
+    selected = select_from_tags(outreach,['research'])
+    if len(selected) !=0:
+        print("""
 
 ## Research
     
     """)
 
-    print(generate_html_tag(outreach, ['research']))
+        print(generate_html_tag(outreach, ['research']))
 
-    print("""
+    selected = select_from_tags(outreach,['media'])
+    if len(selected) !=0:
+        print("""
 
 ## Media Coverage
     
     """)
 
-    print(generate_html_tag(outreach, ['media']))
+        print(generate_html_tag(selected, ['media']))
 
     if False:
         print("""
@@ -248,44 +285,59 @@ def generate_html(outreach):
 
 
 
-def generate_html_tag(outreach, tags_to_include):
-    
+def select_from_tags(outreach, tags_to_include, require_active=True):
     def select(d):
         tags = d.get('tags', [])
         if tags is None:
             tags = []
+        sel = False
         if tags_to_include is None:
-            return len(tags) == 0
-        return any([_ in tags for _ in tags_to_include])
+            if (len(tags) == 0):
+                sel = True
+        else:
+            sel = any([_ in tags for _ in tags_to_include])
+        if require_active and not d.get('active'):
+            sel = False
+        return sel
+    return [d for d in outreach if select(d)]
+                    
+
+def generate_html_tag(selected, tags_to_include):
     
-    selected = [d for d in outreach if select(d)]
-    
+
     logger.info('tags_to_include %r: selected %d' % (tags_to_include, len(selected)))
     s = ""
     for d in selected:
         id_outreach = d.get('id')
         title = d.get('title', '')
+        if not title:
+            title = "Under development"
         institute = d.get('institution','')
         classes = []
         if not title:
-            title = 'Missing title'
-            classes.append('missing')
-
+            title = ''
         s += '\n\n'
         desc = d.get('desc', '')
         if not desc:
             desc = ''
-        if not desc:
-            desc = '<span class="missing">Missing description</span>'
-#             classes.append('missing')
         desc = desc.strip()
         desc = desc.replace('\n', ' ')
-        institute_url = d.get('institute_url')
-        s += """<p id="%s" class="%s"><a class="title" href="%s">%s</a> - """ % (id_outreach, " ".join(classes), institute_url, institute)
+        institute_url = d.get('institution_url')
+        s += """<p id="%s" class="%s"> """ % (id_outreach, " ".join(classes)) 
+        if institute_url:
+            s+= """<a class="title" href="%s">""" % institute_url
+        s+="%s" % institute
+        if institute_url:
+            s+="</a>"
+        s+=" - "
         project_url = d.get('project_url')
-        s += ('<a class="title" href="%s">%s</a>: ' %  (project_url, title))
-
-        s += desc
+        if project_url:
+            s+="""<a class="title" href="%s"> """ % project_url
+        s+= "%s" % title
+        if project_url:
+            s+="</a>"
+        if desc:
+            s += ": %s" % desc
         s += '</p>'
         s += '\n\n'
     return s
