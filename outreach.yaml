@@ -8,10 +8,9 @@
 #     <Multiple line description of the project>
 #   score: 10
 #   year: 2016
-#   video_embed_link: [list of links]
-#   photo_embed_link: [list of links]
 #   project_url: <project url>
 #   institution_url: <institution_url>
+#   active: True # should it be included in the list or just appear on the map
 #
 # Tags conventions:
 # - "research": a paper was written with duckietown
@@ -91,7 +90,7 @@
   active: True
 
 - id: Perlatecnica
-  institution: I.S.I.S marcianise
+  institution: I.S.I.S Marcianise
   title: Perlatecnica
   tags: [high school]
   desc: | 
@@ -101,6 +100,19 @@
   project_url: http://www.perlatecnica.it/
   institution_url: http://www.isismarcianise.gov.it/
   active: False
+
+- id: Liceo
+  institution: Liceo scientifico Gandhi Casoria
+  title: Perlatecnica
+  tags: [high school]
+  desc: | 
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url: http://www.liceogandhi.gov.it/
+  active: False
+
 
 - id: Peck
   institution: The Peck School

@@ -30,7 +30,8 @@ infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Cla
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="http://www.tsinghua.edu.cn/publish/newthuen/">'+'Tsinghua University'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://www.cvut.cz/en">'+'Czech Technical University in Prague'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://rpi.edu/">'+'Rensselaer Polytechnic Institute'+'</a>'+'</h3>'+'</div>']);
-infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'<a href="http://www.isismarcianise.gov.it/">'+'I.S.I.S marcianise'+'</a>'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'<a href="http://www.isismarcianise.gov.it/">'+'I.S.I.S Marcianise'+'</a>'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'<a href="http://www.liceogandhi.gov.it/">'+'Liceo scientifico Gandhi Casoria'+'</a>'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Elementary School' + ' Class'+ ' Bruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design'+' at '+'<a href="http://www.peckschool.org/page">'+'The Peck School'+'</a>'+'</h3>'+'<p>The 5th graders are designing their own robots</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">'+ ' Paper under review'+'</a>'+' at '+'<a href="http://www.ucmerced.edu/">'+'University of California, Merced'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Independent' + ' Independent project'+' at '+'<a href="https://www.roeper.org/">'+'Roeper School in Birmingham'+'</a>'+'</h3>'+'<p>Nathaniel Lee is a senior at the Roeper School in Birmingham, MI and is taking the Duckietown course as an independent study.</p>'+'</div>']);
@@ -161,7 +162,7 @@ var image = {
             }
         })(marker, 5));};}; 
             var request = { 
-               query: 'I.S.I.S marcianise' 
+               query: 'I.S.I.S Marcianise' 
             }; 
          service.textSearch(request, callback6); 
          function callback6(results, status) { 
@@ -171,13 +172,26 @@ var image = {
               map: map, 
               position: position,
               icon: image, 
-              title: 'I.S.I.S marcianise \nPerlatecnica \n(High School Class)' 
+              title: 'I.S.I.S Marcianise \nPerlatecnica \n(High School Class)' 
+            }); };}; 
+            var request = { 
+               query: 'Liceo scientifico Gandhi Casoria' 
+            }; 
+         service.textSearch(request, callback7); 
+         function callback7(results, status) { 
+          if (status === google.maps.places.PlacesServiceStatus.OK) {
+            var position = results[0].geometry.location
+            var marker = new google.maps.Marker({ 
+              map: map, 
+              position: position,
+              icon: image, 
+              title: 'Liceo scientifico Gandhi Casoria \nPerlatecnica \n(High School Class)' 
             }); };}; 
             var request = { 
                query: 'The Peck School' 
             }; 
-         service.textSearch(request, callback7); 
-         function callback7(results, status) { 
+         service.textSearch(request, callback8); 
+         function callback8(results, status) { 
           if (status === google.maps.places.PlacesServiceStatus.OK) {
             var position = results[0].geometry.location
             var marker = new google.maps.Marker({ 
@@ -189,8 +203,8 @@ var image = {
             var request = { 
                query: 'University of California, Merced' 
             }; 
-         service.textSearch(request, callback8); 
-         function callback8(results, status) { 
+         service.textSearch(request, callback9); 
+         function callback9(results, status) { 
           if (status === google.maps.places.PlacesServiceStatus.OK) {
             var position = results[0].geometry.location
             var marker = new google.maps.Marker({ 
@@ -202,8 +216,8 @@ var image = {
             var request = { 
                query: 'Roeper School in Birmingham' 
             }; 
-         service.textSearch(request, callback9); 
-         function callback9(results, status) { 
+         service.textSearch(request, callback10); 
+         function callback10(results, status) { 
           if (status === google.maps.places.PlacesServiceStatus.OK) {
             var position = results[0].geometry.location
             var marker = new google.maps.Marker({ 
