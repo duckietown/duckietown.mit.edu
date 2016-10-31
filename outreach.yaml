@@ -32,6 +32,7 @@
   institution_url: http://web.mit.edu
   active: True
 
+
 - id: NCTU
   institution: National Chiao Tung University
   title: ICN9005 Robotic Vision
@@ -49,7 +50,7 @@
   title: Robotics Summer Workshop
   tags: [undergraduate]
   desc: | 
-    Prof Jingjin Yu at Rutgers led a summer workshop based on Duckietown. The focus was on comparing the differences in the classroom environment between China and the United States. Here is a  <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">video</a>.
+    Prof. Jingjin Yu and Prof. Qingze Zou at Rutgers led a summer workshop based on Duckietown. The focus was on comparing the differences in the classroom environment between China and the United States. Here is a  <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">video</a>.
   score: 4
   year: 2016
   project_url: http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers
