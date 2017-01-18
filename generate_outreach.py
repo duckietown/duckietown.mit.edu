@@ -11,7 +11,6 @@ logger = logging.getLogger(__name__)
 
 ###
 # TODO:
-# condition on existence of link urls in yaml so that links don't appear for "NONE"
 # format text better
 # addition of a picture for every entry?
 
@@ -66,7 +65,7 @@ permalink: outreach.html
 """)
 
     outreach_no_media = [d for d in outreach if d.get('tags',[])[0] != 'media']
-    logger.info('outreach_no_media: %r' % outreach_no_media)
+    #logger.info('outreach_no_media: %r' % outreach_no_media)
     print(generate_map(outreach_no_media))
 	
 def generate_map(outreach):
@@ -109,34 +108,27 @@ def generate_markers(outreach):
             anchor: new google.maps.Point(0, 20) 
   };"""
     i=0
+
     for d in outreach:
-        institution = d.get('institution')
-        s+= """ 
-            var request = { 
-               query: '%s' 
-            }; """ % (institution)
+        lat = d.get('lat')
+        lon = d.get('lon')
         s+= """
-         service.textSearch(request, callback%d); 
-         function callback%d(results, status) { 
-          if (status === google.maps.places.PlacesServiceStatus.OK) {
-            var position = results[0].geometry.location
-            var marker = new google.maps.Marker({ 
-              map: map, 
-              position: position,
-              icon: image, 
-              title: '%s' 
-            }); """ % (i,i,generate_hover(d))
+        marker = new google.maps.Marker({
+         position: new google.maps.LatLng(%.9f,%.9f),
+         map: map,
+         icon: image,
+         title: '%s'
+        }); """ % (lat,lon,generate_hover(d))
         if (d.get('active')):
             s+="""
-            
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
                 infoWindow.setContent(infoWindowContent[%d][0]);
                 infoWindow.open(map, marker);
             }
-        })(marker, %d));""" % (i,i) 
-        s+="};};" 
+        })(marker, %d));""" % (i,i)
         i+=1
+        
 
     return s
         
