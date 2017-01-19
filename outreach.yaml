@@ -172,6 +172,21 @@
   institution_url: http://www.isismarcianise.gov.it/
   active: False
 
+- id: Baronissi
+  institution: Istituto d'istruzione superiore Baronissi
+  title: Perlatecnica
+  lat: 40.7367067
+  lon: 14.7638728
+  tags: [high school]
+  desc: | 
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>. 
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url: 
+  active: False
+
+
 - id: ITI_dalla_chiesa_afragola
   institution:  ITI Dalla Chiesa Afragola - Via Sicilia 60 80021 Afragola
   title: Perlatecnica
