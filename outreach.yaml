@@ -91,6 +91,35 @@
   institution_url: https://www.cvut.cz/en
   active: True
 
+- id: RPI
+  institution: Rensselaer Polytechnic Institute
+  title: 
+  tags: [undergraduate]
+  desc: |
+    The Duckietown platform was used by students in Prof. John Wen&apos;s undergraduate class. Here is a <a href="https://www.youtube.com/playlist?list=PL3qku09D5UsDIiNOpI6NKZgdSNQlhaMKm">video</a> of some of their results.   
+  lat: 42.7301779
+  lon: -73.678931
+  score: 4
+  year: 2016
+  project_url: 
+  institution_url: https://rpi.edu/
+  active: True
+
+
+- id: Utrecht
+  institution: Permanent Future Lab Utrecht
+  title: 
+  tags: [undergraduate]
+  desc: | 
+  score: 4
+  lat: 52.0891353
+  lon: 5.1132371
+  year: 2017
+  project_url: 
+  institution_url: https://permanentfuturelab.wiki/wiki/Seats2meet.com_Utrecht_CS
+  active: True
+
+
 - id: TTIC
   institution: Toyota Technological Institute at Chicago
   title: Matthew Walter&apos;s graduate class at TTIC
@@ -130,19 +159,6 @@
   institution_url: https://www.u-picardie.fr/
   active: True
 
-
-- id: RPI
-  institution: Rensselaer Polytechnic Institute
-  title: 
-  tags: [undergraduate]
-  desc: | 
-  lat: 42.7301779
-  lon: -73.678931
-  score: 4
-  year: 2016
-  project_url: 
-  institution_url: https://rpi.edu/
-  active: True
 
 - id: Carpin
   institution: University of California, Merced

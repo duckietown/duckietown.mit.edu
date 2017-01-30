@@ -29,10 +29,11 @@ infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ 
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ': <a href="http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers">'+ ' Robotics Summer Workshop'+'</a>'+' at '+'<a href="http://www.rutgers.edu/">'+'Rutgers University'+'</a>'+'</h3>'+'<p>Prof. Jingjin Yu and Prof. Qingze Zou at Rutgers led a summer workshop based on Duckietown. The focus was on comparing the differences in the classroom environment between China and the United States. Here is a  <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">video</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="http://www.tsinghua.edu.cn/publish/newthuen/">'+'Tsinghua University'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://www.cvut.cz/en">'+'Czech Technical University in Prague'+'</a>'+'</h3>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://rpi.edu/">'+'Rensselaer Polytechnic Institute'+'</a>'+'</h3>'+'<p>The Duckietown platform was used by students in Prof. John Wen&apos;s undergraduate class. Here is a <a href="https://www.youtube.com/playlist?list=PL3qku09D5UsDIiNOpI6NKZgdSNQlhaMKm">video</a> of some of their results.</p>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://permanentfuturelab.wiki/wiki/Seats2meet.com_Utrecht_CS">'+'Permanent Future Lab Utrecht'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Matthew Walter&apos;s graduate class at TTIC'+' at '+'<a href="http://www.ttic.edu/">'+'Toyota Technological Institute at Chicago'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Frazzoli and Censi&apos;s graduate class at ETH Zurich'+' at '+'<a href="https://www.ethz.ch">'+'ETH Zurich'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://www.u-picardie.fr/">'+'University of Picardie Jules Verne'+'</a>'+'</h3>'+'</div>']);
-infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://rpi.edu/">'+'Rensselaer Polytechnic Institute'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">'+ ' Under Development'+'</a>'+' at '+'<a href="http://www.ucmerced.edu/">'+'University of California, Merced'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'<a href="http://www.isismarcianise.gov.it/">'+'I.S.I.S Marcianise'+'</a>'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'Istituto d&apos;istruzione superiore Baronissi'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
@@ -114,10 +115,10 @@ var image = {
             }
         })(marker, 4));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(41.784751700,-87.592717900),
+         position: new google.maps.LatLng(42.730177900,-73.678931000),
          map: map,
          icon: image,
-         title: 'Toyota Technological Institute at Chicago \nMatthew Walter&apos;s graduate class at TTIC \n(Graduate Class)'
+         title: 'Rensselaer Polytechnic Institute \nUnder Development \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -126,10 +127,10 @@ var image = {
             }
         })(marker, 5));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(47.376366100,8.547531400),
+         position: new google.maps.LatLng(52.089135300,5.113237100),
          map: map,
          icon: image,
-         title: 'ETH Zurich \nFrazzoli and Censi&apos;s graduate class at ETH Zurich \n(Graduate Class)'
+         title: 'Permanent Future Lab Utrecht \nUnder Development \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -138,10 +139,10 @@ var image = {
             }
         })(marker, 6));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(49.876401400,2.263670600),
+         position: new google.maps.LatLng(41.784751700,-87.592717900),
          map: map,
          icon: image,
-         title: 'University of Picardie Jules Verne \nUnder Development \n(Graduate Class)'
+         title: 'Toyota Technological Institute at Chicago \nMatthew Walter&apos;s graduate class at TTIC \n(Graduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -150,10 +151,10 @@ var image = {
             }
         })(marker, 7));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(42.730177900,-73.678931000),
+         position: new google.maps.LatLng(47.376366100,8.547531400),
          map: map,
          icon: image,
-         title: 'Rensselaer Polytechnic Institute \nUnder Development \n(Undergraduate Class)'
+         title: 'ETH Zurich \nFrazzoli and Censi&apos;s graduate class at ETH Zurich \n(Graduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -161,6 +162,18 @@ var image = {
                 infoWindow.open(map, marker);
             }
         })(marker, 8));
+        marker = new google.maps.Marker({
+         position: new google.maps.LatLng(49.876401400,2.263670600),
+         map: map,
+         icon: image,
+         title: 'University of Picardie Jules Verne \nUnder Development \n(Graduate Class)'
+        }); 
+            google.maps.event.addListener(marker, 'click', (function(marker,i) {
+              return function() {
+                infoWindow.setContent(infoWindowContent[9][0]);
+                infoWindow.open(map, marker);
+            }
+        })(marker, 9));
         marker = new google.maps.Marker({
          position: new google.maps.LatLng(37.364073300,-120.430203000),
          map: map,
@@ -302,7 +315,11 @@ var image = {
 
 
 
-<p id="RPI" class=""> <a class="title" href="https://rpi.edu/">Rensselaer Polytechnic Institute</a> - Under development</p>
+<p id="RPI" class=""> <a class="title" href="https://rpi.edu/">Rensselaer Polytechnic Institute</a> - Under development: The Duckietown platform was used by students in Prof. John Wen&apos;s undergraduate class. Here is a <a href="https://www.youtube.com/playlist?list=PL3qku09D5UsDIiNOpI6NKZgdSNQlhaMKm">video</a> of some of their results.</p>
+
+
+
+<p id="Utrecht" class=""> <a class="title" href="https://permanentfuturelab.wiki/wiki/Seats2meet.com_Utrecht_CS">Permanent Future Lab Utrecht</a> - Under development</p>
 
 
 
