@@ -35,7 +35,8 @@ infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ 
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Frazzoli and Censi&apos;s graduate class at ETH Zurich'+' at '+'<a href="https://www.ethz.ch">'+'ETH Zurich'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://www.u-picardie.fr/">'+'University of Picardie Jules Verne'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">'+ ' Under Development'+'</a>'+' at '+'<a href="http://www.ucmerced.edu/">'+'University of California, Merced'+'</a>'+'</h3>'+'</div>']);
-infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'<a href="http://www.isismarcianise.gov.it/">'+'I.S.I.S Marcianise'+'</a>'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'<a href="http://www.isismarcianise.gov.it/">'+'ISIS Ferraris-Buccini Marcianise'+'</a>'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'ITI E.Fermi Via Merine, 5, 73100 Lecce LE'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'Istituto d&apos;istruzione superiore Baronissi'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'Associazione Dambros'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'ITI Dalla Chiesa Afragola - Via Sicilia 60 80021 Afragola'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
@@ -184,7 +185,13 @@ var image = {
          position: new google.maps.LatLng(41.029723100,14.262962800),
          map: map,
          icon: image,
-         title: 'I.S.I.S Marcianise \nPerlatecnica \n(High School Class)'
+         title: 'ISIS Ferraris-Buccini Marcianise \nPerlatecnica \n(High School Class)'
+        }); 
+        marker = new google.maps.Marker({
+         position: new google.maps.LatLng(40.347443900,18.185861000),
+         map: map,
+         icon: image,
+         title: 'ITI E.Fermi Via Merine, 5, 73100 Lecce LE \nPerlatecnica \n(High School Class)'
         }); 
         marker = new google.maps.Marker({
          position: new google.maps.LatLng(40.736706700,14.763872800),
