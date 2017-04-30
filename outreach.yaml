@@ -78,6 +78,20 @@
   institution_url: http://www.tsinghua.edu.cn/publish/newthuen/
   active: True
 
+- id: Chile
+  institution: Universiy of Chile 
+  title: Facultad de Ciencias Fisicas Y Matematicas
+  tags: [undergraduate]
+  desc: | 
+  lat: -33.4445765
+  lon: -70.6514703
+  score: 4
+  year: 2017
+  project_url: https://www.facebook.com/duckietowncl/
+  institution_url: http://www.uchile.cl/
+  active: True
+
+
 - id: CTU
   institution: Czech Technical University in Prague
   title: 
