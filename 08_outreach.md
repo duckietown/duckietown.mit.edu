@@ -28,7 +28,7 @@ infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ 
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ': <a href="http://duckietown.nctu.edu.tw/">'+ ' ICN9005 Robotic Vision'+'</a>'+' at '+'<a href="http://www.nctu.edu.tw/en">'+'National Chiao Tung University'+'</a>'+'</h3>'+'<p>The "first branch of Duckietown" was started in 2016 in NCTU led by Prof Nick Wang</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ': <a href="http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers">'+ ' Robotics Summer Workshop'+'</a>'+' at '+'<a href="http://www.rutgers.edu/">'+'Rutgers University'+'</a>'+'</h3>'+'<p>Prof. Jingjin Yu and Prof. Qingze Zou at Rutgers led a summer workshop based on Duckietown. The focus was on comparing the differences in the classroom environment between China and the United States. Here is a  <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">video</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="http://www.tsinghua.edu.cn/publish/newthuen/">'+'Tsinghua University'+'</a>'+'</h3>'+'</div>']);
-infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ': <a href="https://www.facebook.com/duckietowncl/">'+ ' Facultad de Ciencias Fisicas Y Matematicas'+'</a>'+' at '+'<a href="http://www.uchile.cl/">'+'Universiy of Chile'+'</a>'+'</h3>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ': <a href="https://www.facebook.com/duckietowncl/">'+ ' Facultad de Ciencias Fisicas Y Matematicas'+'</a>'+' at '+'<a href="http://www.uchile.cl/">'+'University of Chile'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://www.cvut.cz/en">'+'Czech Technical University in Prague'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://rpi.edu/">'+'Rensselaer Polytechnic Institute'+'</a>'+'</h3>'+'<p>The Duckietown platform was used by students in Prof. John Wen&apos;s undergraduate class. Here is a <a href="https://www.youtube.com/playlist?list=PL3qku09D5UsDIiNOpI6NKZgdSNQlhaMKm">video</a> of some of their results.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://permanentfuturelab.wiki/wiki/Seats2meet.com_Utrecht_CS">'+'Permanent Future Lab Utrecht'+'</a>'+'</h3>'+'</div>']);
@@ -108,7 +108,7 @@ var image = {
          position: new google.maps.LatLng(-33.444576500,-70.651470300),
          map: map,
          icon: image,
-         title: 'Universiy of Chile \nFacultad de Ciencias Fisicas Y Matematicas \n(Undergraduate Class)'
+         title: 'University of Chile \nFacultad de Ciencias Fisicas Y Matematicas \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -331,7 +331,7 @@ var image = {
 
 
 
-<p id="Chile" class=""> <a class="title" href="http://www.uchile.cl/">Universiy of Chile</a> - <a class="title" href="https://www.facebook.com/duckietowncl/"> Facultad de Ciencias Fisicas Y Matematicas</a></p>
+<p id="Chile" class=""> <a class="title" href="http://www.uchile.cl/">University of Chile</a> - <a class="title" href="https://www.facebook.com/duckietowncl/"> Facultad de Ciencias Fisicas Y Matematicas</a></p>
 
 
 
