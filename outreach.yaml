@@ -50,6 +50,21 @@
   institution_url: http://www.nctu.edu.tw/en
   active: True
 
+- id: jet-brains
+  institution: JetBrains Research 
+  placeid: 
+  lat: 59.980699
+  lon: 30.324098
+  title: Independent study led by Kirill Krinkin 
+  tags: [independent]
+  desc: 
+  score: 5
+  year: 2016
+  project_url: 
+  institution_url: https://research.jetbrains.org/groups/robolab
+  active: False
+
+
 - id: Rutgers
   institution: Rutgers University 
   placeid: ChIJvwa-GFXGw4kRSK96kWYgtFE
@@ -146,6 +161,21 @@
   project_url: 
   institution_url: http://www.ttic.edu/
   active: True
+
+
+- id: UdM
+  institution: Universite de Montreal
+  title: Graduate class taught by Paull at U de M
+  tags: [graduate]
+  desc: | 
+  lat: 45.5059042
+  lon: -73.6137935
+  score: 4
+  year: 2017
+  project_url: 
+  institution_url: http://www.umontreal.ca/en/
+  active: True
+
 
 - id: ETHZ
   institution: ETH Zurich
@@ -387,7 +417,7 @@
   year: 2016
   project_url: 
   institution_url: https://www.roeper.org/
-  active: False  
+  active: False
 
 - id: projectm
   institution: Project M

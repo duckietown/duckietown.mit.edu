@@ -22,7 +22,7 @@ $(roster_html):
 $(documents): documents.yaml 05_materials.begin
 	./generate_documents.py < $< > $@
 
-$(outreach): outreach.yaml 
+$(outreach): outreach.yaml generate_outreach.py
 	./generate_outreach.py < $< > $@
 
 $(collected_pdfs): documents.yaml

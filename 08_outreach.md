@@ -26,6 +26,7 @@ var boston = {lat: 42.3601, lng: -71.0589};
     var infoWindowContent = []
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ': <a href="http://duckietown.mit.edu/">'+ ' MIT 2.166'+'</a>'+' at '+'<a href="http://web.mit.edu">'+'Massachusetts Institute of Technology'+'</a>'+'</h3>'+'<p>Where it all started! The first Duckietown class was at MIT in 2016</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ': <a href="http://duckietown.nctu.edu.tw/">'+ ' ICN9005 Robotic Vision'+'</a>'+' at '+'<a href="http://www.nctu.edu.tw/en">'+'National Chiao Tung University'+'</a>'+'</h3>'+'<p>The "first branch of Duckietown" was started in 2016 in NCTU led by Prof Nick Wang</p>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>Independent' + ' Independent study led by Kirill Krinkin'+' at '+'<a href="https://research.jetbrains.org/groups/robolab">'+'JetBrains Research'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ': <a href="http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers">'+ ' Robotics Summer Workshop'+'</a>'+' at '+'<a href="http://www.rutgers.edu/">'+'Rutgers University'+'</a>'+'</h3>'+'<p>Prof. Jingjin Yu and Prof. Qingze Zou at Rutgers led a summer workshop based on Duckietown. The focus was on comparing the differences in the classroom environment between China and the United States. Here is a  <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">video</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="http://www.tsinghua.edu.cn/publish/newthuen/">'+'Tsinghua University'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ': <a href="https://www.facebook.com/duckietowncl/">'+ ' Facultad de Ciencias Fisicas Y Matematicas'+'</a>'+' at '+'<a href="http://www.uchile.cl/">'+'University of Chile'+'</a>'+'</h3>'+'</div>']);
@@ -33,6 +34,7 @@ infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Cla
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://rpi.edu/">'+'Rensselaer Polytechnic Institute'+'</a>'+'</h3>'+'<p>The Duckietown platform was used by students in Prof. John Wen&apos;s undergraduate class. Here is a <a href="https://www.youtube.com/playlist?list=PL3qku09D5UsDIiNOpI6NKZgdSNQlhaMKm">video</a> of some of their results.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Undergraduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://permanentfuturelab.wiki/wiki/Seats2meet.com_Utrecht_CS">'+'Permanent Future Lab Utrecht'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Matthew Walter&apos;s graduate class at TTIC'+' at '+'<a href="http://www.ttic.edu/">'+'Toyota Technological Institute at Chicago'+'</a>'+'</h3>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Graduate class taught by Paull at U de M'+' at '+'<a href="http://www.umontreal.ca/en/">'+'Universite de Montreal'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Frazzoli and Censi&apos;s graduate class at ETH Zurich'+' at '+'<a href="https://www.ethz.ch">'+'ETH Zurich'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://www.u-picardie.fr/">'+'University of Picardie Jules Verne'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">'+ ' Under Development'+'</a>'+' at '+'<a href="http://www.ucmerced.edu/">'+'University of California, Merced'+'</a>'+'</h3>'+'</div>']);
@@ -81,22 +83,16 @@ var image = {
             }
         })(marker, 1));
         marker = new google.maps.Marker({
+         position: new google.maps.LatLng(59.980699000,30.324098000),
+         map: map,
+         icon: image,
+         title: 'JetBrains Research \nIndependent study led by Kirill Krinkin \n(Independent)'
+        }); 
+        marker = new google.maps.Marker({
          position: new google.maps.LatLng(40.498251400,-74.446930900),
          map: map,
          icon: image,
          title: 'Rutgers University \nRobotics Summer Workshop \n(Undergraduate Class)'
-        }); 
-            google.maps.event.addListener(marker, 'click', (function(marker,i) {
-              return function() {
-                infoWindow.setContent(infoWindowContent[2][0]);
-                infoWindow.open(map, marker);
-            }
-        })(marker, 2));
-        marker = new google.maps.Marker({
-         position: new google.maps.LatLng(39.999717200,116.326314100),
-         map: map,
-         icon: image,
-         title: 'Tsinghua University \nUnder Development \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -105,10 +101,10 @@ var image = {
             }
         })(marker, 3));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(-33.444576500,-70.651470300),
+         position: new google.maps.LatLng(39.999717200,116.326314100),
          map: map,
          icon: image,
-         title: 'University of Chile \nFacultad de Ciencias Fisicas Y Matematicas \n(Undergraduate Class)'
+         title: 'Tsinghua University \nUnder Development \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -117,10 +113,10 @@ var image = {
             }
         })(marker, 4));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(50.103035900,14.391149700),
+         position: new google.maps.LatLng(-33.444576500,-70.651470300),
          map: map,
          icon: image,
-         title: 'Czech Technical University in Prague \nUnder Development \n(Undergraduate Class)'
+         title: 'University of Chile \nFacultad de Ciencias Fisicas Y Matematicas \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -129,10 +125,10 @@ var image = {
             }
         })(marker, 5));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(42.730177900,-73.678931000),
+         position: new google.maps.LatLng(50.103035900,14.391149700),
          map: map,
          icon: image,
-         title: 'Rensselaer Polytechnic Institute \nUnder Development \n(Undergraduate Class)'
+         title: 'Czech Technical University in Prague \nUnder Development \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -141,10 +137,10 @@ var image = {
             }
         })(marker, 6));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(52.089135300,5.113237100),
+         position: new google.maps.LatLng(42.730177900,-73.678931000),
          map: map,
          icon: image,
-         title: 'Permanent Future Lab Utrecht \nUnder Development \n(Undergraduate Class)'
+         title: 'Rensselaer Polytechnic Institute \nUnder Development \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -153,10 +149,10 @@ var image = {
             }
         })(marker, 7));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(41.784751700,-87.592717900),
+         position: new google.maps.LatLng(52.089135300,5.113237100),
          map: map,
          icon: image,
-         title: 'Toyota Technological Institute at Chicago \nMatthew Walter&apos;s graduate class at TTIC \n(Graduate Class)'
+         title: 'Permanent Future Lab Utrecht \nUnder Development \n(Undergraduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -165,10 +161,10 @@ var image = {
             }
         })(marker, 8));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(47.376366100,8.547531400),
+         position: new google.maps.LatLng(41.784751700,-87.592717900),
          map: map,
          icon: image,
-         title: 'ETH Zurich \nFrazzoli and Censi&apos;s graduate class at ETH Zurich \n(Graduate Class)'
+         title: 'Toyota Technological Institute at Chicago \nMatthew Walter&apos;s graduate class at TTIC \n(Graduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -177,10 +173,10 @@ var image = {
             }
         })(marker, 9));
         marker = new google.maps.Marker({
-         position: new google.maps.LatLng(49.876401400,2.263670600),
+         position: new google.maps.LatLng(45.505904200,-73.613793500),
          map: map,
          icon: image,
-         title: 'University of Picardie Jules Verne \nUnder Development \n(Graduate Class)'
+         title: 'Universite de Montreal \nGraduate class taught by Paull at U de M \n(Graduate Class)'
         }); 
             google.maps.event.addListener(marker, 'click', (function(marker,i) {
               return function() {
@@ -188,6 +184,30 @@ var image = {
                 infoWindow.open(map, marker);
             }
         })(marker, 10));
+        marker = new google.maps.Marker({
+         position: new google.maps.LatLng(47.376366100,8.547531400),
+         map: map,
+         icon: image,
+         title: 'ETH Zurich \nFrazzoli and Censi&apos;s graduate class at ETH Zurich \n(Graduate Class)'
+        }); 
+            google.maps.event.addListener(marker, 'click', (function(marker,i) {
+              return function() {
+                infoWindow.setContent(infoWindowContent[11][0]);
+                infoWindow.open(map, marker);
+            }
+        })(marker, 11));
+        marker = new google.maps.Marker({
+         position: new google.maps.LatLng(49.876401400,2.263670600),
+         map: map,
+         icon: image,
+         title: 'University of Picardie Jules Verne \nUnder Development \n(Graduate Class)'
+        }); 
+            google.maps.event.addListener(marker, 'click', (function(marker,i) {
+              return function() {
+                infoWindow.setContent(infoWindowContent[12][0]);
+                infoWindow.open(map, marker);
+            }
+        })(marker, 12));
         marker = new google.maps.Marker({
          position: new google.maps.LatLng(37.364073300,-120.430203000),
          map: map,
@@ -306,6 +326,10 @@ var image = {
 
 
 <p id="TTIC" class=""> <a class="title" href="http://www.ttic.edu/">Toyota Technological Institute at Chicago</a> - Matthew Walter&apos;s graduate class at TTIC</p>
+
+
+
+<p id="UdM" class=""> <a class="title" href="http://www.umontreal.ca/en/">Universite de Montreal</a> - Graduate class taught by Paull at U de M</p>
 
 
 

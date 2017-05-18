@@ -226,7 +226,7 @@ def generate_html(outreach):
 
         print(generate_html_tag(selected, ['high school']))
 
-    selected = select_from_tags(outreach,['elementary_school'])
+    selected = select_from_tags(outreach,['elementary school'])
     if len(selected) != 0:
         print("""
 
