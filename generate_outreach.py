@@ -243,7 +243,7 @@ def generate_html(outreach):
 ### Independent Study
 
 """)
-        print(generate_html_tag(outreach, ['independent']))
+        print(generate_html_tag(selected, ['independent']))
 
 
     selected = select_from_tags(outreach,['research'])
@@ -254,7 +254,7 @@ def generate_html(outreach):
     
     """)
 
-        print(generate_html_tag(outreach, ['research']))
+        print(generate_html_tag(selected, ['research']))
 
     selected = select_from_tags(outreach,['media'])
     if len(selected) !=0:
@@ -278,7 +278,7 @@ def generate_html(outreach):
 
 
 def select_from_tags(outreach, tags_to_include, require_active=True):
-    def select(d):
+    def select_elements(d):
         tags = d.get('tags', [])
         if tags is None:
             tags = []
@@ -291,7 +291,7 @@ def select_from_tags(outreach, tags_to_include, require_active=True):
         if require_active and not d.get('active'):
             sel = False
         return sel
-    return [d for d in outreach if select(d)]
+    return [d for d in outreach if select_elements(d)]
                     
 
 def generate_html_tag(selected, tags_to_include):

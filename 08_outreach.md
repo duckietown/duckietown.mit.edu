@@ -88,6 +88,12 @@ var image = {
          icon: image,
          title: 'JetBrains Research \nIndependent study led by Kirill Krinkin \n(Independent)'
         }); 
+            google.maps.event.addListener(marker, 'click', (function(marker,i) {
+              return function() {
+                infoWindow.setContent(infoWindowContent[2][0]);
+                infoWindow.open(map, marker);
+            }
+        })(marker, 2));
         marker = new google.maps.Marker({
          position: new google.maps.LatLng(40.498251400,-74.446930900),
          map: map,
@@ -368,6 +374,16 @@ var image = {
 
 
 <p id="Utrecht" class=""> <a class="title" href="https://permanentfuturelab.wiki/wiki/Seats2meet.com_Utrecht_CS">Permanent Future Lab Utrecht</a> - Under development</p>
+
+
+
+
+### Independent Study
+
+
+
+
+<p id="jetbrains" class=""> <a class="title" href="https://research.jetbrains.org/groups/robolab">JetBrains Research</a> - Independent study led by Kirill Krinkin</p>
 
 
 
