@@ -4,7 +4,7 @@ Dynamic regeneration based on YAML files
 
 Linux:
 
-	sudo apt-get install python-dateutil 
+	sudo apt-get install python-dateutil
 	sudo apt-get install pdftk
 
 OS X:
@@ -14,7 +14,7 @@ OS X:
 	install pdftk manually
 
 Both:
-	sudo pip install SystemCmd==1.3 
+	sudo pip install SystemCmd==1.3
 	sudo pip install PyContracts
 
 
@@ -39,7 +39,15 @@ Install:
 
 Exec:
 
-	bundle exec jekyll serve --host=0.0.0.0 --watch . 
+	bundle exec jekyll serve --host=0.0.0.0 --watch .
 
 Then open a web browser at http://127.0.0.1:8888.
 
+
+
+OS X
+--------------------------------------------------
+
+install ruby using brew
+
+	brew install ruby

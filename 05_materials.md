@@ -5,14 +5,18 @@ permalink: materials.html
 ---
 
 
-<p style='color: darkred; font-weight: bold; padding-right: 30%'>
-	We have received quite a bit of interest from people who want to reproduce our 
-	Duckiebots. At this point, all of our software is already open source (<a href="https://github.com/duckietown/Software">this is the main repository</a>) and all of the documentation that we produced is linked below; however, we
-	do not have a friendly "getting started" guide. 
-
+<p style='color: black; background-color: yellow; font-weight: bold; padding: 2em; font-size: larger'>
+	We are currently in the phase of updating all the documentation for the Fall 2017
+	Duckietown classes;
+	with a new Ubuntu, new Raspberry PI, new ROS, etc.; therefore we have stopped
+	maintaining this documentation. Please see <a href="http://duckietown.org">our
+	new website duckietown.org</a> for updated information. <br/>
 	<a href="http://goo.gl/forms/OxZu85WGi7">Please sign up on our mailing list</a> to be notified when things will be ready for prime time.
 </p>
 
+<!-- We have received quite a bit of interest from people who want to reproduce our
+Duckiebots. At this point, all of our software is already open source (<a href="https://github.com/duckietown/Software">this is the main repository</a>) and all of the documentation that we produced is linked below; however, we
+do not have a friendly "getting started" guide.  -->
 
 
 <style type='text/css'>
@@ -29,9 +33,9 @@ All materials should be available to everybody. If you get
 a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown.com">hr@duckietown.com</a>.
 
 
-## Basic Setup Documents 
-    
-    
+## Basic Setup Documents
+
+
 
 
 <p id="getting_started" class=""><a class="title" href="https://drive.google.com/open?id=1JRctSQTWZsZRFthPlJrxeets1SH56rQIRHsq0LvDpko"><img class='icon' src='media/gdoc.png'/>Getting Started</a> (<a href="media/pdfs/1JRctSQTWZsZRFthPlJrxeets1SH56rQIRHsq0LvDpko.pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): Start here your Duckietown experience.</p>
@@ -128,8 +132,8 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 
 
 ## Procedures and HOWTos
-    
-    
+
+
 
 
 <p id="checklist_robot_laptop_config" class=""><a class="title" href="https://drive.google.com/open?id=1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA"><img class='icon' src='media/gdoc.png'/>Checklist - Robot and laptop configuration</a> (<a href="media/pdfs/1ndGKGg1C_wbwfz3A80UUk_YhaIVP8SKkdz0GhplI1gA.pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): getting your robot and laptop configured!</p>
@@ -174,8 +178,8 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 
 
 ## The Design of Duckietown
-    
-    
+
+
 
 
 <p id="appearance_specification" class=""><a class="title" href="https://drive.google.com/open?id=1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc"><img class='icon' src='media/gdoc.png'/>Appearance Specification</a> (<a href="media/pdfs/1_DTYC7iecC51d9p3T6LrL6Dug2n8TBCh-Q7px_NaTkc.pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): This document is about the appearance rules for a consistent Duckietown. If you build your own Duckietown: if it adheres to this rule, we guarantee that our robots will work.</p>
@@ -191,9 +195,9 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 
 
 
-## Spring 2016: Documents Specific to MIT 2.166 Students 
-    
-    
+## Spring 2016: Documents Specific to MIT 2.166 Students
+
+
 
 
 <p id="accounts_guide" class=""><a class="title" href="https://docs.google.com/document/d/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM/edit?usp=sharing"><img class='icon' src='media/gdoc.png'/>Accounts guide</a> (<a href="media/pdfs/1hIZftFCZEpcvL-yp8kkYMjWzGBiNcwajdn2_ZxeirIM.pdf"><img class='icon' src='media/pdf.gif'/> static pdf</a>): This document contains instructions for how we would like you  to represent yourself online during your Duckietown experience.</p>
@@ -238,13 +242,8 @@ a permission error somewhere, please notify us, at <a href="mailto:hr@duckietown
 
 
 ## Publications
-    
-    
+
+
 
 
 <p id="icra_2017" class=""><a class="title" href="https://drive.google.com/file/d/0B49dGT7ubfmSZFJmZEJwak5hcTQ/view?usp=sharing"><img class='icon' src='media/gdoc.png'/>Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research</a> : Manuscript submitted to the International Conference on Robotics and Automation (ICRA) 2017</p>
-
-
-
-
-

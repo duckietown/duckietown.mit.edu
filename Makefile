@@ -11,9 +11,12 @@ all: $(lectures) $(documents) $(collected_pdfs)  $(roster) $(outreach)
 
 
 serve:
-	bundle exec jekyll serve --host=0.0.0.0 --watch . 
+	bundle exec jekyll serve --host=0.0.0.0 --port 4004 --watch .
 
-$(lectures): lectures.yaml 
+# serve:
+# 	jekyll serve --host=0.0.0.0 --port 4004 --watch .
+
+$(lectures): lectures.yaml
 	./generate_lectures.py "media/staff/*yaml" lectures.yaml > $@
 
 $(roster_html):
@@ -29,7 +32,7 @@ $(collected_pdfs): documents.yaml
 	./generate_pdf.py < $< > $@
 
 
-$(roster): roster.html.head $(roster_html) 
+$(roster): roster.html.head $(roster_html)
 	echo "---\nlayout: page\ntitle: People\npermalink: staff.html\n---\n\n" > $(roster)
 	cat $^ >> $(roster)
 
@@ -45,4 +48,3 @@ install-linux:
 	sudo pip install SystemCmd==1.3
 	sudo pip install PyContracts
 	sudo apt-get install pdftk
-

@@ -4,18 +4,35 @@
   {% include head.html %}
 
   <link href='https://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
-  
+
   <body>
-    
+
+<style type='text/css'>
+#banner {
+    display: block;
+    width: 100%;
+    height: 5em;
+    padding: 2em;
+    font-weight: bold;
+
+    background-color: yellow;
+    color: black;
+}
+</style>
+<div id='banner'>
+    The Duckietown experience at MIT has concluded. Now Duckietown is a global
+    effort with more than 10 universities involved in 4 continents.
+    Follow our story at our new website, <a href="http://duckietown.org">duckietown.org</a>.
+</div>
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="navbar col-md-2 no-float text-right">
                 <img style='max-width: 200px ; width:80%' src='media/duckie2.png'/>
-                {% include nav.html %}  
+                {% include nav.html %}
             </div>
 
             <div class="col-md-9 no-float middle">
-                {% if page.title != 'Home22' %} 
+                {% if page.title != 'Home22' %}
                     <h1 >{{ page.title }}</h1>
                 {% else %}
 
