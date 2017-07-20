@@ -46,8 +46,8 @@ def generate_html(documents):
 
     print("""
 
-## Basic Setup Documents 
-    
+## Basic Setup Documents
+
     """)
 
     print(generate_html_tag(documents, ['setup']))
@@ -55,7 +55,7 @@ def generate_html(documents):
     print("""
 
 ## Procedures and HOWTos
-    
+
     """)
 
     print(generate_html_tag(documents, ['procedure+howto']))
@@ -63,15 +63,15 @@ def generate_html(documents):
     print("""
 
 ## The Design of Duckietown
-    
+
     """)
 
     print(generate_html_tag(documents, ['design']))
 
     print("""
 
-## Spring 2016: Documents Specific to MIT 2.166 Students 
-    
+## Spring 2016: Documents Specific to MIT 2.166 Students
+
     """)
 
     print(generate_html_tag(documents, ['spring2016', 'modules+labs']))
@@ -79,17 +79,17 @@ def generate_html(documents):
     print("""
 
 ## Publications
-    
+
     """)
 
     print(generate_html_tag(documents, "paper"))
 
- 
+
     if False:
         print("""
 
-    ## Untagged documents 
-        
+    ## Untagged documents
+
         """)
 
         print(generate_html_tag(documents, None))
@@ -126,7 +126,7 @@ def get_id(d):
     return s
 
 def generate_html_tag(documents, tags_to_include):
-    
+
     def select(d):
         tags = d.get('tags', [])
         if tags is None:
@@ -134,9 +134,9 @@ def generate_html_tag(documents, tags_to_include):
         if tags_to_include is None:
             return len(tags) == 0
         return any([_ in tags for _ in tags_to_include])
-    
+
     selected = [d for d in documents if select(d)]
-    
+
     logger.info('tags_to_include %r: selected %d' % (tags_to_include, len(selected)))
     s = ""
     for d in selected:
@@ -160,7 +160,7 @@ def generate_html_tag(documents, tags_to_include):
         desc = desc.replace('\n', ' ')
 
         if (d['tags'] != "paper"):
-            pdf_link = '(<a href="%s">%s static pdf</a>)' % (url_pdf(d), icon_pdf())
+            pdf_link = '<span class="pdflink">(<a href="%s">%s static pdf</a>)</span>' % (url_pdf(d), icon_pdf())
         else:
             pdf_link = ''
         s += ('<p id="%s" class="%s"><a class="title" href="%s">%s%s</a> %s: ' %
@@ -174,7 +174,7 @@ def generate_html_tag(documents, tags_to_include):
 
         s += '\n\n'
     return s
-    
+
 
 logger.setLevel(logging.DEBUG)
 def add_coloring_to_emit_ansi(fn):
